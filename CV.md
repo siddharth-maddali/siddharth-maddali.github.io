@@ -28,7 +28,7 @@ permalink: /CV/
 
 | **INSTITUTION** | **DEGREE** | **MAJOR** | **PERIOD** | **PLACE** | **DESCRIPTION** |
 |:---------------:|:----------:|:---------:|:----------:|:---------:|:---------------:|
-| Carnegie Mellon University | **Doctorate (Ph.D)** | Physics | 2010 - 2016 | Pittsburgh (USA) | Computational mining of meso-scale physics from high-energy X-ray data sets |
+| Carnegie Mellon University | **Doctorate (Ph.D)** | Physics | 2010 - 2016 | Pittsburgh (USA) | [Computational mining of meso-scale physics from high-energy X-ray data sets](https://www.andrew.cmu.edu/user/suter/SMaddali_Thesis_2016_web.pdf) |
 | Carnegie Mellon University | Masters (M.S) | Physics | 2009 - 2010 | Pittsburgh (USA) | |
 | Indian Institute of Technology - Madras | Masters (M.Sc) | Physics | 2007 - 2009 | Chennai (India) | Masters' thesis: Vibrational modes of a solid sphere |
 | Bangalore university | Bachelors (B.Sc) | Physics | 2004 - 2007 | Bengaluru (India) | Triple major also included mathematics and electronics |
@@ -39,9 +39,9 @@ permalink: /CV/
    - X-ray physics, coherent diffraction imaging, ptychography
    - Characterization/imaging of materials at the meso-scale/nano-scale
    - Computational materials science and materials discovery (inverse problems, optimization, data science, machine learning)
-   - High-performance computing and cientific software development (check out my Github page)
+   - High-performance computing and scientific software development (check out my Github page)
    
-[Here]({{ site.url }}/CV.pdf) is a more complete CV that includes presentations, professional activities and a list of my publications.
+[Here]({{ site.url }}/CV.pdf) is a more complete resume/CV (pdf) that includes presentations, professional activities and a list of my publications.
 
 # Work experience
 
