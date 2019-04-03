@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dr. Siddharth Maddali's personal web site
+title: Siddharth Maddali's personal web site
 email: siddharthmv@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    This is the personal web site of Dr. Siddharth Maddali. 
+    This is the personal web site of Siddharth Maddali. 
     I am a physicist who works in X-ray imaging methods 
     for materials science. Here you will find a collection 
     of my targeted as well as random musings on issues 
