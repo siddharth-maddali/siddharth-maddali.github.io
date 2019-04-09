@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: My curriculum vitae
+title: Curriculum vitae
 ---
 
 # Work experience

@@ -1,7 +1,9 @@
 ---
 layout: cv
-title: My curriculum vitae
+title: Curriculum vitae
+mathjax: true
 ---
+{% include mathjax.html %}
 
 # Publications
 
@@ -15,7 +17,7 @@ title: My curriculum vitae
 <br/>[Computational Materials Science, 2016](https://www.sciencedirect.com/science/article/pii/S0927025616303913)
 
 1.	_Impact mitigation of angular uncertainties in Bragg coherent diffraction imaging_<br/>	Calvo-Almazan, I., Allain, M., **S. Maddali**, Chamard, V., Hruszkewycz, S. O.
-<br/>(accepted for pubilcation in \emph{Scientific Reports})
+<br/>(accepted for pubilcation in _Scientific Reports_)
 
 1.	_In-situ synchrotron x-ray studies of the microstructure and stability of In2O3 epitaxial films_<br/>	M. J. Highland, S. O. Hruszkewycz, D. D. Fong, Carol Thompson, P. H. Fuoss, I. Calvo-Almazan, **S. Maddali**, A. Ulvestad, E. Nazaretski, X. Huang, H. Yan, Y. S. Chu, H. Zhou, P. M. Baldo, J. A. Eastman
 <br/>[Applied Physics Letters, 2017](http://dx.doi.org/10.1063/1.4997773)
@@ -45,7 +47,7 @@ title: My curriculum vitae
 <br/>(under review)
 
 1.	_Multimodal X-ray imaging of grain-level properties and performance in a polycrystalline solar cell_<br/>	Ulvestad, A., Hruszkewycz, S. O., Holt, M. V., Hill, M. O., Calvo-Almazan, I., **S. Maddali**, Huang, X., Yan, H., Nazaretski, E., Chu, Y. S., Lauhon, L. J., Rodkey, N., Bertoni, M. I., Stuckelburger, M. E
-<br/>(accepted for publication in \emph{Journal of Synchrotron Radiation})
+<br/>(accepted for publication in _Journal of Synchrotron Radiation_)
 
 1.	_High-energy coherent X-ray diffraction microscopy of polycrystal grains: first steps towards a multi-scale approach_<br/>	**S. Maddali**, Park, J. -S., Sharma, H., Shastri, S. D., Kenesei, P., Almer, J., Harder, R., Highland, M. J., Nashed, Y. S. G., Hruszkewycz, S. O.
 <br/>[arXiv e-prints, 2019](https://arxiv.org/abs/1903.11815)
