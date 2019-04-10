@@ -33,7 +33,7 @@ This is in fact a very exciting, dynamic area of research, and [it's only going 
 I was also a post-doc at the National Energy Technology Laboratory in Pittsburgh, PA, where I worked on materials discovery using machine learning.
 
 
-At other times, I'm usually playing squash, swimming, looking to learn new math stuff completely orthogonal to my work, trying to achieve Linux supremacy, hacking my Android phone, contributing to open-source software or drinking new beers I come across (after all, I am from Bangalore!).
-I have a particular interest in the great outdoors and have absolutely loved every single one of my hikes, treks and visits to national and state parks atound the US.
+At other times, I'm usually playing squash, swimming, looking to learn new math stuff completely orthogonal to my work, trying to achieve Linux supremacy, hacking my Android phone, contributing to open-source software or drinking new beers I come across (after all, I am a Bangalorean!).
+I have a particular interest in the great outdoors and have absolutely loved every single one of my hikes, treks and visits to national and state parks around the US.
 I am appropriately wary of social media but nevertheless use Twitter (and other aggregators) to get my daily internet fix.
 I occasionally tweet stuff that I find interesting, but don't even bother looking for me on Facebook.

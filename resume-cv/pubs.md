@@ -17,7 +17,7 @@ mathjax: true
 <br/>[Computational Materials Science, 2016](https://www.sciencedirect.com/science/article/pii/S0927025616303913)
 
 1.	_Impact mitigation of angular uncertainties in Bragg coherent diffraction imaging_<br/>	Calvo-Almazan, I., Allain, M., **S. Maddali**, Chamard, V., Hruszkewycz, S. O.
-<br/>(accepted for pubilcation in _Scientific Reports_)
+<br/>(accepted for publication in _Scientific Reports_)
 
 1.	_In-situ synchrotron x-ray studies of the microstructure and stability of In2O3 epitaxial films_<br/>	M. J. Highland, S. O. Hruszkewycz, D. D. Fong, Carol Thompson, P. H. Fuoss, I. Calvo-Almazan, **S. Maddali**, A. Ulvestad, E. Nazaretski, X. Huang, H. Yan, Y. S. Chu, H. Zhou, P. M. Baldo, J. A. Eastman
 <br/>[Applied Physics Letters, 2017](http://dx.doi.org/10.1063/1.4997773)
@@ -28,7 +28,7 @@ mathjax: true
 1.	_Using automatic differentation as a general framework for ptychographic reconstruction_<br/>	Kandel, S., **S. Maddali**, Allain, M., Hruszkewycz, S. O., Jacobsen, C., Nashed, Youssef S. G.
 <br/>[arXiv e-prints, 2019](https://arxiv.org/abs/1902.03920)
 
-1.	_9Cr steel visualization and predictive modeling_<br/>	Krishnamurthy, N.,, **S. Maddali**, Hawk, J. A., Romanov, V. N.
+1.	_9Cr steel visualization and predictive modeling_<br/>	Krishnamurthy, N., **S. Maddali**, Hawk, J. A., Romanov, V. N.
 <br/>[Computational Materials Science, 2019](http://www.sciencedirect.com/science/article/pii/S0927025619301466)
 
 1.	_Predictive analysis of the influence of the chemical composition and pre-processing regimen on structural properties of steel alloys using machine learning techniques._<br/>	N. Krishnamurthy, **S. Maddali**, V. Romanov, J. Hawk
