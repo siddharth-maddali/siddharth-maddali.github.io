@@ -25,7 +25,6 @@ I spend most of my time figuring out new ways to image things down to a few nano
 Being able to see what bunches of atoms are doing (a few thousand in a bunch) without destroying what you're looking at is important if you're a scientist or an engineer designing a new material, or just trying to understand materials better.
 This includes people who design new alloys and want to know how it will behave when you strain or heat it, or scientists studying battery cathodes or catalytic particles in action.
 
-Phew. 
 Anyway, this makes Argonne one of the best places for materials research, because of their [giant X-ray scattering facility](https://www.aps.anl.gov/), for which I'm currently designing new experiments.
 A lot this work is just me sitting at a desk simulating such diffraction experiments for different materials, with the occasional week-long experiment at the Advanced Photon Source.
 I absolutely love the fact that I work a field that involves using a wide range of skills.
