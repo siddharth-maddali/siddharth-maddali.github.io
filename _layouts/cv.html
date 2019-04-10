@@ -19,78 +19,75 @@
 			<style>
 				table, th, td { border: 1px solid black; }
 			</style>
-			<meta name="viewport" content="width=device-width, initial-scale=1">
-				<style>
-					body {
-					  font-family: "Lato", sans-serif;
-					}
-					
-					.sidenav {
-					  width: 250px;
-					  position: fixed;
-					  z-index: 1;
-					  top: 20px;
-					  left: 10px;
-					  background: #eee;
-					  overflow-x: hidden;
-					  padding: 8px 0;
-					}
-					
-					.sidenav a {
-					  padding: 6px 8px 6px 16px;
-					  text-decoration: none;
-					  font-size: 18px;
-					  color: #2196F3;
-					  display: block;
-					}
-					
-					.sidenav a:hover {
-					  color: #064579;
-					}
-					
-					.container {
-					  margin-left: 100px; /* Same width as the sidebar + left position in px */
-					  font-size: 15px; /* Increased text to enable scrolling */
-					  padding: 0px 10px;
-					}
-					
-					@media screen and (max-height: 450px) {
-					  .sidenav {padding-top: 15px;}
-					  .sidenav a {font-size: 18px;}
-					}
-				</style>
-			{% seo %} 
+			{% seo %}
 		</head>
 		<body>
-			<div class="sidenav">
-				<img 
-	    			src="{{ site.url }}/images/profilepic.png"
-					align="middle"
-				    width="175"
-					style="margin: 0px 30px">
-				<table border="0"><tr>
-						<th><a href="{{ site.url }}/index"><img src="{{ site.url }}/images/Home.svg" width="30" title="Home"></a></th>
-						<th><a href="mailto:smaddali@alumni.cmu.edu"><img src="{{ site.url }}/images/Mail.svg" width="30" title="E-mail"></a></th>
-						<th><a href="https://twitter.com/SidDarthious"><img src="{{ site.url }}/images/Twitter.svg" width="30" title="Twitter"></a></th>
-						<th><a href="https://www.linkedin.com/in/siddharthmaddali/"><img src="{{ site.url }}/images/LinkedIN.svg" width="30" title="LinkedIN"></a></th>
-					</tr>
-				</table>
-				<br>
-				<h2>Siddharth Maddali</h2>
-				<a href="{{ site.url }}/resume-cv/education"><b>Education</b></a>
-				<a href="{{ site.url }}/resume-cv/workex"><b>Work experience</b></a>
-				<a href="{{ site.url }}/resume-cv/resint"><b>Research interests</b></a>
-				<a href="{{ site.url }}/resume-cv/softproj"><b>Computational projects</b></a>
-				<a href="{{ site.url }}/resume-cv/pubs"><b>Publications</b></a>
-				<a href="{{ site.url }}/resume-cv/presentations"><b>Talks/posters</b></a>
-				<a href="{{ site.url }}/resume-cv/workshops"><b>Workshops attended</b></a>
-				<a href="{{ site.url }}/resume-cv/professional"><b>Professional activity</b></a>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/about">About</a></li>
+					<li><a href="/resume-cv/education">Resume/CV</a></li>
+					<li><a href="mailto:siddharthmv@gmail.com"><img src="{{ site.url }}/images/Mail.svg" width="4%"></a></li>
+					<li><a href="https://github.com/siddharth-maddali"><img src="{{ site.url }}/images/Github.svg" width="4%"></a></li>
+					<li><a href="https://twitter.com/SidDarthious"><img src="{{ site.url }}/images/Twitter.svg" width="4%"></a></li>
+					<li><a href="https://www.linkedin.com/in/siddharthmaddali/"><img src="{{ site.url }}/images/LinkedIN.svg" width="4%"></a></li>
+					<li><a href="https://arxiv.org/search/?query=Maddali%2C+S&searchtype=all&abstracts=show&order=-announced_date_first&size=50"><img src="{{ site.url }}/images/ArXiv.svg" width="5%"></a></li>
+
+					<!--<li><a href="/blog">Blog</a></li>-->
+	    		</ul>
+			</nav>
+			<h1>Siddharth Maddali, Ph.D</h1>
+			<img 
+    			src="{{ site.url }}/images/profilepic.png"
+			    width="125"
+			    align="left"
+			    style="margin: 0px 30px"
+			    >
+			<table style="width:70%">
+				<tr>
+					<th>Post-doctoral researcher</th>
+					<th>E-mail: <a href="mailto:smaddali@anl.gov">smaddali@anl.gov</a></th>
+				</tr>
+				<tr>
+					<td align="center">Argonne National Laboratory</td>
+					<td align="center"><b>E-mail (alt)</b>: <a href="mailto:smaddali@alumni.cmu.edu">smaddali@alumni.cmu.edu</a></td>
+				</tr>
+				<tr>
+					<td align="center">US Department of Energy, UChicago Argonne LLC</td>
+					<td align="center"><b>Website</b>: <a href="https://siddharth-maddali.github.io">https://siddharth-maddali.github.io</a></td>
+				</tr>
+				<tr>
+					<td align="center">Chicago, IL (USA)</td>
+					<td align="center"><b>Phone</b>: +1 (412) 450-0639</td>
+				</tr>
+			</table>
+			<br><br><br><br>
+			<div style="width:100%">
+				<ul>
+					<li><a href="{{ site.url }}/resume-cv/education"><b>Education</b></a></li>
+					<li><a href="{{ site.url }}/resume-cv/workex"><b>Work experience</b></a></li>
+					<li><a href="{{ site.url }}/resume-cv/resint"><b>Research interests</b></a></li>
+					<li><a href="{{ site.url }}/resume-cv/softproj"><b>Computational projects</b></a></li>
+					<li><a href="{{ site.url }}/resume-cv/pubs"><b>Publications</b></a></li>
+					<li><a href="{{ site.url }}/resume-cv/presentations"><b>Talks/posters</b></a></li>
+					<li><a href="{{ site.url }}/resume-cv/workshops"><b>Workshops attended</b></a></li>
+					<li><a href="{{ site.url }}/resume-cv/professional"><b>Professional activity</b></a></li>
+				</ul>
 			</div>
 			<div class="container">
 			
 			{{ content }}
 			
 			</div><!-- /.container -->
+<!--			<footer>
+	    		<ul>
+					<li><a href="mailto:siddharthmv@gmail.com"><img src="{{ site.url }}/images/Mail.svg" width="5%"></a></li>
+					<li><a href="https://github.com/siddharth-maddali"><img src="{{ site.url }}/images/Github.svg" width="5%"></a></li>
+					<li><a href="https://twitter.com/SidDarthious"><img src="{{ site.url }}/images/Twitter.svg" width="5%"></a></li>
+					<li><a href="https://www.linkedin.com/in/siddharthmaddali/"><img src="{{ site.url }}/images/LinkedIN.svg" width="5%"></a></li>
+					<li><a href="https://arxiv.org/search/?query=Maddali%2C+S&searchtype=all&abstracts=show&order=-announced_date_first&size=50"><img src="{{ site.url }}/images/ArXiv.svg" width="7%"></a></li>
+				</ul>
+			</footer>		-->
 		</body>
 	</html>
 
