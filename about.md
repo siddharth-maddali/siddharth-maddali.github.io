@@ -17,8 +17,8 @@ I currently live in Chicago, IL and I'm a physicist at Argonne National Laborato
 If you go back far enough, I'm originally from Bengaluru, India but I've done a bit of bouncing between the south and the west of India while growing up. 
 I was born in Bangalore, but grew up in Pune and I've now established roots back in Bangalore again.
 
-My interest in all forms of applied mathematics really began when I was about 16, as you can probably tell from that groan-inducing [$\left\langle e^{tx} \right\rangle$ title joke](https://en.wikipedia.org/wiki/Moment-generating_function).
-My [career trajectory]({{site.url}}/resume-cv/education) in physics has since been fairly uni-directional ever since, with thankfully little happening to make me change my mind and pivot elsewhere...so far!
+I'm a sucker for all things applied math, as you can probably tell from that groan-inducing [$\left\langle e^{tx} \right\rangle$ title joke](https://en.wikipedia.org/wiki/Moment-generating_function).
+My [career trajectory]({{site.url}}/resume-cv/education) in physics has since been fairly uni-directional ever since high school, with thankfully little happening to make me change my mind and pivot elsewhere...so far!
 
 My broad area of expertise is X-ray imaging and computational materials science which happen to be highly inter-disciplinary fields. 
 I spend most of my time figuring out new ways to image things down to a few nanometers by shining X-rays on them.
