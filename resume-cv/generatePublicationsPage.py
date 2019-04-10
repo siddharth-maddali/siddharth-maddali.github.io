@@ -17,8 +17,22 @@ with open( 'pubs.md', 'w' ) as pubspage:
 
     with open( 'publication.bib' ) as bibfile:
         data = bibparse.load( bibfile ).entries_dict
-
+        
+        sortKey = []
         for key in data.keys():
+            yearkey = 'year' if 'year' in data[ key ].keys() else 'Year'
+            sortKey.extend( [ [ int( data[ key ][ yearkey ] ), key ] ] )
+
+        sortKey = list( np.array( sorted( sortKey, key=lambda x:x[0] ) )[::-1] )
+            # print publications in reverse chronological order
+        thisYear = 'dummy'
+
+        for n in list( range( len( sortKey ) ) ):
+            if sortKey[n][0]!= thisYear:
+                thisYear = sortKey[n][0]
+                pubspage.write( '## **%s**\n\n'%thisYear )
+
+            key = sortKey[n][1]
             print( key )
             pubspage.write( '1.\t_%s_<br/>'%( data[ key ][ 'title' ] ) )
             pubspage.write( '\t%s\n<br/>'%( 
@@ -35,7 +49,7 @@ with open( 'pubs.md', 'w' ) as pubspage:
                 if 'journal' in data[ key ].keys():
                     pubspage.write( '[%s, %s](%s)\n'%( 
                             data[ key ][ 'journal' ], 
-                            data[ key ][ 'year' ], 
+                            data[ key ][ yearkey ], 
                             data[ key ][ 'url' ]
                         )
                     )
