@@ -5,6 +5,15 @@ mathjax: true
 ---
 {% include mathjax.html %}
 
+<img 
+	src="{{ site.url }}/images/titleBanner.jpg" 
+	align="left" 
+	width="450" 
+	style="margin:0px 30px"
+	title="McKay Cove, Pacific Highway 1, CA"
+	>
+
+
 # `siddharth-maddali.github.io`
 
 Hello. 
