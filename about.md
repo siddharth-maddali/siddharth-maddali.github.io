@@ -28,7 +28,7 @@ This includes people who design new alloys and want to know how it will behave w
 Anyway, this makes Argonne one of the best places for materials research, because of their [giant X-ray scattering facility](https://www.aps.anl.gov/), for which I'm currently designing new experiments.
 A lot this work is just me sitting at a desk simulating such diffraction experiments for different materials, with the occasional week-long experiment at the Advanced Photon Source.
 I absolutely love the fact that I work a field that involves using a wide range of skills.
-This is in fact a very exciting, dynamic area of research, and [it's only going to get better](https://www.aps.anl.gov/APS-Upgrade)!
+This is in fact a very exciting, dynamic area of research, and [it's only going to get better](https://www.aps.anl.gov/APS-Upgrade/News/DOE-approves-technical-plan-and-cost-estimate-to-upgrade-Argonne-facility)!
 
 I was also a post-doc at the National Energy Technology Laboratory in Pittsburgh, PA, where I worked on materials discovery using machine learning.
 
@@ -37,3 +37,14 @@ At other times, I'm usually playing squash, swimming, looking to learn new math 
 I have a particular interest in the great outdoors and have absolutely loved every single one of my hikes, treks and visits to national and state parks around the US.
 I am appropriately wary of social media but nevertheless use Twitter (and other aggregators) to get my daily internet fix.
 I occasionally tweet stuff that I find interesting, but don't even bother looking for me on Facebook.
+
+<center><img 
+	src="{{ site.url }}/images/couple.jpg" 
+	width="300"
+	style="margin:0px 30px"
+	title="Ranjini and me, somewhere along the California coast">
+</center>
+
+My wife Ranjini is from Kochi, India, a mathematician by training, a data scientist by trade and a Carnatic music enthusiast.
+We met in Chennai as students way back in 2007.
+

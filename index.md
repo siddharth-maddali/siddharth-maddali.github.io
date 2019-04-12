@@ -10,7 +10,7 @@ mathjax: true
 	align="left" 
 	width="450" 
 	style="margin:0px 30px"
-	title="McKay Cove, Pacific Highway 1, CA"
+	title="McKay Cove, Pacific Highway 1, California"
 	>
 
 
