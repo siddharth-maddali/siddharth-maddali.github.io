@@ -42,9 +42,9 @@ I occasionally tweet stuff that I find interesting, but don't even bother lookin
 	src="{{ site.url }}/images/couple.jpg" 
 	width="300"
 	style="margin:0px 30px"
-	title="Ranjini and me, somewhere along the California coast">
+	title="Somewhere along the California coast">
 </center>
 
-My wife Ranjini is from Kochi, India, a mathematician by training, a data scientist by trade and a Carnatic music enthusiast.
+My wife Ranjini is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
 We met in Chennai as students way back in 2007.
 
