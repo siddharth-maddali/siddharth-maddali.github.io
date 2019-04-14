@@ -19,6 +19,7 @@
 			<style>
 				table, th, td { border: 1px solid black; }
 			</style>
+			{% include resume-nav-head.html %}
 			{% seo %}
 		</head>
 		<body>
@@ -49,18 +50,7 @@
 				</tr>
 			</table>
 			<br><br><br><br>
-			<div style="width:100%">
-				<ul>
-					<li><a href="{{ site.url }}/resume-cv/education"><b>Education</b></a></li>
-					<li><a href="{{ site.url }}/resume-cv/workex"><b>Work experience</b></a></li>
-					<li><a href="{{ site.url }}/resume-cv/resint"><b>Research interests</b></a></li>
-					<li><a href="{{ site.url }}/resume-cv/softproj"><b>Computational projects</b></a></li>
-					<li><a href="{{ site.url }}/resume-cv/pubs"><b>Publications</b></a></li>
-					<li><a href="{{ site.url }}/resume-cv/presentations"><b>Talks/posters</b></a></li>
-					<li><a href="{{ site.url }}/resume-cv/workshops"><b>Workshops attended</b></a></li>
-					<li><a href="{{ site.url }}/resume-cv/professional"><b>Professional activity</b></a></li>
-				</ul>
-			</div>
+			{% include resume-nav-body.html %}
 			<div class="container">
 			
 			{{ content }}

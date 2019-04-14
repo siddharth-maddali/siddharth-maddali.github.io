@@ -1,7 +1,9 @@
 ---
 layout: cv
 title: Curriculum vitae
+mathjax: true
 ---
+{% include mathjax.html %}
 
 # Work experience
 
