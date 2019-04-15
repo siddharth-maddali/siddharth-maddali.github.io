@@ -1,11 +1,21 @@
 <nav>
 	<ul>
-	{% for item in site.data.navigation %}
-		<li>
-			<a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
-			{{ item.name }}
- 					</a>
-		</li>
-			{% endfor %}
+		{% for item in site.data.social %}
+			<li>
+				<a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+				{{ item.name }}
+	 					</a>
+			</li>
+		{% endfor %}
+		<br/>
+		<br/>
+		<br/>
+		{% for item in site.data.navigation %}
+			<li>
+				<a href="{{ item.link }}" style="font-size:22px;">
+				{{ item.name }}
+	 			</a>
+			</li>
+		{% endfor %}
 	</ul>
 </nav>

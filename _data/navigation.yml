@@ -3,16 +3,7 @@
 - name: About me
   link: /about
 - name: Resume/CV
-  link: /resume-cv/education
+  link: /resume-cv/resume
 - name: Blog
   link: /blog.html
-- name: <img src="/images/Mail.svg" width="4%">
-  link: mailto:siddharthmv@gmail.com
-- name: <img src="/images/Github.svg" width="4%">
-  link: https://github.com/siddharth-maddali
-- name: <img src="/images/Twitter.svg" width="4%">
-  link: https://twitter.com/SidDarthious
-- name: <img src="/images/LinkedIN.svg" width="4%">
-  link: https://www.linkedin.com/in/siddharthmaddali
-- name: <img src="/images/ArXiv.png" width="4%">
-  link: https://arxiv.org/a/0000-0003-4516-6250.html
+

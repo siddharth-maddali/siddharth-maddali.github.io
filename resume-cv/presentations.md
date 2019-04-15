@@ -3,7 +3,7 @@ layout: cv
 title: Curriculum vitae
 ---
 
-# Talks/posters
+# Presentations
 
 | **WHEN** | **WHERE** | **CONFERENCE/PROGRAM** | **DESCRIPTION** |
 |:--------:|:---------:|:----------------------:|:---------------:|
@@ -13,7 +13,7 @@ title: Curriculum vitae
 | May 2018 | Pittsburgh, PA | Department of Physics Seminar Series, Carnegie Mellon University | Invited talk |
 | April 2018 | Phoenix, AZ | Materials Research Society (MRS) | Talk |
 | July-August 2017 | Easton, MA | Gordon X-ray Science Conference and Seminar | Poster + Discussion leader |
-| November 2015 | Atlanta, GA | Department of Mathematica Seminar, Georgia Institute of Technology | Talk |
+| November 2015 | Atlanta, GA | Department of Mathematics Seminar, Georgia Institute of Technology | Talk |
 | March 2015 | Orlando, FL | The Minerals, Metals & Materials Society (TMS) | Poster | 
 | October 2014 | Pittsburgh, PA | Materials Science & Technology (MS&T) | Talk |
 | October 2012 | Pittsburgh, PA | Materials Science & Technology (MS&T) | Poster |

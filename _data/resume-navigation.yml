@@ -1,16 +1,16 @@
-- name: Education
-  link: /resume-cv/education
-- name: Work experience
-  link: /resume-cv/workex
 - name: Research interests
-  link: /resume-cv/resint
-- name: Computational projects
-  link: /resume-cv/softproj
+  link: /resume-cv/resume#resint
+- name: Work experience
+  link: /resume-cv/resume#workex
+- name: Education
+  link: /resume-cv/resume#education
 - name: Publications
-  link: /resume-cv/pubs
+  link: /resume-cv/resume#pubs
+- name: Computational projects
+  link: /resume-cv/resume#softproj
 - name: Presentations
-  link: /resume-cv/presentations
+  link: /resume-cv/resume#presentations
 - name: Workshops attended
-  link: /resume-cv/workshops
+  link: /resume-cv/resume#workshops
 - name: Professional activity
-  link: /resume-cv/professional
+  link: /resume-cv/resume#professional
