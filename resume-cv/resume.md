@@ -3,14 +3,23 @@ layout: cv
 title: Curriculum vitae
 mathjax: true
 ---
+{% include resume-nav-body.html %}
 {% include mathjax.html %}
 
-# <a name="resint"></a>Research interests
+<a name="resint"></a>
+# Research interests
 
-   - X-ray physics, coherent diffraction imaging, ptychography
-   - Characterization/imaging of materials at the meso-scale/nano-scale
-   - Computational materials science and materials discovery (inverse problems, optimization, data science, machine learning)
-   - High-performance computing and scientific software development (check out [my Github page](https://github.com/siddharth-maddali))
+   1. Diffraction-based imaging of materials:
+		- High-energy diffraction microscopy
+		- Coherent diffraction imaging
+		- Ptychography
+		- Computational methods (signal processing, compressed sensing)
+   1. Condensed matter physics
+		- Crystallography
+   		- Micro- and nano-structure characterization
+		- Grain boundary geometry, topology and dynamics
+		- Materials discovery with data science and machine learning
+   1.  High-performance computing and scientific software development (check out [my Github page](https://github.com/siddharth-maddali))
 
 # <a name="workex"></a>Work experience
 
@@ -129,4 +138,17 @@ mathjax: true
 	* The Minerals, Metals & Materials Society (TMS)
 
 
-
+<script>
+	window.onscroll = function() {myFunction()};
+	
+	var navbar = document.getElementById("navbar");
+	var sticky = navbar.offsetTop;
+	
+	function myFunction() {
+		if (window.pageYOffset >= sticky) {
+			navbar.classList.add("sticky")
+		} else {
+			navbar.classList.remove("sticky");
+		}
+	}
+</script>
