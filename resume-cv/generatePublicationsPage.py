@@ -4,14 +4,14 @@ import bibtexparser as bibparse
 import re   # for regular expression parsing
 
 
-with open( 'pubs.md', 'w' ) as pubspage:
-    # header
-    pubspage.write( '---\n' )
-    pubspage.write( 'layout: cv\n' )
-    pubspage.write( 'title: Curriculum vitae\n' )
-    pubspage.write( 'mathjax: true\n' )
-    pubspage.write( '---\n{% include mathjax.html %}\n\n' )
-    pubspage.write( '# Publications\n\n' )
+with open( '../_includes/pubs.md', 'w' ) as pubspage:
+#    # header
+#    pubspage.write( '---\n' )
+#    pubspage.write( 'layout: cv\n' )
+#    pubspage.write( 'title: Curriculum vitae\n' )
+#    pubspage.write( 'mathjax: true\n' )
+#    pubspage.write( '---\n{% include mathjax.html %}\n\n' )
+#    pubspage.write( '# Publications\n\n' )
 
 
 

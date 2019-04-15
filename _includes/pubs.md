@@ -1,12 +1,3 @@
----
-layout: cv
-title: Curriculum vitae
-mathjax: true
----
-{% include mathjax.html %}
-
-# Publications
-
 ## **2019**
 
 1.	_Multimodal X-ray imaging of grain-level properties and performance in a polycrystalline solar cell_<br/>	Ulvestad, A., Hruszkewycz, S. O., Holt, M. V., Hill, M. O., Calvo-Almazan, I., **S. Maddali**, Huang, X., Yan, H., Nazaretski, E., Chu, Y. S., Lauhon, L. J., Rodkey, N., Bertoni, M. I., Stuckelburger, M. E
