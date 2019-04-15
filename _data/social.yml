@@ -1,10 +1,10 @@
-- name: <img src="/images/Mail.svg" width="4%">
+- name: <img src="/images/Mail.svg">
   link: mailto:siddharthmv@gmail.com
-- name: <img src="/images/Github.svg" width="4%">
+- name: <img src="/images/Github.svg">
   link: https://github.com/siddharth-maddali
-- name: <img src="/images/Twitter.svg" width="4%">
+- name: <img src="/images/Twitter.svg">
   link: https://twitter.com/SidDarthious
-- name: <img src="/images/LinkedIN.svg" width="4%">
+- name: <img src="/images/LinkedIN.svg">
   link: https://www.linkedin.com/in/siddharthmaddali
-- name: <img src="/images/ArXiv.png" width="4%">
+- name: <img src="/images/ArXiv.png" width="7%">
   link: https://arxiv.org/a/0000-0003-4516-6250.html

@@ -6,22 +6,22 @@ mathjax: true
 {% include resume-nav-body.html %}
 {% include mathjax.html %}
 
-<a name="resint"></a>
-# Research interests
 
-   1. Diffraction-based imaging of materials:
-		- High-energy diffraction microscopy
-		- Coherent diffraction imaging
-		- Ptychography
-		- Computational methods (signal processing, compressed sensing)
-   1. Condensed matter physics
-		- Crystallography
-   		- Micro- and nano-structure characterization
-		- Grain boundary geometry, topology and dynamics
-		- Materials discovery with data science and machine learning
-   1.  High-performance computing and scientific software development (check out [my Github page](https://github.com/siddharth-maddali))
+# <a name="resint"></a>Research interests <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
 
-# <a name="workex"></a>Work experience
+1. Diffraction-based imaging of materials
+	- High-energy diffraction microscopy
+	- Coherent diffraction imaging
+	- Ptychography
+	- Computational imaging (signal processing, compressed sensing)
+1. Condensed matter physics
+	- Crystallography
+	- Micro- and nano-structure characterization
+	- Grain boundary geometry, topology and dynamics
+	- Materials discovery with data science/machine learning
+1.  High-performance computing and scientific software development (check out [my Github page](https://github.com/siddharth-maddali))
+
+# <a name="workex"></a>Work experience <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
 
 | **POSITION** | **INSTITUTION/COMPANY** | **SPECIALIZATION** | **PERIOD** |
 |:------------:|:-----------------------:|:------------------:|:----------:|
@@ -31,16 +31,16 @@ mathjax: true
 | Graduate teaching assistant | Carnegie Mellon University | Physics for science undergraduates | 2009 - 2012 |
 | Intern, dept. of physics | National University of Singapore | Audio signal processing | May 2008 |
 
-# <a name="education"></a>Education
+# <a name="education"></a>Education <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
 
 | **INSTITUTION** | **DEGREE** | **MAJOR** | **PERIOD** | **PLACE** | **DESCRIPTION** |
 |:---------------:|:----------:|:---------:|:----------:|:---------:|:---------------:|
-| Carnegie Mellon University | **Doctorate (Ph.D)** | Physics | 2010 - 2016 | Pittsburgh (USA) | Doctoral dissertation: [Computational mining of meso-scale physics from high-energy X-ray data sets](https://kilthub.cmu.edu/articles/Computational_Mining_of_Meso-Scale_Physics_From_High-Energy_X-Ray_Data_Sets/6715259/1) |
-| Carnegie Mellon University | Masters (M.S) | Physics | 2009 - 2010 | Pittsburgh (USA) | |
-| Indian Institute of Technology - Madras | Masters (M.Sc) | Physics | 2007 - 2009 | Chennai (India) | Masters' thesis: Vibrational modes of a solid sphere |
-| Bangalore university | Bachelors (B.Sc) | Physics | 2004 - 2007 | Bengaluru (India) | Triple major also included mathematics and electronics |
+| Carnegie Mellon University | **Doctor of Philosophy (Ph.D)** | Physics | 2010 - 2016 | Pittsburgh (USA) | Doctoral dissertation: [Computational mining of meso-scale physics from high-energy X-ray data sets](https://kilthub.cmu.edu/articles/Computational_Mining_of_Meso-Scale_Physics_From_High-Energy_X-Ray_Data_Sets/6715259/1) |
+| Carnegie Mellon University | Master of Science (M.S) | Physics | 2009 - 2010 | Pittsburgh (USA) | |
+| Indian Institute of Technology - Madras | Master of Science (M.Sc) | Physics | 2007 - 2009 | Chennai (India) | Masters' thesis: Vibrational modes of a solid sphere |
+| Bangalore university | Bachelor of Science (B.Sc) | Physics | 2004 - 2007 | Bengaluru (India) | Triple major also included mathematics and electronics |
 
-# <a name="pubs"></a>Publications
+# <a name="pubs"></a>Publications <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
 
 ## **2019**
 
@@ -95,7 +95,7 @@ mathjax: true
 1.	_Topology-faithful nonparametric estimation and tracking of bulk interface networks_<br/>	**S. Maddali**, S. Ta'asan, R. M. Suter
 <br/>[Computational Materials Science, 2016](https://www.sciencedirect.com/science/article/pii/S0927025616303913)
 
-# <a name="softproj"></a>Computational projects
+# <a name="softproj"></a>Computational projects <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
 
 | **NAME** | **LANGUAGE(S)** | **HARDWARE** | **DESCRIPTION** |
 |:--------:|:---------------:|:------------:|:---------------:|
@@ -104,7 +104,7 @@ mathjax: true
 | [Phaser](https://github.com/siddharth-maddali/Phaser) | Python, Tensorflow | CPU, GPU | A Python module for BCDI reconstructions |
 | MicAlign | C++, MPI | CPU | A small, parallelized image registration program for 2D microstructure images obtained from high-energy diffraction microscopymeasurements |
 
-# <a name="presentations"></a>Presentations
+# <a name="presentations"></a>Presentations <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
 
 | **WHEN** | **WHERE** | **CONFERENCE/PROGRAM** | **DESCRIPTION** |
 |:--------:|:---------:|:----------------------:|:---------------:|
@@ -119,13 +119,13 @@ mathjax: true
 | October 2014 | Pittsburgh, PA | Materials Science & Technology (MS&T) | Talk |
 | October 2012 | Pittsburgh, PA | Materials Science & Technology (MS&T) | Poster |
 
-# <a name="workshops"></a>Workshops attended
+# <a name="workshops"></a>Workshops attended <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
 
 1. Multi-physics Object-Oriented Simulation Environment ([MOOSE](https://mooseframework.org/)) - Orlando, FL
 1. Center for Causal Discovery ([CCD](https://www.ccd.pitt.edu/)) - Pittsburgh, PA
 1. Machine Learning for Materials Research ([MLMR](https://www.nanocenter.umd.edu/events/mlmr/)) - College Park, MD
 
-# <a name="professional"></a>Professional activity
+# <a name="professional"></a>Professional activity <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
 
 1. **Peer review**
 	* _Philosophical Magazine_
@@ -137,7 +137,7 @@ mathjax: true
 	* Materials Research Society (MRS)
 	* The Minerals, Metals & Materials Society (TMS)
 
-
+<!--
 <script>
 	window.onscroll = function() {myFunction()};
 	
@@ -152,3 +152,4 @@ mathjax: true
 		}
 	}
 </script>
+-->
