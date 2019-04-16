@@ -9,7 +9,7 @@ mathjax: true
 # I may not be $\left\langle e^{tx}\right\rangle$, but I have my moments...
 
 <img 
-	src="{{ site.url }}/images/profilepic.png" 
+	src="{{ site.url }}/images/me.png" 
 	width="300"
 	align="left" 
 	style="margin:0px 30px">
@@ -40,9 +40,9 @@ I occasionally tweet stuff that I find interesting, but don't even bother lookin
 
 <center><img 
 	src="{{ site.url }}/images/couple.jpg" 
-	width="300"
+	width="600"
 	style="margin:0px 30px"
-	title="Somewhere along the California coast">
+	title="Matanuska glacier, Alaska">
 </center>
 
 My wife Ranjini is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
