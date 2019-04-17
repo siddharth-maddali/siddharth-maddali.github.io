@@ -10,9 +10,11 @@ mathjax: true
 
 <img 
 	src="{{ site.url }}/images/me.png" 
-	width="300"
+	width="300" 
 	align="left" 
-	style="margin:0px 30px">
+	style="margin:0px 50px" 
+	title="Me discovering that I like Matcha green tea ice cream">
+
 I currently live in Chicago, IL and I'm a physicist at Argonne National Laboratory.
 If you go back far enough, I'm originally from Bengaluru, India but I've done a bit of bouncing between the south and the west of India while growing up. 
 I was born in Bangalore, but grew up in Pune and I've now established roots back in Bangalore again.
