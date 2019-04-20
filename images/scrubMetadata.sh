@@ -8,7 +8,7 @@
 #######################################################
 
 if [ $# -ne 2 ]; then
-	echo "Usage: ./scrubMetadata.sh <image_filename> <current year>"
+	echo "Usage: ./scrubMetadata.sh <image_filename> <current_year>"
 	exit 1
 fi
 
