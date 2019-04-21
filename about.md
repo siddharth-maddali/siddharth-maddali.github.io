@@ -8,12 +8,10 @@ mathjax: true
 
 # I may not be $\left\langle e^{tx}\right\rangle$, but I have my moments...
 
-<img 
-	src="{{ site.url }}/images/me.png" 
-	width="300" 
-	align="left" 
-	style="margin:0px 50px" 
-	title="Me discovering that I like Matcha green tea ice cream">
+<table class="image" align="left" width="350">
+<tr><td text-align="center"><img src="{{ site.url }}/images/me.png" width="325" align="left" style="margin:0px 20px" ></td></tr>
+<tr><td class="caption" align="center">Me discovering that I like Matcha green tea ice cream</td></tr>
+</table>
 
 I currently live in Chicago, IL and I'm a physicist at Argonne National Laboratory.
 If you go back far enough, I'm originally from Bengaluru, India but I've done a bit of bouncing between the south and the west of India while growing up. 
@@ -40,12 +38,10 @@ I have a particular interest in the great outdoors and have absolutely loved eve
 I am appropriately wary of social media but nevertheless use Twitter (and other aggregators) to get my daily internet fix.
 I occasionally tweet stuff that I find interesting, but don't even bother looking for me on Facebook.
 
-<center><img 
-	src="{{ site.url }}/images/couple.jpg" 
-	width="600"
-	style="margin:0px 30px"
-	title="Matanuska glacier, Alaska">
-</center>
+<table class="image" align="center">
+<tr><td><img src="{{ site.url }}/images/couple.jpg" width="600" style="margin:0px 30px"></td></tr>
+<tr><td class="caption" align="center">Matanuska glacier, Alaska</td></tr>
+</table>
 
 My wife Ranjini is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
 We met in Chennai as students way back in 2007.
