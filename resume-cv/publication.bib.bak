@@ -93,15 +93,19 @@ is otherwise intractable.},
   Url                      = {https://www.sciencedirect.com/science/article/pii/S0927025616303913}
 }
 
-@Article{Calvo-Almazan,
-  Title                    = {Impact mitigation of angular uncertainties in Bragg coherent diffraction imaging},
-  Author                   = {Calvo-Almazan, I. and Allain, M. and \textbf{S. Maddali} and Chamard, V. and Hruszkewycz, S. O.},
-  Journal                  = {Scientific Reports (accepted)},
+@Article{Calvo-Almazan2019,
+  Title                    = {Impact and mitigation of angular uncertainties in Bragg coherent x-ray diffraction imaging},
+  Author                   = {Calvo-Almaz\{\'a\}n, I. and Allain, M. and \textbf{S. Maddali} and Chamard, V. and Hruszkewycz, S. O.},
+  Journal                  = {Scientific Reports},
   Year                     = {2019},
-  Note                     = {(accepted for publication in \emph{Scientific Reports})},
+  Number                   = {1},
+  Pages                    = {6386},
+  Volume                   = {9},
 
-  Owner                    = {smaddali},
-  Timestamp                = {2018.11.29}
+  Abstract                 = {Bragg coherent diffraction imaging (BCDI) is a powerful technique to explore the local strain state and morphology of microscale crystals. The method can potentially reach nanometer-scale spatial resolution thanks to the advances in synchrotron design that dramatically increase coherent flux. However, there are experimental bottlenecks that may limit the image reconstruction quality from future high signal-to-noise ratio measurements. In this work we show that angular uncertainty of the sample orientation with respect to a fixed incoming beam is one example of such a factor, and we present a method to mitigate the resulting artifacts. On the basis of an alternative formulation of the forward problem, we design a phase retrieval algorithm which enables the simultaneous reconstruction of the object and determination of the exact angular position corresponding to each diffraction pattern in the data set. We have tested the algorithm performance on simulated data for different degrees of angular uncertainty and signal-to-noise ratio.},
+  Doi                      = {10.1038/s41598-019-42797-4},
+  ISSN                     = {2045-2322},
+  Url                      = {https://doi.org/10.1038/s41598-019-42797-4}
 }
 
 @Article{Highland2017,
