@@ -16,11 +16,9 @@
 title: Siddharth Maddali's personal web site
 email: siddharthmv@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    This is the personal web site of Siddharth Maddali. 
-    I am a physicist who works in X-ray imaging methods 
-    for materials science. Here you will find a collection 
-    of my targeted as well as random musings on issues 
-    that interest me.
+    The personal web site of Siddharth Maddali, 
+    physicist who works in X-ray imaging and 
+    computational materials science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://siddharth-maddali.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SidDarthious
