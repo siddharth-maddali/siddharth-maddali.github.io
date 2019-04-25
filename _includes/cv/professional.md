@@ -1,10 +1,3 @@
----
-layout: cv
-title: Curriculum vitae
----
-
-# Professional activity
-
 1. **Peer review**
 	* _Philosophical Magazine_
 	* _Computational Materials Science_

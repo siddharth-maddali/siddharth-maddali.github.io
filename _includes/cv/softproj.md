@@ -1,10 +1,3 @@
----
-layout: cv
-title: Curriculum vitae
----
-
-# Computational projects
-
 | **NAME** | **LANGUAGE(S)** | **HARDWARE** | **DESCRIPTION** |
 |:--------:|:---------------:|:------------:|:---------------:|
 |[H-Smooth](https://github.com/siddharth-maddali/HierarchicalSmooth)| Matlab, Python, C++ | CPU | A module for topology-faithful smoothing of grain interface meshes obtained from 3D images of polycrystals |

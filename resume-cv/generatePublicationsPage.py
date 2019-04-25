@@ -4,7 +4,7 @@ import bibtexparser as bibparse
 import re   # for regular expression parsing
 
 
-with open( '../_includes/pubs.md', 'w' ) as pubspage:
+with open( '../_includes/cv/pubs.md', 'w' ) as pubspage:
 #    # header
 #    pubspage.write( '---\n' )
 #    pubspage.write( 'layout: cv\n' )

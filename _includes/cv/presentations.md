@@ -1,10 +1,3 @@
----
-layout: cv
-title: Curriculum vitae
----
-
-# Presentations
-
 | **WHEN** | **WHERE** | **CONFERENCE/PROGRAM** | **DESCRIPTION** |
 |:--------:|:---------:|:----------------------:|:---------------:|
 | March 2019 | San Antonio, TX | The Minerals, Metals & Materials Society (TMS) | Invited talk |
