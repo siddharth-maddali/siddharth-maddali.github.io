@@ -2,6 +2,7 @@
 layout: post
 mathjax: true
 author: Siddharth Maddali
+tags: geodesic, sphere, mesh, Matlab, Octave, algorithms, refinement, Delaunay
 ---
 {% include mathjax.html %}
 
@@ -14,14 +15,25 @@ These Platonic solids in particular have exclusively triangular faces.
 Since at each bisection step a triangle results in four "children" triangles, this method essentially grows a quadtree of mesh elements.
 The higher the "generation" of this recursion, the finer the mesh obtained on the sphere, with a generation of $0$ resulting in the Platonic solid itself (see figure below).
 
-<img src="{{ site.url }}/images/meshes.png" width="900">
+<img src="{{ site.url }}/images/blog/meshes.png" width="900">
 
 This method is well-known to people who need to do complex simulations on a spherical surface, such as in earth and planetary sciences.
 You can read a sophisticated analysis of the mesh generation method [here](https://arxiv.org/pdf/cs/0701164.pdf). 
 Being a recovering Matlab addict who has grown to be anal retentive in coding practices, I wondered what would be the most efficient way to generate the list of nodes and faces in Matlab with this quadtree approach, without actually building the quadtree.
 This resulted in an implementation that I've since [uploaded onto FileExchange](https://www.mathworks.com/matlabcentral/fileexchange/69666-spheremesh). 
 I'm personally quite proud it because I think it makes great use of the pre-compiled routines and phenomenal vectorization capabilities that Matlab has to offer, while elegantly keeping track of the new mesh vertices and faces that are created at each recursion.
-This, however, appears to have happened to the expense of readability. 
+Here is a runtime benchmark of $100$ trials of the icosahedral mesh from generations $0$ through $7$ _i.e._ the mean runtime for the line of code:
+```matlab
+[ P, tri ] = generateSphereMesh( gen, 'ico' );
+```
+where `gen` ranges from `0` to `7`.
+
+<table class="image" align="center">
+<tr><td><img src="{{ site.url }}/images/blog/benchmark.svg" style="margin:0px 30px"></td></tr>
+</table>
+
+This was run on Octave 4.2.2 on an old Thinkpad T410i laptop with its Intel Core i3 running Ubuntu 18.04.
+This highly efficient runtime, however, appears to have happened to the expense of readability. 
 This post is intended as a simple tutorial in this bisection-without-a-quadtree approach to generating spherical surface meshes, as well an explanation of my own implementation. 
 In the process I'll touch upon a few little geometric and book-keeping tricks that I use whenever I have to code in Matlab or Octave, and which I hope you find useful as well!
 
@@ -50,7 +62,7 @@ The numbers in `tri` range from $1$ to $M$, in keeping with the $1$-indexing con
 As an example, shown below is a 2-element mesh (black) that has undergone a single refinement step through edge bisection to give a refined mesh (red) of 9 nodes (4 old, 5 new) and 8 elements (triangles).
 <a name="meshexample"></a>
 <table class="image" align="center">
-<tr><td><img src="{{ site.url }}/images/mesh-2tri.jpg" width="200" style="margin:0px 30px"></td></tr>
+<tr><td><img src="{{ site.url }}/images/blog/mesh-2tri.jpg" width="200" style="margin:0px 30px"></td></tr>
 </table>
 The array `P` in the original mesh would be of size $3 \times 4$ with each column a unit vector,  and `tri` would be (in Matlab notation):
 ```matlab
@@ -109,6 +121,11 @@ The sheer versatility and flexibility of this function is the reason I was able 
 The absolutely neatest, cleanest and best way in my opinion to assign indexes to the new nodes determined earlier is like this:
 ```matlab
 [ ~, idx ] = ismember( edges_sorted, edges_unique, 'rows' );
-idx = idx + M; % where M is the number of original nodes (4, in our example)
+idx = idx + M; 			% this does the M+1 offset in one shot
 ```
+This comes from recognizing that there are as many new nodes as there are triangle edges, since each new node is associated with the bisector of an edge.
 Once this is done, it is a trivial matter to collect triplets of node indexes to form `triNew`. 
+See how this is done for one refinement step in the [`refineMesh`](https://github.com/siddharth-maddali/SphereMesh/blob/master/refineMesh.m) function.
+
+So that's about it.
+Do let me know on the Mathworks page if you find this code useful, or if you have any other questions!
