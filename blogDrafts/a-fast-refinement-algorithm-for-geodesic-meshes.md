@@ -2,7 +2,7 @@
 layout: post
 mathjax: true
 author: Siddharth Maddali
-tags: geodesic, sphere, mesh, Matlab, Octave, algorithms, refinement, Delaunay
+tags: [mesh, Matlab/Octave, algorithms]
 ---
 {% include mathjax.html %}
 
