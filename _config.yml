@@ -24,6 +24,9 @@ url: "https://siddharth-maddali.github.io" # the base hostname & protocol for yo
 twitter_username: SidDarthious
 github_username:  siddharth-maddali
 
+# for custom search
+google_cse_id: 017891795388792712943:lhqxlsyf4-8
+
 # Build settings
 markdown: kramdown
 theme: minima
