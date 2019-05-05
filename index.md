@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Siddharth Maddali's web site
+title: Home | Siddharth Maddali's web site
 mathjax: true
 ---
 {% include mathjax.html %}
 
 # Hello. 
 
-You've reached the personal web site of Siddharth Maddali. 
+You've reached Siddharth Maddali's web site.
 Read more about me <a href="/about">here</a>.
 Things keep getting added to this site every now and then, so feel free to follow updates! Meanwhile, here's a picture I really like...
 

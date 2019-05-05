@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Siddharth Maddali's CV
+title: CV | Siddharth Maddali's web site
 mathjax: true
 ---
 {% include resume-nav-body.html %}

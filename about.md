@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About me
+title: About me | Siddharth Maddali's web site
 permalink: /about/
 mathjax: true
 ---
