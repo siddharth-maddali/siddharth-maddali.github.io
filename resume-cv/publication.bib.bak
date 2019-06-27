@@ -221,14 +221,23 @@
   Url                      = {https://journals.iucr.org/m/issues/2016/01/00/ti5006/}
 }
 
-@Unpublished{Shen2019,
-  Title                    = {Importance of outliers: a three-dimensional study of coarsening in $\alpha$-phase iron},
-  Author                   = {Shen, Y. -F. and \textbf{S. Maddali} and Menasche, D. and Bhattacharya, A. and Rohrer, G. S. and Suter, R. M.},
+@Article{Shen2019,
+  Title                    = {Importance of outliers: A three-dimensional study of coarsening in ${\alpha}$-phase iron},
+  Author                   = {Shen, Yu-Feng and Maddali, S. and Menasche, D. and Bhattacharya, A. and Rohrer, G. S. and Suter, R. M.},
+  Journal                  = {Phys. Rev. Materials},
   Year                     = {2019},
 
-  Comment                  = {(Accepted for publication in \emph{Phys. Rev. Materials})},
+  Month                    = {Jun},
+  Pages                    = {063611},
+  Volume                   = {3},
+
+  Doi                      = {10.1103/PhysRevMaterials.3.063611},
+  Issue                    = {6},
+  Numpages                 = {13},
   Owner                    = {smaddali},
-  Timestamp                = {2018.11.29}
+  Publisher                = {American Physical Society},
+  Timestamp                = {2019.06.27},
+  Url                      = {https://link.aps.org/doi/10.1103/PhysRevMaterials.3.063611}
 }
 
 @Article{Ulvestad2019,
