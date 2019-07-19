@@ -4,6 +4,9 @@
 #
 # A simple script to scrub metadata from image files 
 # on the website. Also inserts a copyright notice.
+# 
+# GPS tags taken from: 
+# https://sno.phy.queensu.ca/~phil/exiftool/TagNames/GPS.html
 #
 #######################################################
 
@@ -19,6 +22,13 @@ $SCRUBBER -overwrite_original_in_place\
 	-Model=""\
 	-DateTimeOriginal=""\
 	-DateCreated=""\
+	-GPSAltitudeRef=""\
+	-GPSLatitude=""\
+	-GPSLatitudeRef=""\
+	-GPSLongitude=""\
+	-GPSLongitudeRef=""\
+	-GPSDateStamp=""\
+	-GPSTimeStamp=""\
 	-TimeCreated=""\
 	-Orientation=""\
 	-Software=""\
