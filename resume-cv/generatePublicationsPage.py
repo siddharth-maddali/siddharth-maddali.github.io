@@ -41,26 +41,28 @@ with open( '../_includes/cv/pubs.md', 'w' ) as pubspage:
                         replace( '\\textbf{S. Maddali}', '**S. Maddali**' )
                 ) 
             )
-            if 'note' in data[ key ].keys():
-                mynote = re.sub( r'\\emph\{(.*)\}', r'_\1_', data[ key ][ 'note' ].rstrip() )
-                    # converts the latex '\emph{<string>}' to markdown '_<string>_'
-            
+                        
             if 'url' in data[ key ].keys(): # published article
                 if 'journal' in data[ key ].keys():
-                    pubspage.write( '[%s, %s](%s)\n'%( 
-                            data[ key ][ 'journal' ], 
-                            data[ key ][ yearkey ], 
-                            data[ key ][ 'url' ]
+                    if data[ key ][ 'journal' ].lower() != 'arxiv e-prints':
+                        pubspage.write( '[%s, %s](%s)\n'%( 
+                                data[ key ][ 'journal' ], 
+                                data[ key ][ yearkey ], 
+                                data[ key ][ 'url' ]
+                            )
                         )
-                    )
-                elif 'arxiv.org' in data[ key ][ 'url' ]:   # an arxiv preprint
-                    pubspage.write( 'ArXiv: [%s](%s) %s\n'%( 
-                            data[ key ][ 'eprint' ], 
-                            data[ key ][ 'url' ], 
-                            mynote
+                    #elif 'arxiv.org' in data[ key ][ 'url' ]:   # an arxiv preprint
+                    else:
+                        pubspage.write( 'ArXiv: [%s](%s) '%( 
+                                data[ key ][ 'eprint' ], 
+                                data[ key ][ 'url' ] 
+                            )
                         )
-                    )
-            else: # no URL information available
-                pubspage.write( '%s\n'%mynote )
+            if 'comment' in data[ key ].keys():
+                mynote = re.sub( r'\\emph\{(.*)\}', r'_\1_', data[ key ][ 'comment' ].rstrip() )
+                    # converts the latex '\emph{<string>}' to markdown '_<string>_'
+                pubspage.write( ' %s\n'%mynote )
+            else:
+                pubspage.write( '\n' )
 
             pubspage.write( '\n' )
