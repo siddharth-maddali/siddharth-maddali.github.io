@@ -39,7 +39,7 @@ mathjax: true
 
 {% include cv/professional.md %}
 
-# <a name="awards"></a>Awards, Grants and Honors <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
+# <a name="awards"></a>Awards, Grants, Honors <a href="#cv-menu" style="font-size:20px;">[Back to CV menu]</a>
 
 {% include cv/awards.md %}
 
