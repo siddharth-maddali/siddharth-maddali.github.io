@@ -9,7 +9,7 @@ mathjax: true
 
 You've reached Siddharth Maddali's web site.
 Read more about me <a href="/about">here</a>.
-Things keep getting added to this site every now and then, so feel free to follow updates! Meanwhile, here's a picture I really like...
+Things keep getting added to this site every now and then, so feel free to follow updates! Meanwhile, here's a picture I took that I really like...
 
 <table class="image" width="700" align="center">
 <tr><td text-align="center">
