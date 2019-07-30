@@ -10,11 +10,11 @@
 
 | **WHEN** | **WHERE** | **CONFERENCE/PROGRAM** | **DESCRIPTION** |
 |:--------:|:---------:|:----------------------:|:---------------:|
-| July-August 2019 | Easton, MA | Gordon ray Science Conference and Seminar | Talk |
+| July-August 2019 | Easton, MA | Gordon X-ray Science Seminar/Conference | Talk + poster |
 | July 2018 | Lemont, IL | Advanced Photon Source User Science Seminar | Talk |
 | June 2018 | Port Jefferson, NY | Coherence: International Workshop on Phase Retrieval and Coherent Scattering | Talk |
 | April 2018 | Phoenix, AZ | Materials Research Society (MRS) | Talk |
-| July-August 2017 | Easton, MA | Gordon X-ray Science Conference and Seminar | Poster + Discussion leader |
+| July-August 2017 | Easton, MA | Gordon X-ray Science Seminar/Conference | Discussion leader + poster |
 | November 2015 | Atlanta, GA | Department of Mathematics Seminar, Georgia Institute of Technology | Talk |
 | March 2015 | Orlando, FL | The Minerals, Metals & Materials Society (TMS) | Poster | 
 | October 2014 | Pittsburgh, PA | Materials Science & Technology (MS&T) | Talk |
