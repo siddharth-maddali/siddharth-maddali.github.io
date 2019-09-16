@@ -4,3 +4,4 @@ _site
 *.ipynb
 myData/*
 texput.log
+resume-cv/__pycache__
