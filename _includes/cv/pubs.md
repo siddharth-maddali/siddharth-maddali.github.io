@@ -13,7 +13,7 @@
 <br/>	<a href="https://doi.org/10.1038/s41598-019-42797-4">Scientific Reports</a>
 1.	_Strain mapping of CdTe grains in photovoltaic devices_
 <br/>	I. Calvo-Almazan, A. Ulvestad, E. Colegrove, T. Ablekim, M. V. Holt, M. O. Hill, **S. Maddali**, L. J. Lauhon, M. I. Bertoni, X. Huang, H. Yan, E. Nazaretski, Y. S. Chu, S. O. Hruszkewycz, M. E. Stuckelberger
-<br/>	(under review)
+<br/>	IEEE Journal of Photovoltaics (in press)
 1.	_Using automatic differentiation as a general framework for ptychographic reconstruction_
 <br/>	Saugat Kandel, **S. Maddali**, Marc Allain, Stephan O. Hruszkewycz, Chris Jacobsen, Youssef S. G. Nashed
 <br/>	<a href="http://www.opticsexpress.org/abstract.cfm?URI=oe-27-13-18653">Opt. Express</a>
