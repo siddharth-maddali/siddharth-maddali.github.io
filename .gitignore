@@ -6,3 +6,4 @@ myData/*
 texput.log
 resume-cv/__pycache__
 resume-cv/*.bib.*
+.*.*.swp

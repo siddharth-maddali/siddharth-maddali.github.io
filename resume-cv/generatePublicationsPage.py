@@ -17,7 +17,7 @@ def writeMarkdownContent():
                 pubspage.write( '## **%d**\n'%year )
                 
                 for bibkey in yearD[ year ]:
-                    pubspage.write( '1.\t_%s_\n<br/>'%data[ bibkey ][ 'title' ] )
+                    pubspage.write( '1.\t***%s***\n<br/>'%data[ bibkey ][ 'title' ] )
                     pubspage.write( '\t%s\n<br/>'%getAuthorString( data[ bibkey ][ 'author' ] ) )
                     pubspage.write( '\t%s\n'%getSourceWithLink( data[ bibkey ] ) )
                 pubspage.write( '\n\n' )
