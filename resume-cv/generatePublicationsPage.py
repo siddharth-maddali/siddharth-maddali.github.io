@@ -36,7 +36,11 @@ def getSourceWithLink( bibentry ):
             bibentry[ 'eprint' ]
         )
     elif 'journal' in bibentry.keys():
-        srcstr = '<a href="%s">%s</a>'%( bibentry[ 'url' ], bibentry[ 'journal' ] )
+        try:    # look for url
+            srcstr = '<a href="%s">%s</a>'%( bibentry[ 'url' ], bibentry[ 'journal' ] )
+        except: # no url, look for DOI
+            doistr = bibentry[ 'doi' ].split( 'doi.org/' )[-1]
+            srcstr = '<a href="https://doi.org/%s">%s</a>'%( doistr, bibentry[ 'journal' ] )
     else:
         srcstr = '%s'%bibentry[ 'comment' ]
     return srcstr

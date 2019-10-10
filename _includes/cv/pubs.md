@@ -11,9 +11,9 @@
 1.	***Impact and mitigation of angular uncertainties in Bragg coherent x-ray diffraction imaging***
 <br/>	I. Calvo-Almazan, M. Allain, **S. Maddali**, V. Chamard, S. O. Hruszkewycz
 <br/>	<a href="https://doi.org/10.1038/s41598-019-42797-4">Scientific Reports</a>
-1.	***Strain mapping of CdTe grains in photovoltaic devices***
-<br/>	I. Calvo-Almazan, A. Ulvestad, E. Colegrove, T. Ablekim, M. V. Holt, M. O. Hill, **S. Maddali**, L. J. Lauhon, M. I. Bertoni, X. Huang, H. Yan, E. Nazaretski, Y. S. Chu, S. O. Hruszkewycz, M. E. Stuckelberger
-<br/>	IEEE Journal of Photovoltaics (in press)
+1.	***Strain Mapping of CdTe Grains in Photovoltaic Devices***
+<br/>	I. Calvo-Almazan, A. P. Ulvestad, E. Colegrove, T. Ablekim, M. V. Holt, M. O. Hill, **S. Maddali**, L. J. Lauhon, M. I Bertoni, X. Huang, H. Yan, E. Nazaretski, Y. S. Chu, S. O. Hruszkewycz, M. E. Stuckelberger
+<br/>	<a href="https://doi.org/10.1109/JPHOTOV.2019.2942487">IEEE Journal of Photovoltaics</a>
 1.	***Using automatic differentiation as a general framework for ptychographic reconstruction***
 <br/>	Saugat Kandel, **S. Maddali**, Marc Allain, Stephan O. Hruszkewycz, Chris Jacobsen, Youssef S. G. Nashed
 <br/>	<a href="http://www.opticsexpress.org/abstract.cfm?URI=oe-27-13-18653">Opt. Express</a>
