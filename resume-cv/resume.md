@@ -63,7 +63,7 @@ Americal Physical Society (APS), Materials Research Society (MRS), The Minerals,
 _Philosophical Magazine, Computational Materials Science, New Journal of Physics, Optics Letters, Physical Review X_
 
 ## Organization
-- Advanced Photon Source (APS) User Workshop: _Advanced in Phase Retrieval Methods for High-Resolution X-ray Imaging_, Argonne National Laboratory, Lemont IL (April 2020)
+- Advanced Photon Source (APS) User Workshop: _Advances in Phase Retrieval Methods for High-Resolution X-ray Imaging_, Argonne National Laboratory, Lemont IL (April 2020)
 - Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_, Santa Fe (August 2019)
 
 # Publications
