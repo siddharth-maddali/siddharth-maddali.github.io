@@ -1,0 +1,8 @@
+---
+layout: default
+title: CV | Siddharth Maddali's web site
+mathjax: true
+---
+{% include resume-nav-body.html %}
+{% include mathjax.html %}
+
