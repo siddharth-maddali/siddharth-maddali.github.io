@@ -58,6 +58,8 @@ _Philosophical Magazine, Computational Materials Science, New Journal of Physics
 - Advanced Photon Source (APS) User Workshop: _Advanced in Phase Retrieval Methods for High-Resolution X-ray Imaging_, Argonne National Laboratory, Lemont IL (April 2020)
 - Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_, Santa Fe (August 2019)
 
+More information available on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4aWC57g2gJBB4FkOCMTCGKnZjzFt6xS-iFdAdBvwSJo4PdMAMsCE9i631XSYI2iTWF9vhMWIq9D2XO6ubBmeYWbALUJQ&user=hsYqvQIAAAAJ).
+
 # Publications
 
 [<a id="cit-Maddali2019b" href="#call-Maddali2019b">1</a>] Maddali S., Allain M., Cha W. <em>et al.</em>, ``_Phase retrieval for Bragg coherent diffraction imaging at high x-ray energies_'', Phys. Rev. A, vol. 99, number , pp. 053838, May 2019.  [online](https://link.aps.org/doi/10.1103/PhysRevA.99.053838)
@@ -72,9 +74,9 @@ _Philosophical Magazine, Computational Materials Science, New Journal of Physics
 
 [<a id="cit-Ulvestad2019" href="#call-Ulvestad2019">6</a>] Ulvestad A., Hruszkewycz S. O., Holt M. V. <em>et al.</em>, ``_Multimodal X-ray imaging of grain-level properties and performance in a polycrystalline solar cell_'', Journal of Synchrotron Radiation, vol. 26, number 4, pp. , Jul 2019.  [online](https://doi.org/10.1107/S1600577519003606)
 
-[<a id="cit-Li2019" href="#call-Li2019">7</a>] Li Peng, Maddali Siddharth, Pateras Anastasios <em>et al.</em>, ``_General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging: Part 2_'', , vol. , number , pp. ,  2019.
+[<a id="cit-Li2019" href="#call-Li2019">7</a>] Li Peng, Maddali Siddharth, Pateras Anastasios <em>et al.</em>, ``_General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging: Part 2_'', Journal of Applied Crystallography (in press), vol. , number , pp. ,  2020.
 
-[<a id="cit-Maddali2019" href="#call-Maddali2019">8</a>] Maddali Siddharth, Li Peng, Pateras Anastasios <em>et al.</em>, ``_General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging: Part 1_'', , vol. , number , pp. ,  2019.
+[<a id="cit-Maddali2019" href="#call-Maddali2019">8</a>] Maddali Siddharth, Li Peng, Pateras Anastasios <em>et al.</em>, ``_General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging: Part 1_'', Journal of Applied Crystallography (in press), vol. , number , pp. ,  2020.
 
 [<a id="cit-Maddali2019a" href="#call-Maddali2019a">9</a>] Maddali Siddharth, Park Jun-Sang, Sharma Hemant <em>et al.</em>, ``_High-energy coherent X-ray diffraction microscopy of polycrystal grains: first steps towards a multi-scale approach_'', , vol. , number , pp. ,  2019.
 
@@ -95,5 +97,3 @@ _Philosophical Magazine, Computational Materials Science, New Journal of Physics
 [<a id="cit-Renversade2016" href="#call-Renversade2016">17</a>] Renversade L., Quey R., Ludwig W. <em>et al.</em>, ``_Comparison between diffraction contrast tomography and high-energy diffraction microscopy on a slightly deformed aluminium alloy_'', IUCrJ, vol. 3, number 1, pp. 32--42,  2016.  [online](https://journals.iucr.org/m/issues/2016/01/00/ti5006/)
 
 
-
-More information available on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4aWC57g2gJBB4FkOCMTCGKnZjzFt6xS-iFdAdBvwSJo4PdMAMsCE9i631XSYI2iTWF9vhMWIq9D2XO6ubBmeYWbALUJQ&user=hsYqvQIAAAAJ).
