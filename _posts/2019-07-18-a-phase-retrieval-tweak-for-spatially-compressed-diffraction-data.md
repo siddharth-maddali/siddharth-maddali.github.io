@@ -2,7 +2,8 @@
 layout: post
 mathjax: true
 author: Siddharth Maddali
-tags: [research, x-ray, coherent diffraction imaging, signal processing]
+categories: [research, papers, diffraction-based imaging, signal processing, news]
+tags: [x-ray, published]
 ---
 {% include mathjax.html %}
 
@@ -11,4 +12,7 @@ Here's a link to <a href="https://www.eurekalert.org/pub_releases/2019-07/dnl-as
 This has been part of my very productive postdoc work over the last two years. 
 We've basically demonstrated a method to increase the resolution of inevitably "corrupted" detector images acquired when highly penetrating x-rays scatter off of crystals, while at the same time obtaining a 3D picture of the scattering crystal from these low-resolution images (a process known as "phase retrieval"). 
 Methods like this will become particularly important when new, powerful synchrotron x-ray facilities come online in the very near future.
+
+EDIT: I discovered later that this article received some attention in quite a few other science news outlets, as you can see from this Altimetric badge:<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="51255773" />
 

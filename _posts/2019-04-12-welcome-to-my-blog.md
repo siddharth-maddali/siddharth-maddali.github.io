@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Siddharth Maddali
+tags: [ welcome ]
 ---
 
 Watch this space for deliberately random but (I hope) interesting posts on things ranging from physics to math to graphics and visualization to algorithms and software.

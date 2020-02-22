@@ -2,7 +2,8 @@
 layout: post
 mathjax: true
 author: Siddharth Maddali
-tags: [mesh, Matlab/Octave, algorithms]
+categories: [programming, computational geometry]
+tags: [mesh, matlab, octave]
 ---
 {% include mathjax.html %}
 

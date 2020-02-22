@@ -2,7 +2,8 @@
 layout: post
 mathjax: true
 author: Siddharth Maddali
-tags: [research, x-ray, coherent diffraction imaging, signal processing]
+categories: [research, diffraction-based imaging, signal processing]
+tags: [x-ray, dark-field microscopy]
 ---
 
 The first in a series of posts on the fascinating fractional Fourier transform, in the course of my work developing new x-ray imaging methods.

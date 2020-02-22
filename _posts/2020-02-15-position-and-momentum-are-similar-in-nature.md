@@ -2,8 +2,10 @@
 layout: post
 mathjax: true
 author: Siddharth Maddali
-tags: [position, momentum, similarity transformation, signal processing, quantum mechanics]
+categories: [research, signal processing, mathematics, quantum mechanics]
+tags: [linear algebra, position, momentum, similarity]
 ---
+{% include mathjax.html %}
 
 This post describes what I find to be an interesting relationship between the position and derivative operators $\hat{X}$ and $\hat{D}_X$, through a similarity transformation with the Fourier transform operator.
 
@@ -42,7 +44,7 @@ In later posts I will be using this decomposition as a starting point for jumpin
 
 Before proceeding, it's worth clarifying the set of operands to which the operators of interest are applicable. 
 For the purposes of this post, these will be single-variable functions that have a finite $\ell_2$-norm.
-By this, I mean that the operators act upon the elements of the "Hilbert space" $\mathcal{H}$ of well-behaved, square-integrable functions of one variable: $\mathcal{H} = \left\\{ f:\mathbb{R} \rightarrow \mathbb{C} \left| \int_\mathbb{R} dx~\left|f(x)\right|^2 < \infty \right.\right\\}$.
+By this, I mean that the operators act upon the elements of the "Hilbert space" $\mathcal{H}$ of well-behaved, square-integrable functions of one variable: $\mathcal{H} = \left\\{ f:\mathbb{R} \rightarrow \mathbb{C} \left| \int_\mathbb{R} dx \left|f(x)\right|^2 < \infty \right.\right\\}$.
 From a signal-processing perspective, al element of this set represents a signal of finite energy, and in quantum mechanics a wave function (modulo normalization) with a steady-state probability density function.
 
 The linear operators $\hat{X}$ and $\hat{D}_X$ denoting position and derivative are quite simply defined by: 
@@ -54,7 +56,7 @@ $$
 An expression like $\hat{X}(x, x^\prime) f(x^\prime)$ is understood to be integrated over the repeated variable $x^\prime$ in order to obtain a final expression in terms of the un-repeated variable $x$. 
 This is completely analogous to the [Einstein summation convention](https://en.wikipedia.org/wiki/Einstein_notation) for expressions such as $\hat{X}_{ij}f_j$, in which a summation is implied over the repeated index $j$ to leave an expression in $i$.
 Wherever it's unambiguous, I'll be dropping these indices in my notation altogether; this makes for a more compactified form of the operator formalism, which in my opinion is a more elegant and illuminating way to do certain difficult mathematical proofs.
-Undergrad students of quantum mechanics have already had a taste of this when they solved the Schrodinger equation for the one-dimensional harmonic oscillator using raising and lowering operators $\hat{a}^\dagger$ and $\hat{a}$ instead of directly integrating it.
+Undergrad students of quantum mechanics have already had a taste of this when they solved the Schrodinger equation for the one-dimensional harmonic oscillator using raising and lowering operators $\hat{a}$ and $\hat{a}^\dagger$ instead of directly integrating it.
 
 For this post I'll skip mentioning all the underlying assumptions and make my life simpler by assuming that I'm dealing only with those linear operators that map back to elements of $\mathcal{H}$, in other words, $\left\\{ \hat{O} \left| \hat{O}(x, x^\prime)f(x^\prime) \in \mathcal{H}~~\forall f \in \mathcal{H}\right.\right\\}$.
 The Fourier transform, of course, automatically satisfies this property owing to [Parseval's theorem](https://en.wikipedia.org/wiki/Parseval%27s_theorem).
@@ -62,7 +64,7 @@ The Fourier transform, of course, automatically satisfies this property owing to
 Taking all this into account, $\hat{X}$ and $\hat{D}_X$ themselves may be represented quite trivially as integral operators by:
 $$
 \hat{X}f = \underbrace{\int_\mathbb{R}dx^\prime~\delta(x^\prime - x) x^\prime}_{\hat{X}(x, x^\prime)}f(x^\prime) \notag \\
-\hat{D}_X f = \underbrace{\int_\mathbb{R}dx^\prime~\delta(x^\prime - x) \frac{d}{dx^\prime} }_{\hat{D}_X(x,x^\prime)} f(x^\prime)
+\hat{D}_X f = \underbrace{\int_\mathbb{R}dx^\prime~\delta(x^\prime - x) \frac{d}{dx^\prime} }_{\hat{D}(x,x^\prime)} f(x^\prime)
 $$
 where $\delta(x^\prime - x)$ is the Dirac delta function.
 
@@ -97,7 +99,7 @@ $$
 ## Similarity relation 2: $\hat{D}_X = 2\pi \iota \mathcal{F}^{-1} \hat{X} \mathcal{F}$
 
 ### _Proof_: 
-We again have $\forall \tilde{f} \in \mathcal{H} \ldots$
+We again have $\forall f \in \mathcal{H} \ldots$
 $$
     \hat{D}_X \mathcal{F}^{-1} \tilde{f} = \frac{d}{dx}\int_\mathbb{R}dk~ e^{\iota 2\pi kx}\tilde{f}(k) \notag \\
     = 2\pi \iota \int_\mathbb{R}dk~e^{\iota 2\pi kx}k \tilde{f}(k) \notag \\
@@ -106,6 +108,6 @@ $$
 $$
 
 ## Conclusion
-It turns out these similarity-based relationships are instrumental in demonstrating that the set of [Hermite polynomials](https://en.wikipedia.org/wiki/Hermite_polynomials) form an eigenbasis of the Fourier transform operator, with one of four associated eigenvalues: $1$, $\iota$, $-1$ and $-\iota$.
-I do this in a future post, _en route_ to my investigations of the FrFT.
+It turns out these similarity-based relationships are instrumental in demonstrating that the set of Hermite polynomials form an eigenbasis of the Fourier transform operator, with one of four associated eigenvalues: $1$, $\iota$, $-1$ and $-\iota$.
+I do this [here]( {{ site.url }}/_posts/comingUp ), _en route_ to my investigations of the FrFT.
 Since there are only 4 eigenvalues, the spectral decomposition is heavily degenerate, and the set of Hermite polynomials is not a unique eigenbasis.
