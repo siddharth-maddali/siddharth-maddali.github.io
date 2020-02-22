@@ -1,25 +1,34 @@
 ---
-layout: default
+layout: portfolio
 title: CV | Siddharth Maddali's web site
 mathjax: true
 ---
 {% include resume-nav-body.html %}
 {% include mathjax.html %}
 
+<a name="education"></a> 
 # Education
-- **Ph.D** in _physics_ (2016, Carnegie Mellon University, Pittsburgh, PA)
-- **M.S.** in _physics_ (2010, Carnegie Mellon University, Pittsburgh, PA)
-- **M.Sc** in _physics_ (2009, Indian Institute of Technology - Mardas, Chennai, India)
-- **B.Sc** in _physics_ , _mathematics_ , _electronics_ (2007, Bangalore University, Bengaluru, India)
+- Doctor of Philosophy (**Ph.D**) in _physics_ (2016, Carnegie Mellon University, Pittsburgh, PA)
+- Master of Science (**M.S.**) in _physics_ (2010, Carnegie Mellon University, Pittsburgh, PA)
+- Master of Science (**M.Sc**) in _physics_ (2009, Indian Institute of Technology - Mardas, Chennai, India)
+- Bachelor of Science (**B.Sc**) in _physics_ , _mathematics_ , _electronics_ (2007, Bangalore University, Bengaluru, India)
 
+<a name="workex"></a>
 # Experience
-- **Assistant Scientist**, Synchrotron radiation studies of materials (Argonne National Laboratory, **_Oct 2019 - present_** )
-- **Post-doctoral researcher**, Coherent diffraction imaging of materials structure (Argonne National Laboratory, **_Jan 2017 - Sept 2019_** )
-- **Post-doctoral researcher**, Materials discovery with machine learning (National Energy Technology Laboratory, **_May 2016 - Sept 2016_** )
-- **Graduate research assistant**, Department of physics (Carnegie Mellon University, **_2012 - May 2016_** )
-- **Graduate teaching assistant**, Department of physics (Carnegie Mellon University, **_2009 - 2012_** )
-- **Intern**, Department of physics (National University of Singapore, **_May 2008_** )
+- **Assistant Scientist**, Argonne National Laboratory
+    - Synchrotron Radiation Studies of Materials group, **_Oct 2019 - present_**
+- **Post-doctoral researcher**, Argonne National Laboratody
+    - Coherent diffraction imaging of materials structure, **_Jan 2017 - Sept 2019_**
+- **Post-doctoral researcher**, National Energy Technology Laboratory
+    - Materials discovery with machine learning, **_May 2016 - Sept 2016_**
+- **Graduate research assistant**, Carnegie Mellon University
+    - Department of Physics, **_2012 - May 2016_**
+- **Graduate teaching assistant**, Carnegie Mellon University
+    - Department of Physics, **_2009 - 2012_**
+- **Intern**, National University of Singapore
+    - Department of Physics, **_May 2008_**
 
+<a name="research"></a>
 # Research interests
 - X-ray sciences, direct and diffraction-based imaging
    - Coherent diffraction imaging of tensor fields
@@ -36,6 +45,7 @@ mathjax: true
 
 
 
+<a name="presentations"></a>
 # Presentations
 ## Invited
 1. Advanced probes and data analytics for enabling single-pulse imaging under dynamic conditions, Santa Fe, NM (August 2019)
@@ -49,11 +59,13 @@ mathjax: true
 1. The Minerals, Metals and Materials Society (TMS), Orlando, FL (March 2015: Poster)
 1. Materials Science and Technology (MS&T), Pittsburgh, PA (October 2014: seminar; October 2012: poster)
 
+<a name="achievements"></a>
 # Awards and honors
 - Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016)
 - The Indian Institute of Technology Madras Freeship (2007-2009)
 - Bangalore University rank 5 (2007)
 
+<a name="professional"></a>
 # Professional activity
 
 ## Society membership
@@ -63,11 +75,12 @@ Americal Physical Society (APS), Materials Research Society (MRS), The Minerals,
 _Philosophical Magazine, Computational Materials Science, New Journal of Physics, Optics Letters, Physical Review X_
 
 ## Organization
-- Advanced Photon Source (APS) User Workshop: _Advances in Phase Retrieval Methods for High-Resolution X-ray Imaging_, Argonne National Laboratory, Lemont IL (April 2020)
+- Advanced Photon Source (APS) User Workshop: _Advanced in Phase Retrieval Methods for High-Resolution X-ray Imaging_, Argonne National Laboratory, Lemont IL (April 2020)
 - Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_, Santa Fe (August 2019)
 
 More information available on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4aWC57g2gJBB4FkOCMTCGKnZjzFt6xS-iFdAdBvwSJo4PdMAMsCE9i631XSYI2iTWF9vhMWIq9D2XO6ubBmeYWbALUJQ&user=hsYqvQIAAAAJ).
 
+<a name="pulications"></a>
 # Publications
 
 [<a id="cit-Maddali2019b" href="#call-Maddali2019b">1</a>] **Maddali S.**, Allain M., Cha W. <em>et al.</em>, ``_Phase retrieval for Bragg coherent diffraction imaging at high x-ray energies_'', Phys. Rev. A, vol. 99, number , pp. 053838, May 2019.  [online](https://link.aps.org/doi/10.1103/PhysRevA.99.053838)

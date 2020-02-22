@@ -22,16 +22,23 @@
 		</head>
 		<body>
 			{% include nav-bar.html %}
+			<table align="center">
+			<tr><td valign="top" style="padding-right:10px">
 			<div class="container">
 			
 			{{ content }}
 						
-			</div><!-- /.container -->
+			</div>
 			<footer>
 				{% include website-search.html %}
 				{% include share-bar.html %}
 				© 2019-{{ site.time | date: '%Y' }} Siddharth Maddali, all rights reserved.
 			</footer>
-		</body>
+			</td><!-- /.container -->
+			<td valign="top" style="padding-left:10px"><div class="twitterborder">
+				<a	class="twitter-timeline" data-width="300" data-tweet-limit="5" href="https://twitter.com/SidDarthious?ref_src=twsrc%5Etfw">Tweets by SidDarthious</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+			</td></div>
+			</tr></table>
+			</body>
 	</html>
 
