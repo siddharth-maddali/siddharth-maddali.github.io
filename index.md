@@ -10,7 +10,7 @@ mathjax: true
 You've reached the personal website of Siddharth Maddali.
 I'm a physicist at Argonne National Laboratory and I work on the intersection of materials science and diffraction-based characterization.
 
-You can read more about me <a href="{{ site.url }}/about">here</a>, take at my physics/math/programming <a href="{{ site.url }}/blog">blog</a>, and/or follow my updates on Twitter.
+You can read more about me <a href="{{ site.url }}/about">here</a>, take a look at my physics/math/programming <a href="{{ site.url }}/blog">blog</a>, and/or follow my updates on Twitter.
 
 Meanwhile, here's a picture I took that I really like...
 

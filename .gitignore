@@ -8,3 +8,4 @@ resume-cv/__pycache__
 resume-cv/*.bib.*
 .*.*.swp
 blogDrafts/*
+octave-workspace
