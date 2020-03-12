@@ -202,34 +202,6 @@
   url       = {https://doi.org/10.1107/S1600577519003606},
 }
 
-@Article{Li2019,
-  author      = {Peng Li and Siddharth Maddali and Anastasios Pateras and Irene Calvo-Almazan and Stephan O. Hruszkewycz and Virginie Chamard and Marc Allain},
-  title       = {General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging: Part 2},
-  journal     = {Journal of Applied Crystallography (in press)},
-  year        = {2020},
-  abstract    = {X-ray Bragg coherent diffraction imaging has been demonstrated as a powerful three-dimensional (3D) microscopy approach for the investigation of sub-micrometer-scale crystalline particles. It is based on the measurement of a series of coherent diffraction intensity patterns that are numerically inverted to retrieve an image of the spatial distribution of relative phase and amplitude of the Bragg structure factor of the scatterer. This 3D information, which is collected through an angular rotation of the sample, is necessarily obtained in a non-orthogonal frame in Fourier space that must be eventually reconciled. To deal with this, the currently favored approach (detailed in Part I) is to perform the entire inversion in conjugate non-orthogonal real and Fourier space frames, and to transform the 3D sample image into an orthogonal frame as a post-processing step for result analysis. In this article, a direct follow-up of Part I, we demonstrate two different transformation strategies that enable the entire inversion procedure of the measured data set to be performed in an orthogonal frame. The new approaches described here build mathematical and numerical frameworks that apply to the cases of evenly and non-evenly sampled data along the direction of sample rotation (the rocking curve). The value of these methods is that they rely on and incorporate significantly more information about the experimental geometry into the design of the phase retrieval Fourier transformation than the strategy presented in Part I. Two important outcomes are 1) that the resulting sample image is correctly interpreted in a shear-free frame, and 2) physically realistic constraints of BCDI phase retrieval that are difficult to implement with current methods are easily incorporated. Computing scripts are also given to aid readers in the implementation of the proposed formalisms.},
-  date        = {2019-08-15},
-  eprint      = {1909.05354v1},
-  eprintclass = {physics.ins-det},
-  eprinttype  = {arXiv},
-  file        = {online:http\://arxiv.org/pdf/1909.05354v1:PDF},
-  keywords    = {physics.ins-det, eess.SP},
-}
-
-@Article{Maddali2019,
-  author      = {Siddharth Maddali and Peng Li and Anastasios Pateras and Daniel Timbie and Nazar Delegan and Alex Crook and Hope Lee and Irene Calvo-Almazan and Dina Sheyfer and Wonsuk Cha and F. Joseph Heremans and David D. Awschalom and Virginie Chamard and Marc Allain and Stephan O. Hruszkewycz},
-  title       = {General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging: Part 1},
-  journal     = {Journal of Applied Crystallography (in press)},
-  year        = {2020},
-  abstract    = {In this two-part article series we provide a generalized description of the scattering geometry of Bragg coherent diffraction imaging (BCDI) experiments, the shear distortion effects inherent to the resulting three-dimensional (3D) image from current phase retrieval methods and strategies to mitigate this distortion. In this Part I, we derive in general terms the real-space coordinate transformation to correct this shear, which originates in the more fundamental relationship between the representations of mutually conjugate 3D spaces. Such a transformation, applied as a final post-processing step following phase retrieval, is crucial for arriving at an un-distorted and physically meaningful image of the 3D scatterer. As the relevance of BCDI grows in the field of materials characterization, we take this opportunity to generalize the available sparse literature that addresses the geometric theory of BCDI and the subsequent analysis methods. This aspect, specific to coherent Bragg diffraction and absent in two-dimensional transmission CDI experiments, gains particular importance concerning spatially-resolved characterization of 3D crystalline materials in a realiable, non-destructive manner. These articles describe this theory, from the diffraction in Bragg geometry, to the corrections needed to obtain a properly rendered digital image of the 3D scatterer. Part I provides the experimental BCDI communitcy with the theoretical underpinnings of the 3D real-space distortions in the phase-retrieved object, along with the necessary post-retrieval correction method. Part II builds upon the geometric theory developed in Part I with the formalism to correct the shear distortions directly on an orthogonal grid within the phase retrieval algorithm itself, allowing more physically realistic constraints to be applied.},
-  date        = {2019-08-15},
-  eprint      = {1909.05353v1},
-  eprintclass = {physics.ins-det},
-  eprinttype  = {arXiv},
-  file        = {online:http\://arxiv.org/pdf/1909.05353v1:PDF},
-  keywords    = {physics.ins-det},
-}
-
 @Article{Maddali2019a,
   author      = {Siddharth Maddali and Jun-Sang Park and Hemant Sharma and Sarvjit Shastri and Peter Kenesei and Jonathan Almer and Ross Harder and Matthew J. Highland and Youssef S. G. Nashed and Stephan O. Hruszkewycz},
   title       = {High-energy coherent X-ray diffraction microscopy of polycrystal grains: first steps towards a multi-scale approach},
@@ -251,6 +223,34 @@
   abstract = {Strain within grains and at grain boundaries (GBs) in polycrystalline thin-film absorber layers limits the overall performance because of higher defect concentrations and band fluctuations. However, the nanoscale strain distribution in operational devices is not easily accessible using standard methods. X-ray nanodiffraction offers the unique possibility to evaluate the strain or lattice spacing at nanoscale resolution. Furthermore, the combination of nanodiffraction with additional techniques in the framework of multimodal scanning X-ray microscopy enables the direct correlation of the strain with material and device parameters such as the elemental distribution or local performance. This approach is applied for the investigation of the strain distribution in CdTe grains in fully operational photovoltaic solar cells. It is found that the lattice spacing in the (111) direction remains fairly constant in the grain cores but systematically decreases at the GBs. The lower strain at GBs is accompanied by an increase of the total tilt. These observations are both compatible with the inhomogeneous incorporation of smaller atoms into the lattice, and local stress induced by neighboring grains.},
   doi      = {10.1109/JPHOTOV.2019.2942487},
   keywords = {II-VI semiconductor materials;Cadmium compounds;Strain;Photovoltaic systems;Lattices;X-ray diffraction;CdTe;multimodal;nanodiffraction;photovoltaic;solar cells;strain;X-ray;X-ray beam induced current (XBIC);X-ray diffraction (XRD);X-ray fluorescence (XRF);X-ray microscopy},
+}
+
+@Article{Maddali2019,
+  author   = {Maddali, S. and Li, P. and Pateras, A. and Timbie, D. and Delegan, N. and Crook, A. L. and Lee, H. and Calvo-Almazan, I. and Sheyfer, D. and Cha, W. and Heremans, F. J. and Awschalom, D. D. and Chamard, V. and Allain, M. and Hruszkewycz, S. O.},
+  title    = {{General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging. Part I}},
+  journal  = {Journal of Applied Crystallography},
+  year     = {2020},
+  volume   = {53},
+  number   = {2},
+  month    = {Apr},
+  abstract = {This two-part article series provides a generalized description of the scattering geometry of Bragg coherent diffraction imaging (BCDI) experiments, the shear distortion effects inherent in the 3D image obtained from presently used methods and strategies to mitigate this distortion. Part I starts from fundamental considerations to present the general real-space coordinate transformation required to correct this shear, in a compact operator formulation that easily lends itself to implementation with available software packages. Such a transformation, applied as a final post-processing step following phase retrieval, is crucial for arriving at an undistorted, correctly oriented and physically meaningful image of the 3D crystalline scatterer. As the relevance of BCDI grows in the field of materials characterization, the available sparse literature that addresses the geometric theory of BCDI and the subsequent analysis methods are generalized here. This geometrical aspect, specific to coherent Bragg diffraction and absent in 2D transmission CDI experiments, gains particular importance when it comes to spatially resolved characterization of 3D crystalline materials in a reliable nondestructive manner. This series of articles describes this theory, from the diffraction in Bragg geometry to the corrections needed to obtain a properly rendered digital image of the 3D scatterer. Part I of this series provides the experimental BCDI community with the general form of the 3D real-space distortions in the phase-retrieved object, along with the necessary post-retrieval correction method. Part II builds upon the geometric theory developed in Part I with the formalism to correct the shear distortions directly on an orthogonal grid within the phase-retrieval algorithm itself, allowing more physically realistic constraints to be applied. Taken together, Parts I and II provide the X-ray science community with a set of generalized BCDI shear-correction techniques crucial to the final rendering of a 3D crystalline scatterer and for the development of new BCDI methods and experiments.},
+  doi      = {10.1107/S1600576720001363},
+  keywords = {Bragg coherent diffraction imaging, phase retrieval, shear correction, coordinate transformation, scattering geometry, Bragg ptychography, conjugate spaces},
+  url      = {https://doi.org/10.1107/S1600576720001363},
+}
+
+@Article{Li2019,
+  author   = {Li, P. and Maddali, S. and Pateras, A. and Calvo-Almazan, I. and Hruszkewycz, S.O. and Cha, W. and Chamard, V. and Allain, M.},
+  title    = {{General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging. Part II}},
+  journal  = {Journal of Applied Crystallography},
+  year     = {2020},
+  volume   = {53},
+  number   = {2},
+  month    = {Apr},
+  abstract = {X-ray Bragg coherent diffraction imaging (BCDI) has been demonstrated as a powerful 3D microscopy approach for the investigation of sub-micrometre-scale crystalline particles. The approach is based on the measurement of a series of coherent Bragg diffraction intensity patterns that are numerically inverted to retrieve an image of the spatial distribution of the relative phase and amplitude of the Bragg structure factor of the diffracting sample. This 3D information, which is collected through an angular rotation of the sample, is necessarily obtained in a non-orthogonal frame in Fourier space that must be eventually reconciled. To deal with this, the approach currently favored by practitioners (detailed in Part I) is to perform the entire inversion in conjugate non-orthogonal real- and Fourier-space frames, and to transform the 3D sample image into an orthogonal frame as a post-processing step for result analysis. In this article, which is a direct follow-up of Part I, two different transformation strategies are demonstrated, which enable the entire inversion procedure of the measured data set to be performed in an orthogonal frame. The new approaches described here build mathematical and numerical frameworks that apply to the cases of evenly and non-evenly sampled data along the direction of sample rotation ({\it i.e.} the rocking curve). The value of these methods is that they rely on the experimental geometry, and they incorporate significantly more information about that geometry into the design of the phase-retrieval Fourier transformation than the strategy presented in Part I. Two important outcomes are (1) that the resulting sample image is correctly interpreted in a shear-free frame and (2) physically realistic constraints of BCDI phase retrieval that are difficult to implement with current methods are easily incorporated. Computing scripts are also given to aid readers in the implementation of the proposed formalisms.},
+  doi      = {10.1107/S1600576720001375},
+  keywords = {Bragg coherent diffraction imaging, Fourier synthesis, non-orthogonal Fourier sampling, coordinate transformation, shear correction, Bragg ptychography},
+  url      = {https://doi.org/10.1107/S1600576720001375},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
