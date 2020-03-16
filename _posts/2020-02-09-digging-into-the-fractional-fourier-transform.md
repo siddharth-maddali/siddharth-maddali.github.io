@@ -6,6 +6,7 @@ categories: [research, diffraction-based imaging, signal processing]
 tags: [x-ray, dark-field microscopy]
 ---
 
+{% include mathjax.html %}
 The first in a series of posts on the fascinating fractional Fourier transform, in the course of my work developing new x-ray imaging methods.
 
 # Coherent dark-field x-ray microscopy - a new direction

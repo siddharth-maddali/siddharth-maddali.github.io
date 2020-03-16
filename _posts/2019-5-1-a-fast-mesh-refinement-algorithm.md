@@ -5,7 +5,9 @@ author: Siddharth Maddali
 categories: [programming, computational geometry]
 tags: [mesh, matlab, octave]
 ---
+
 {% include mathjax.html %}
+A way to quickly generate spherical meshes recursively from Platonic solids, and an efficient Matlab/Octave implementation. 
 
 ## <a name="intro"></a>Introduction
 This post describes an algorithm I devised to refine a geodesic Delaunay mesh to the desired resolution. 
