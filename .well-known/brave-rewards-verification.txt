@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: siddharth-maddali.github.io
+Token: 7ad1fb1f72299253b3ffb37bc611e45ec48f5b1c3af35046e18f295aeb568048
