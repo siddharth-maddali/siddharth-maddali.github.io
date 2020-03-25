@@ -29,7 +29,8 @@ google_cse_id: 017891795388792712943:lhqxlsyf4-8
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
