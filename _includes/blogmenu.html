@@ -1,0 +1,12 @@
+<h1>BLOG: </h1>
+<nav>
+	<ul>
+		{% for item in site.data.blog %}
+			<li>
+				<a href="{{ item.link }}" style="font-size:40px;">
+				{{ item.name }}
+	 			</a>
+			</li>
+		{% endfor %}
+	</ul>
+</nav>

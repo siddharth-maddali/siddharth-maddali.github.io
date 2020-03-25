@@ -1,0 +1,6 @@
+- name: Latest
+  link: /blog_latest
+- name: Categories
+  link: blog_categories
+- name: Archive
+  link: blog_archive

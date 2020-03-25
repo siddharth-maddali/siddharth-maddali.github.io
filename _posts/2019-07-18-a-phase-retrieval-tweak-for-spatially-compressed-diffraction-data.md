@@ -2,8 +2,8 @@
 layout: post
 mathjax: true
 author: Siddharth Maddali
-categories: [research, papers, diffraction-based imaging, signal processing, news]
-tags: [x-ray, published]
+categories: [News]
+tags: [phase retrieval, imaging, imaging, \@physreva, \@argonne, \@ComixTeam]
 ---
 
 {% include mathjax.html %}

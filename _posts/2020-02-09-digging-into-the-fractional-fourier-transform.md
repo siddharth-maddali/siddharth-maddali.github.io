@@ -2,8 +2,8 @@
 layout: post
 mathjax: true
 author: Siddharth Maddali
-categories: [research, diffraction-based imaging, signal processing]
-tags: [x-ray, dark-field microscopy]
+categories: [Research]
+tags: [x-ray, microscopy]
 ---
 
 {% include mathjax.html %}

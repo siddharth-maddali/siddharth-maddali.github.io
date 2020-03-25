@@ -2,8 +2,8 @@
 layout: post
 mathjax: true
 author: Siddharth Maddali
-categories: [research, signal processing, mathematics, quantum mechanics]
-tags: [linear algebra, position, momentum, similarity, Fourier transform]
+categories: [Mathematics]
+tags: [linear algebra, quantum mechanics, Fourier transform]
 ---
 
 {% include mathjax.html %}
