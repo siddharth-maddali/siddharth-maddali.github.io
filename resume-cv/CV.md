@@ -70,8 +70,6 @@ _Philosophical Magazine, Computational Materials Science, New Journal of Physics
 ## Organization
 - Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_, Santa Fe (August 2019)
 
-More information available on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4aWC57g2gJBB4FkOCMTCGKnZjzFt6xS-iFdAdBvwSJo4PdMAMsCE9i631XSYI2iTWF9vhMWIq9D2XO6ubBmeYWbALUJQ&user=hsYqvQIAAAAJ).
-
 # Publications
 
 [<a id="cit-Maddali2020" href="#call-Maddali2020">1</a>] Maddali S., Li P., Pateras A. <em>et al.</em>, ``_General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging. Part I_'', Journal of Applied Crystallography, vol. 53, number 2, pp. , Apr 2020.  [online](https://doi.org/10.1107/S1600576720001363)
