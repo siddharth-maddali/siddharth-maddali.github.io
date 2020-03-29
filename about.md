@@ -41,11 +41,11 @@ Interesting bit of trivia #2: the X-ray beam at Argonne is so carefully aligned 
 
 I was also a post-doc at the National Energy Technology Laboratory in Pittsburgh, PA, where I worked on materials discovery using machine learning.
 
-
+<a name="noseriously"></a>
 At other times, I'm usually playing squash, swimming, looking to learn new math stuff completely orthogonal to my work, trying to achieve Linux supremacy, contributing to open-source software or drinking new beers I come across (after all, I am a Bangalorean!).
 I am a big fan of the great outdoors and have absolutely loved every single one of my hikes, treks and visits to national and state parks around the US.
-I am appropriately wary of social media but nevertheless use Twitter (and other aggregators) to get my daily internet fix.
-I occasionally tweet stuff that I find interesting, but don't even bother looking for me on Facebook or Instagram.
+I am appropriately wary of social media but nevertheless use Twitter (among other aggregators) to get my daily internet fix.
+I occasionally tweet stuff that I find interesting, <font color="red"><strong>but don't even bother looking for me on Facebook or Instagram</strong></font>.
 
 <table class="image" align="center">
 <tr><td><img src="{{ site.url }}/images/couple.jpg" width="600" style="margin:0px 30px"></td></tr>

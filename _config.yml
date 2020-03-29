@@ -27,6 +27,9 @@ github_username:  siddharth-maddali
 # for custom search
 google_cse_id: 017891795388792712943:lhqxlsyf4-8
 
+# permalnks for blog posts
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
 # Build settings
 markdown: kramdown
 #theme: minima
