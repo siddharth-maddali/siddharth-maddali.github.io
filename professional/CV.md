@@ -1,62 +1,75 @@
 <a name="education"></a> 
 # Education
-- Doctor of Philosophy (**Ph.D**) in _physics_ (2016, Carnegie Mellon University, Pittsburgh, PA)
-- Master of Science (**M.S.**) in _physics_ (2010, Carnegie Mellon University, Pittsburgh, PA)
-- Master of Science (**M.Sc**) in _physics_ (2009, Indian Institute of Technology - Mardas, Chennai, India)
-- Bachelor of Science (**B.Sc**) in _physics_ , _mathematics_ , _electronics_ (2007, Bangalore University, Bengaluru, India)
+
+Doctor of Philosophy (**Ph.D**) in _physics_ (2016, Carnegie Mellon University, Pittsburgh, PA)<br/>
+Master of Science (**M.S.**) in _physics_ (2010, Carnegie Mellon University, Pittsburgh, PA)<br/>
+Master of Science (**M.Sc**) in _physics_ (2009, Indian Institute of Technology - Mardas, Chennai, India)<br/>
+Bachelor of Science (**B.Sc**) in _physics_ , _mathematics_ , _electronics_ (2007, Bangalore University, Bengaluru, India)<br/>
 
 <a name="workex"></a>
 # Experience
-- **Assistant Scientist**, Argonne National Laboratory
-    - Synchrotron Radiation Studies of Materials group, **_Oct 2019 - present_**
-- **Post-doctoral researcher**, Argonne National Laboratody
-    - Coherent diffraction imaging of materials structure, **_Jan 2017 - Sept 2019_**
-- **Post-doctoral researcher**, National Energy Technology Laboratory
-    - Materials discovery with machine learning, **_May 2016 - Sept 2016_**
-- **Graduate research assistant**, Carnegie Mellon University
-    - Department of Physics, **_2012 - May 2016_**
-- **Graduate teaching assistant**, Carnegie Mellon University
-    - Department of Physics, **_2009 - 2012_**
-- **Intern**, National University of Singapore
-    - Department of Physics, **_May 2008_**
+
+**Assistant Scientist**, Argonne National Laboratory<br/>
+Synchrotron Radiation Studies of Materials group, **_Oct 2019 - present_**
+    
+**Post-doctoral researcher**, Argonne National Laboratory<br/>
+Coherent diffraction imaging of materials structure, **_Jan 2017 - Sept 2019_**
+    
+**Post-doctoral researcher**, National Energy Technology Laboratory<br/>
+Materials discovery with machine learning, **_May 2016 - Sept 2016_**
+    
+**Graduate research assistant**, Carnegie Mellon University<br/>
+Department of Physics, **_2012 - May 2016_**
+    
+**Graduate teaching assistant**, Carnegie Mellon University<br/>
+Department of Physics, **_2009 - 2012_**
+    
+**Intern**, National University of Singapore<br/>
+Department of Physics, **_May 2008_**
 
 <a name="research"></a>
 # Research interests
-- X-ray sciences, direct and diffraction-based imaging
-   - Coherent diffraction imaging of tensor fields
-   - High-energy diffraction microscopy
-   - Multiscale characterization with x-rays
-- Condensed matter physics 
-   - Mesoscale and nanoscale structure and lattice strain
-   - Interfacial dynamics in polycrystals
-- Computational methods in physics 
-   - Inverse problems
-   - Signal processing and optimization
-   - Data science, machine learning, reinforcement learning -based experimental control
-   - High-performance computing and scientific software development
+
+**X-ray sciences, direct and diffraction-based imaging:**<br/>
+    Coherent diffraction imaging of tensor fields<br/>
+    High-energy diffraction microscopy<br/>
+    Multiscale characterization with x-rays
+    
+**Condensed matter physics:**<br/>
+   Mesoscale and nanoscale structure and lattice strain<br/>
+   Interfacial dynamics in polycrystals
+
+**Computational methods in physics:**<br/>
+   Inverse problems<br/>
+   Signal processing and optimization<br/>
+   Data science, machine learning, reinforcement learning -based experimental control<br/>
+   High-performance computing and scientific software development
 
 
 
 <a name="presentations"></a>
 # Presentations
+
 ## Invited
-1. Society for Photo-Optical Instrumentation Engineers (SPIE) Conference on _Ultrafast Imaging and Tracking Instrumentation, Methods, and Applications_, San Diego, CA (August 2020)
-1. Workshop on _Advanced probes and data analytics for enabling single-pulse imaging under dynamic conditions_, Santa Fe, NM (August 2019)
-1. The Minerals, Metals and Materials Society (TMS), San Antonio, TX (March 2019)
-1. Department of physics, Carnegie Mellon University, Pittsburgh, PA (May 2018)
+
+1) Society for Photo-Optical Instrumentation Engineers (SPIE) Conference on _Ultrafast Imaging and Tracking Instrumentation, Methods, and Applications_, San Diego, CA (August 2020)<br/>
+2) Workshop on _Advanced probes and data analytics for enabling single-pulse imaging under dynamic conditions_, Santa Fe, NM (August 2019)<br/>
+3) The Minerals, Metals and Materials Society (TMS), San Antonio, TX (March 2019)<br/>
+4) Department of physics, Carnegie Mellon University, Pittsburgh, PA (May 2018)<br/>
 
 ## Select contributed
-1. Gordon X-ray Science Seminar, Easton, MA (July-August 2019: seminar & poster; July-August 2017: discussion leader)
-1. Coherence: International workshop on phase retrieval and coherent scattering, Port Jefferson, NY (June 2018)
-1. Materials Research Society, Phoenix, AZ (April 2018)
-1. The Minerals, Metals and Materials Society (TMS), Orlando, FL (March 2015: Poster)
-1. Materials Science and Technology (MS&T), Pittsburgh, PA (October 2014: seminar; October 2012: poster)
+1) Gordon X-ray Science Seminar, Easton, MA (July-August 2019: seminar & poster; July-August 2017: discussion leader)<br/>
+2) Coherence: International workshop on phase retrieval and coherent scattering, Port Jefferson, NY (June 2018)<br/>
+3) Materials Research Society, Phoenix, AZ (April 2018)<br/>
+4) The Minerals, Metals and Materials Society (TMS), Orlando, FL (March 2015: Poster)<br/>
+5) Materials Science and Technology (MS&T), Pittsburgh, PA (October 2014: seminar; October 2012: poster)
 
 <a name="achievements"></a>
 # Awards and honors
-- Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016)
-- The Indian Institute of Technology Madras Freeship (2007-2009)
-- Bangalore University rank 5 (2007)
+
+Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016)<br/>
+The Indian Institute of Technology Madras Freeship (2007-2009)<br/>
+Bangalore University rank 5 (2007)
 
 <a name="professional"></a>
 # Professional activity
@@ -68,7 +81,7 @@ Americal Physical Society (APS), Materials Research Society (MRS), The Minerals,
 _Philosophical Magazine, Computational Materials Science, New Journal of Physics, Optics Letters, Physical Review X, Crystal Research and Technology_
 
 ## Organization
-- Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_, Santa Fe (August 2019)
+1) Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_, Santa Fe (August 2019)
 
 # Publications
 
