@@ -12,6 +12,6 @@ mathjax: true
 3) [Iconmonstr](https://iconmonstr.com/)
 
 <h2>PDF dump capability</h2>
-<a href="https://www.sejda.com/">Sedja</a>
+<a href="https://www.sejda.com/">Sejda</a>
 
 
