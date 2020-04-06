@@ -1,10 +1,10 @@
 <a name="education"></a> 
 # Education
 
-Doctor of Philosophy (**Ph.D**) in _physics_ (2016, Carnegie Mellon University, Pittsburgh, PA)<br/>
-Master of Science (**M.S.**) in _physics_ (2010, Carnegie Mellon University, Pittsburgh, PA)<br/>
-Master of Science (**M.Sc**) in _physics_ (2009, Indian Institute of Technology - Mardas, Chennai, India)<br/>
-Bachelor of Science (**B.Sc**) in _physics_ , _mathematics_ , _electronics_ (2007, Bangalore University, Bengaluru, India)<br/>
+Doctor of Philosophy (**Ph.D**) in _physics_ (Carnegie Mellon University, 2016)<br/>
+Master of Science (**M.S.**) in _physics_ (Carnegie Mellon University, 2010)<br/>
+Master of Science (**M.Sc**) in _physics_ (Indian Institute of Technology Mardas, 2009)<br/>
+Bachelor of Science (**B.Sc**) in _physics_ ,  _mathematics_ (Bangalore University, 2007)<br/>
 
 <a name="workex"></a>
 # Experience
