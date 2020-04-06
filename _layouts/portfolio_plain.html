@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico?">
+			<link href="https://siddharth-maddali.github.io/feed.xml" rel="alternate" type="application/atom+xml">
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137811376-1"></script>
+			<script>
+  				window.dataLayer = window.dataLayer || [];
+  				function gtag(){dataLayer.push(arguments);}
+  				gtag('js', new Date());
+  				gtag('config', 'UA-137811376-1');
+			</script>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<meta name="google-site-verification" content="-ELtPgoQBEcEJvZJd4mwMvZ4cPvHp3I573TVomRo8FE" />
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<link rel="stylesheet" href="/css/academicons.min.css"/>
+			<script type="text/javascript"
+			  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+			</script>
+			{% seo %}
+		</head>
+		<body>
+			<!--			{% include nav-bar.html %} -->
+			<div class="container">
+			
+			{{ content }}
+						
+			</div>
+			<footer>
+				<!--				{% include website-search.html %} -->
+				{% include share-bar.html %}
+				© 2019-{{ site.time | date: '%Y' }} Siddharth Maddali, all rights reserved.
+			</footer>
+			</body>
+	</html>
+

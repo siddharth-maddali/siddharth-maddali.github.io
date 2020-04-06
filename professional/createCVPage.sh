@@ -10,3 +10,7 @@ sed -i "s/Maddali S\./**Maddali S\.**/g" cv.md
 sed -i "s/Maddali Siddharth/**Maddali Siddharth**/g" cv.md
 sed -i "s/S\. Maddali/**S\. Maddali**/g" cv.md
 
+# create corresponding page used for PDF dump
+cp cv.md cv_download.md
+sed -i "s/layout: portfolio/layout: portfolio_plain/g" cv_download.md
+sed -i "s/resume-nav-body\.html/resume-nav-body-plain.html/g" cv_download.md
