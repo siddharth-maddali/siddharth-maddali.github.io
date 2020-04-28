@@ -78,10 +78,16 @@ Bangalore University rank 5 (2007)
 Americal Physical Society (APS), Materials Research Society (MRS), The Minerals, Metals and Materials Society (TMS)
 
 ## Peer review
-_Philosophical Magazine, Computational Materials Science, New Journal of Physics, Optics Letters, Physical Review X, Crystal Research and Technology_
+_US Department of Energy - Basic Energy Sciences (BES)_ <br/> 
+_Philosophical Magazine_ <br/>
+_Computational Materials Science_ <br/>
+_New Journal of Physics_ <br/> 
+_Optics Letters_ <br/> 
+_Physical Review X_ <br/> 
+_Crystal Research and Technology_
 
 ## Organization
-1) Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_, Santa Fe (August 2019)
+1) Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_ , Santa Fe (August 2019)
 
 # Publications
 
@@ -101,9 +107,9 @@ _Philosophical Magazine, Computational Materials Science, New Journal of Physics
 
 [<a id="cit-Ulvestad2019" href="#call-Ulvestad2019">8</a>] Ulvestad A., Hruszkewycz S. O., Holt M. V. <em>et al.</em>, ``_Multimodal X-ray imaging of grain-level properties and performance in a polycrystalline solar cell_'', Journal of Synchrotron Radiation, vol. 26, number 4, pp. , Jul 2019.  [online](https://doi.org/10.1107/S1600577519003606)
 
-[<a id="cit-Maddali2019a" href="#call-Maddali2019a">9</a>] Maddali Siddharth, Park Jun-Sang, Sharma Hemant <em>et al.</em>, ``_High-energy coherent X-ray diffraction microscopy of polycrystal grains: first steps towards a multi-scale approach_'', , vol. , number , pp. ,  2019.
+[<a id="cit-Maddali2019a" href="#call-Maddali2019a">9</a>] Maddali Siddharth, Park Jun-Sang, Sharma Hemant <em>et al.</em>, ``_High-energy coherent X-ray diffraction microscopy of polycrystal grains: first steps towards a multi-scale approach_'', , vol. , number , pp. ,  2019.  [online](http://arxiv.org/pdf/1903.11815v2)
 
-[<a id="cit-Calvo-Almazan2019a" href="#call-Calvo-Almazan2019a">10</a>] Calvo-Almazan I., Ulvestad A. P., Colegrove E. <em>et al.</em>, ``_Strain Mapping of CdTe Grains in Photovoltaic Devices_'', IEEE Journal of Photovoltaics, vol. , number , pp. 1-10,  2019.
+[<a id="cit-Calvo-Almazan2019a" href="#call-Calvo-Almazan2019a">10</a>] Calvo-Almazan I., Ulvestad A. P., Colegrove E. <em>et al.</em>, ``_Strain Mapping of CdTe Grains in Photovoltaic Devices_'', IEEE Journal of Photovoltaics, vol. , number , pp. 1-10,  2019.  [online](https://ieeexplore.ieee.org/document/8862942)
 
 [<a id="cit-Maddali2018" href="#call-Maddali2018">11</a>] Maddali S., Calvo-Almazan I., Almer J. <em>et al.</em>, ``_Sparse recovery of undersampled intensity patterns for coherent diffraction imaging at high X-ray energies_'', Scientific Reports, vol. 8, number 1, pp. 4959,  2018.  [online](https://www.nature.com/articles/s41598-018-23040-y)
 

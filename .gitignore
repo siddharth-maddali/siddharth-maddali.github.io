@@ -9,3 +9,4 @@ resume-cv/*.bib.*
 .*.*.swp
 blogDrafts/*
 octave-workspace
+scripts/
