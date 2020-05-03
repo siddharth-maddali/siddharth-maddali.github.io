@@ -11,7 +11,7 @@ mathjax: true
 
 Doctor of Philosophy (**Ph.D**) in _physics_ (Carnegie Mellon University, 2016)<br/>
 Master of Science (**M.S.**) in _physics_ (Carnegie Mellon University, 2010)<br/>
-Master of Science (**M.Sc**) in _physics_ (Indian Institute of Technology Mardas, 2009)<br/>
+Master of Science (**M.Sc**) in _physics_ (Indian Institute of Technology Madras, 2009)<br/>
 Bachelor of Science (**B.Sc**) in _physics_ ,  _mathematics_ (Bangalore University, 2007)<br/>
 
 <a name="workex"></a>
@@ -86,7 +86,7 @@ Bangalore University rank 5 (2007)
 Americal Physical Society (APS), Materials Research Society (MRS), The Minerals, Metals and Materials Society (TMS)
 
 ## Peer review
-_US Department of Energy - Basic Energy Sciences (BES)_ <br/> 
+_US Department of Energy: Office of Science - Basic Energy Sciences (BES)_ <br/> 
 _Philosophical Magazine_ <br/>
 _Computational Materials Science_ <br/>
 _New Journal of Physics_ <br/> 
