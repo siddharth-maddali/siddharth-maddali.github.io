@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 author: Siddharth Maddali
 categories: [News]
-tags: [phase retrieval, imaging, @physreva, @argonne, @ComixTeam]
+tags: [phase retrieval, imaging, \@physreva, \@argonne, \@ComixTeam]
 ---
 
 {% include mathjax.html %}
