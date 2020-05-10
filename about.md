@@ -6,7 +6,7 @@ mathjax: true
 ---
 {% include mathjax.html %}
 
-# I may not be $\left\langle e^{tx}\right\rangle$, but I have my moments...
+# I may not be <a href="https://en.wikipedia.org/wiki/Moment-generating_function">$\left\langle e^{tx}\right\rangle$</a>, but I have my moments...
 
 <table class="image" align="left" width="350">
 <tr><td text-align="center"><img src="{{ site.url }}/images/me.png" width="325" align="left" style="margin:0px 20px" ></td></tr>
@@ -15,10 +15,9 @@ mathjax: true
 
 I currently live in Chicago, IL and I'm a physicist at Argonne National Laboratory.
 If you go back far enough, I'm originally from Bengaluru, India but I've done a bit of bouncing between the south and the west of India while growing up. 
-I was born in Bangalore, but grew up in Pune and I've now established roots back in Bangalore again.
+I was born in Bangalore, but grew up in Pune and I've now established roots back in Bengaluru again (yep, the name actually changed in the time that I was gone).
 
-I'm a sucker for all things applied math, as you can probably tell from that groan-inducing [$\left\langle e^{tx} \right\rangle$ title joke](https://en.wikipedia.org/wiki/Moment-generating_function).
-My [career trajectory]({{site.url}}/professional/cv#workex) in physics has been fairly uni-directional ever since high school, with little happening to make me change my mind and pivot elsewhere...so far!
+I'm a sucker for all things applied math, and my [career trajectory]({{site.url}}/professional/cv#workex) in physics has been fairly uni-directional ever since high school, with little happening to make me change my mind and pivot elsewhere...so far!
 
 My broad area of expertise is X-ray imaging and computational materials science which happen to be highly inter-disciplinary fields. 
 I spend most of my time figuring out new ways to image things down to a few nanometers by shining X-rays on them.
@@ -42,7 +41,7 @@ Interesting bit of trivia #2: the X-ray beam at Argonne is so carefully aligned 
 I was also a post-doc at the National Energy Technology Laboratory in Pittsburgh, PA, where I worked on materials discovery using machine learning.
 
 <a name="noseriously"></a>
-At other times, I'm usually playing squash, swimming, looking to learn new math stuff completely orthogonal to my work, trying to achieve Linux supremacy, contributing to open-source software or drinking new beers I come across (after all, I am a Bangalorean!).
+At other times, I'm usually playing squash, swimming, looking to learn new math and physics stuff completely orthogonal to my work, trying to achieve Linux supremacy and automate my life, contributing to open-source software or drinking new beers I come across (after all, I am a Bangalorean!).
 I am a big fan of the great outdoors and have absolutely loved every single one of my hikes, treks and visits to national and state parks around the US.
 I am appropriately wary of social media but nevertheless use Twitter (among other aggregators) to get my daily internet fix.
 I occasionally tweet stuff that I find interesting, <font color="red"><strong>but don't even bother looking for me on Facebook or Instagram</strong></font>.
@@ -54,4 +53,4 @@ I occasionally tweet stuff that I find interesting, <font color="red"><strong>bu
 
 My wife Ranjini is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
 We met in Chennai as students way back in 2007.
-
+We have a daughter, Sattva.

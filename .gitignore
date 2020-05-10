@@ -7,6 +7,7 @@ texput.log
 resume-cv/__pycache__
 resume-cv/*.bib.*
 .*.*.swp
+.*.swp
 blogDrafts/*
 octave-workspace
-scripts/
+tweet-record/

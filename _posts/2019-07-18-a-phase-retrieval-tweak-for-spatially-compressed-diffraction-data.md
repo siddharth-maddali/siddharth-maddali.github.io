@@ -3,7 +3,7 @@ layout: post
 mathjax: true
 author: Siddharth Maddali
 categories: [News]
-tags: [phase retrieval, imaging, \@physreva, \@argonne, \@ComixTeam]
+tags: [phase retrieval, synchrotrons, xray, imaging, microscopy, signal processing]
 ---
 
 {% include mathjax.html %}
@@ -19,4 +19,4 @@ Methods like this will become particularly important when new, powerful synchrot
 
 EDIT: I discovered later that this article received some attention in quite a few other science news outlets, as you can see [here](https://www.altmetric.com/details/51255773/news).
 
-
+EDIT #2: This work was also recent [APS science highlight](https://www.aps.anl.gov/APS-Science-Highlight/2020-04-27/the-aps-upgrade-will-enable-improved-bragg-coherent-diffraction).

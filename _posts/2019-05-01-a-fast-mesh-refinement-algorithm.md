@@ -7,7 +7,7 @@ tags: [mesh, matlab, octave]
 ---
 
 {% include mathjax.html %}
-A way to quickly generate spherical meshes recursively from Platonic solids, and an efficient Matlab/Octave implementation. 
+A way to quickly generate spherical meshes recursively from Platonic solids, with a Matlab/Octave implementation. 
 
 # Introduction
 This post describes an algorithm I devised to refine a geodesic Delaunay mesh to the desired resolution. 

@@ -7,7 +7,7 @@ tags: [linear algebra, quantum mechanics, Fourier transform, spectral decomposit
 ---
 
 {% include mathjax.html %}
-An operator-based proof spectral decomposition of the Fourier transform in terms of the Hermite functions.
+An operator-based proof of spectral decomposition of the Fourier transform in terms of the Hermite functions.
 
 # Introduction
 In my [last post]({{ site.url }}{% post_url 2020-02-15-position-and-momentum-are-similar-in-nature%}) from quite a while ago, I derived a couple of simple but useful similarity relations between the position and momentum operators through the Fourier transform.

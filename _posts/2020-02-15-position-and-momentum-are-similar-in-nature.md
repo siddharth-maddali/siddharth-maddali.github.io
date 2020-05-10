@@ -7,7 +7,7 @@ tags: [linear algebra, quantum mechanics, Fourier transform]
 ---
 
 {% include mathjax.html %}
-This post describes what I find to be an interesting relationship between the position and derivative operators $\hat{X}$ and $\hat{D}_X$, through a similarity transformation with the Fourier transform operator.
+In my opinion an interesting relationship between the position and derivative operators X̂ and D̂ₓ, through a similarity transformation with the Fourier transform operator.
 
 # Introduction
 
