@@ -85,7 +85,7 @@ $$
 \sigma_x^2 \sigma_k^2 &= \frac{1}{|f|^4} \int_\mathbb{R}dx~\left|f(x)\right|^2 x^2 
                             \int_\mathbb{R}dk~\left|\hat{f}(k)\right|^2 k^2 \\
       &= \frac{1}{\left|f\right|^4}\left|\hat{X}f\right|^2 \left|\hat{X}\hat{f}\right|^2 \\
-      &= \frac{1}{\left|f\right|^4}\left|\hat{X}f\right|^2 \left|\hat{X} \mathcal{F} f\right|^2 \\
+      &= \frac{1}{\left|f\right|^4}\left|\hat{X}f\right|^2 \left|\hat{X} \mathcal{F} f\right|^2 \label{eq.interm} \\
       &= \frac{1}{\left|f\right|^4}\left|\hat{X}f\right|^2 \left|-\iota\mathcal{F}\hat{D}_X f\right|^2 \tag{Using Eq. \eqref{eq.rel2}} \\
       &= \frac{1}{\left|f\right|^4}\left|\hat{X}f\right|^2 \left|\hat{D}_X f\right|^2 \tag{$\mathcal{F}$ is unitary, signal power is unchanged} \\
       &\geq \frac{1}{\left|f\right|^4}\left|f^\dagger \hat{X}^\dagger \hat{D}_X f\right|^2 \tag{From the Schwarz inequality, Eq. \eqref{eq.schwarz}}
@@ -121,3 +121,46 @@ $$
 \end{align}
 $$
 ...which completes the proof.
+
+As a last consideration, what would the function $f \in \mathcal{H}$ look like in the case of equality in Eq. \eqref{eq.proof}? 
+For this, we work our way back to the Schwarz inequality applied to Eq. \eqref{eq.interm}, and examine the equality case. 
+We have: 
+$$
+\begin{align}
+	\left| f^\dagger  \hat{X}^\dagger \hat{D}_X f \right| =
+	\left|\hat{X} f\right| \left|\hat{D}_X f\right| \label{eq.schwarzequality}
+\end{align}
+$$
+... which conteptually means that the Hilbert space "vectors" $\hat{X}f$ and $\hat{D}\_X f$ are in the same direction and are therefore related by a constant scalar multiple $C_0 \in \mathbb{C}$:
+$$
+\begin{align}
+	\hat{D}_X f &= C_0 \hat{X} f \\
+	\Longrightarrow \frac{df}{dx} &= C_0 xf \\
+	\therefore \frac{df}{f} &= C_0 x~dx \label{eq.folde}
+\end{align}
+$$
+and we are reduced to solving a good old first-order ordinary differential equation!
+With an appropriate boundary condition $f(x_0) = f_0$, we get: 
+$$
+\begin{align}
+	\ln\frac{f}{f_0} &= \frac{C_0}{2} \left(x^2 - x_0^2\right) \\
+	\therefore f(x) &= \underbrace{\left(f_0 e^{-\frac{C_0 x_0^2}{2}}\right)}_{\equiv A_0 \in \mathbb{C}}
+		e^{\frac{C_0 x^2}{2}} \label{eq.finalsoln}
+\end{align}
+$$
+For the solution in Eq. \eqref{eq.finalsoln} to belong in $\mathcal{H}$ (_i.e._, to be square-integrable), we require that Re$(C_0) < 0$ (failing which the function diverges). 
+Thus with $C_0 \equiv a + \iota b$ with $a < 0$, the last issue to address in completely specifying $f(x)$ is its normalization. 
+We arbitrarily require that the signal energy $\left|f(x)\right|^2 = 1$ unit, and choose $A_0$ in Eq. \eqref{eq.finalsoln} appropriately.
+This finally gives us: 
+$$
+\begin{align}
+	f(x) = \frac{\sqrt{-a}}{2\pi}
+	e^{a\frac{x^2}{2}}
+	e^{\iota b\frac{x^2}{2}}
+	\label{eq.muw}
+\end{align}
+$$
+Such a function, with $a \in \mathbb{R}^-$ and $b \in \mathbb{R}$, will always satisfy $\sigma_x^2 \sigma_k^2 = 1/4$ and is called a _minimum uncertainty wavepacket_, essentially a Gaussian with a phase factor. 
+The real parts of these functions look like this: 
+
+<img src="{{ site.url }}/images/blog/min_uncertainty_wavepacket.png" width="900">
