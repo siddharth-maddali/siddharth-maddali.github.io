@@ -91,13 +91,16 @@ The best example of this is seen in the Markdown source of this post itself:
 Notice how the substring that I want replaced in the tweet, is sandwiched between the HTML comments `<!--id="TwitterDev"-->` and `<!--/id-->`. 
 The first of these contains the Twitter handle I want to put in eventually (`@TwitterDev`). 
 If you're interested in getting into the details of how I did this in a generalized manner (multiple tags), you can take a look at the `cleanUpDescription` function in the [`update-bot.py`](https://github.com/siddharth-maddali/siddharth-maddali.github.io/blob/master/update-bot.py) script.
+Sure enough, the tweet announcing this blog post had the `@TwitterDev` handle in the right place: 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Blog update: How to auto-tweet about Jekyll blog updates using a combination of the <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">@TwitterDev</a> API and some clever shell programming. <a href="https://t.co/y8xEzZbwFo">https://t.co/y8xEzZbwFo</a> <a href="https://twitter.com/hashtag/twitterbot?src=hash&amp;ref_src=twsrc%5Etfw">#twitterbot</a> <a href="https://twitter.com/hashtag/twitterdev?src=hash&amp;ref_src=twsrc%5Etfw">#twitterdev</a> <a href="https://twitter.com/hashtag/twitterapi?src=hash&amp;ref_src=twsrc%5Etfw">#twitterapi</a> <a href="https://twitter.com/hashtag/makefile?src=hash&amp;ref_src=twsrc%5Etfw">#makefile</a> <a href="https://twitter.com/hashtag/jekyll?src=hash&amp;ref_src=twsrc%5Etfw">#jekyll</a></p>&mdash; Siddharth Maddali (@SidDarthious) <a href="https://twitter.com/SidDarthious/status/1264828558255497216?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Another thing I noticed is that the Twitter developer app I created, `update-bot`, gets an honorable mention whenever the tweet is viewed in the phone app:
+Finally, I also noticed is that the Twitter developer app I created, `update-bot`, gets an honorable mention whenever the tweets is viewed in the phone app:
 <br/>
 <img src="{{ site.url }}/images/blog/example-post-phone.png" width="300" style="display:block; margin-left:auto; margin-right:auto">
 <br/>
-This is, of course, not the same as my local `update-bot.py` described above, which is a Python script that I wrote. 
+This, of course, refers to the `update-bot` app I created that's visible on the Twitter dev dashboard, and not the same as my local `update-bot.py` described above (which is a single Python script).
 
 # Conclusion
 The last thing left to be done to truly automate the tweeting of new posts is to put the makefile in a cron job and run it periodically. 
 This would leave me to focus exclusively on generating new content, while the bot I created faithfully notifies all my friends on Twitter!
+I wrote the Bash script [`update-site.sh`](https://github.com/siddharth-maddali/siddharth-maddali.github.io/blob/master/update-site.sh) for this purpose, simply add this script (with the correct pah modifications) to your crontab, and you can stop worrying about tweeting manually about your blog posts!
