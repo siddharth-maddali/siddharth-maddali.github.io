@@ -8,12 +8,16 @@
 # URL, excerpt and hashtags.
 #
 #   Siddharth Maddali
+#   siddharth.mv@protonmail.com
 #   May 2020
 #
 #########################################################################
 
 import twitter      # for auto-tweeting
 import subprocess   # to access pass through python
+import re
+
+from bs4 import BeautifulSoup, Comment # to extract Twitter handles from HTML comments
 
 # Get a searchable string for the blog post permalink
 def getPermalinkSubstring( mystr ): 
@@ -40,9 +44,16 @@ def getTweetContent( xmlobj, pl_substr ):
     return tuple( entry )
 
 # Extracts blog excerpt from description, which contains 
-# other HTML tags like <script>
+# other HTML tags like <script>, puts in Twitter handles 
+# extracted from HTML comments
 def cleanUpDescription( entry ):
     excerpt = entry.split( '\n' )[-1].strip( '<p>' ).strip( '</p>' )
+    soup = BeautifulSoup( excerpt, 'lxml' )
+    comments = soup.findAll( text=lambda text:isinstance( text, Comment ) )[0::2] 
+    handles = [ this.strip( 'id="' ).strip( '"' )for this in comments ]
+    post_strings = [ re.search( '<!--id="%s"-->(.*?)<!--/id-->'%this, excerpt ).group(1) for this in handles ]
+    for pstr, hndl in zip( post_strings, handles ):
+        excerpt = excerpt.replace( '<!--id="%s"-->%s<!--/id-->'%( hndl, pstr ), '@%s'%hndl )
     return excerpt
 
 # Extracts tags from the input markdown file, and perses 
