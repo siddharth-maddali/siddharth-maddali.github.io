@@ -96,13 +96,13 @@ Surely enough, the tweet announcing this blog post is nearly identical to the po
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Blog update: How to auto-tweet about Jekyll blog updates using a combination of the <a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw">@TwitterDev</a> API and some clever shell programming. <a href="https://t.co/y8xEzZbwFo">https://t.co/y8xEzZbwFo</a> <a href="https://twitter.com/hashtag/twitterbot?src=hash&amp;ref_src=twsrc%5Etfw">#twitterbot</a> <a href="https://twitter.com/hashtag/twitterdev?src=hash&amp;ref_src=twsrc%5Etfw">#twitterdev</a> <a href="https://twitter.com/hashtag/twitterapi?src=hash&amp;ref_src=twsrc%5Etfw">#twitterapi</a> <a href="https://twitter.com/hashtag/makefile?src=hash&amp;ref_src=twsrc%5Etfw">#makefile</a> <a href="https://twitter.com/hashtag/jekyll?src=hash&amp;ref_src=twsrc%5Etfw">#jekyll</a></p>&mdash; Siddharth Maddali (@SidDarthious) <a href="https://twitter.com/SidDarthious/status/1264828558255497216?ref_src=twsrc%5Etfw">May 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Conclusion
-An interesting thing I noticed is that the Twitter developer app I created, `update-bot`, gets an honorable mention whenever the tweets are viewed in the phone app:
+An interesting thing I noticed is that my Twitter developer app, `update-bot`, gets an honorable mention whenever the tweets are viewed on a phone and a desktop browser (but not in the embedded tweet above):
 <br/>
 <img src="{{ site.url }}/images/blog/example-post-phone.png" width="300" style="display:block; margin-left:auto; margin-right:auto">
 <br/>
-This, of course, refers to the `update-bot` app I created that's visible on the Twitter dev dashboard, and not the same as my local `update-bot.py` described above (which is a single Python script).
+This, of course, different from my local `update-bot.py` described above (which is a single Python script).
 
-The last thing left to be done to truly automate the tweeting of new posts is to invoke the makefile in a cron job. 
+The last thing left to truly automate the tweeting of new posts is to invoke the makefile in a cron job. 
 This would leave me to focus exclusively on generating new content, while the bot I created faithfully and instantaneously notifies all of Twitter!
 I wrote the Bash script [`update-site.sh`](https://github.com/siddharth-maddali/siddharth-maddali.github.io/blob/master/update-site.sh) for this purpose, which is invoked once a week. 
 I can now sit back while my home server dutifully does my social networking for me!

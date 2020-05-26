@@ -138,5 +138,5 @@ if __name__=="__main__":
         lf.write( tweet )
         lf.write( '\n' )
 
-#    bot = getAuthenticatedBot()
-#    bot.statuses.update( status=tweet )
+    bot = getAuthenticatedBot()
+    bot.statuses.update( status=tweet )
