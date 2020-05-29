@@ -85,14 +85,15 @@ Bangalore University rank 5 (2007)
 ## Society membership
 Americal Physical Society (APS), Materials Research Society (MRS), The Minerals, Metals and Materials Society (TMS)
 
-## Peer review
-_US Department of Energy: Office of Science - Basic Energy Sciences (BES)_ <br/> 
+## Peer review <a href="https://publons.com/researcher/3664194/siddharth-maddali/peer-review/"><i class="ai ai-publons-square ai"></i></a>
+_US Department of Energy: Office of Science - Basic Energy Sciences (BES)_ <br/>
 _Philosophical Magazine_ <br/>
 _Computational Materials Science_ <br/>
-_New Journal of Physics_ <br/> 
-_Optics Letters_ <br/> 
-_Physical Review X_ <br/> 
-_Crystal Research and Technology_
+_New Journal of Physics_ <br/>
+_Optics Letters_ <br/>
+_Physical Review X_ <br/>
+_Crystal Research and Technology_ <br/>
+_Journal of Applied Physics_
 
 ## Organization
 1) Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_ , Santa Fe (August 2019)
