@@ -66,7 +66,7 @@ $$
 \end{align}
 $$
 
-Heisenberg's uncertainty principle categorically states that: 
+Heisenberg's uncertainty principle makes the categorical statement that: 
 $$
 \begin{equation}\label{eq.statement}
 \boxed{\sigma_x^2 \sigma_k^2 \geq \frac{1}{4}}
@@ -75,9 +75,9 @@ $$
 
 # Proof
 The first simplification is to imagine that the functions $f$ and $\hat{f} = \mathcal{F} f$ are shifted so that their means are both at $0$ in their respective conjugate spaces.
-This is not difficult to conceive of, since the transformed function $g(x) \equiv e^{-\iota k_0 x} f(x - x_0)$ has the same variances as $f(x)$ above, but its means are at $0$.
-In other words, the shift $x - x_0$ does not change $\sigma_x$, while the phase factor $e^{-\iota k_0 x}$ does not affect $\sigma_k$ in the corresponding conjugate space.
-So we may as well imagine $f(x)$ to be shifted to the origin without loss of generality.
+This is not difficult to conceive of, since the transformed function $g(x) \equiv e^{-\iota k_0 x} f(x - x_0)$ denotes a function with the exact same shape as $f(x)$ (_i.e._, has the same variances as $f(x)$), but its means are shifted to $0$ in both real and the conjugate spaces.
+In other words, the shift $x - x_0$ does not change $\sigma_x$ in real space, while the phase factor $e^{-\iota k_0 x}$ does not affect $\sigma_k$ in Fourier space.
+So we may as well imagine $f(x)$ to be shifted to the origin without loss of generality in the proof.
 
 Taking this into account, the variances in Eqs. \eqref{eq.varx} and \eqref{eq.vark} give: 
 $$
@@ -103,9 +103,8 @@ $$
     f^\dagger \hat{X}\hat{D}_X f - 
     f^\dagger \hat{D}_X \hat{X} f
     \right) \tag{$\hat{X}^\dagger = \hat{X}$, $\hat{D}_X^\dagger = -\hat{D}_X$} \\
-&= \frac{1}{2} \left[
-    f^\dagger \underbrace{\left(\hat{X}\hat{D}_X - \hat{D}_X \hat{X}\right)}_{ = \left[\hat{X},\hat{D}_X\right] = -\mathbb{1}} f
-    \right] \\
+&= \frac{1}{2}
+		f^\dagger \underbrace{\left(\hat{X}\hat{D}_X - \hat{D}_X \hat{X}\right)}_{ = \left[\hat{X},\hat{D}_X\right] = -\mathbb{1}} f \\
     &= -\frac{1}{2} \left|f\right|^2
 \end{align}
 $$
