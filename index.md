@@ -18,5 +18,5 @@ Meanwhile, for no reason at all, here's a picture I took that I really like...
 <tr><td text-align="center">
 <img src="{{ site.url }}/images/titleBanner.jpg" width="650">
 </td></tr>
-<tr><td class="caption" align="center">McKay Cove, Pacific Highway 1, CA</td></tr>
+<tr><td class="caption" align="center">McWay Cove, Pacific Highway 1, CA</td></tr>
 </table>
