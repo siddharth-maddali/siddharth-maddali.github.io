@@ -76,7 +76,7 @@ Department of Physics, **_May 2008_**
 # Awards and honors
 
 Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016)<br/>
-The Indian Institute of Technology Madras Freeship (2007-2009)<br/>
+The Indian Institute of Technology Madras Merit Scholarship (2007-2009)<br/>
 Bangalore University rank 5 (2007)
 
 <a name="professional"></a>
