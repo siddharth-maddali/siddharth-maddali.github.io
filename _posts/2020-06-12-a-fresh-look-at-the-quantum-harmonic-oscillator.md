@@ -57,7 +57,7 @@ In this post I won't actually lay out all this formalism, but I'll describe a cl
 This insight serves the useful purpose of identifying the all the eigenfunctions of the harmonic oscillator in one shot, without the pain of solving the second-order differential equation in \eqref{eq.sho}.
 The eigenvalues (permissible values of $E$) are linked in a consistent manner by the raising and lowering operators, but that is outside the scope of this post. 
 
-Before defining these operators, I'll do what all cool physicists like to do: make the differential equation more lightweight by setting the value of any arbitrary constant to $1$. 
+I'll first do what all cool physicists like to do: make the differential equation more lightweight by setting the value of any arbitrary constant to $1$. 
 By this I mean assuming that $\hbar = 1$, $m = 1$ and $\omega = 1$ in some suitable units.
 The fundamental nature of the differential equation with all its symmetries becomes clearer this way, without distraction from the junk constants.
 The constants can always be reintroduced later in their correct positions by dimensionally analyzing the final solution. 
