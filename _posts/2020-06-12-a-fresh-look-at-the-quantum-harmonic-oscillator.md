@@ -52,14 +52,15 @@ $$
 $$
 
 # The operator viewpoint
-I will approach the solution of Eq. \eqref{eq.sho} in terms of the familiar raising and lowering operators, but helped along by an insight from the Fourier-conjugate ("similar") nature of $\hat{X}$ and $\hat{D}\_X$ as encoded in Eqs. \eqref{eq.sim1} and \eqref{eq.sim2}.
+The elegant approach to the solution of Eq. \eqref{eq.sho} is in terms of the familiar raising and lowering operators. 
+In this post I won't actually lay out all this formalism, but I'll describe a closely related insight enabled by the Fourier-conjugate ("similar") nature of $\hat{X}$ and $\hat{D}\_X$ as encoded in Eqs. \eqref{eq.sim1} and \eqref{eq.sim2}.
 This insight serves the useful purpose of identifying the all the eigenfunctions of the harmonic oscillator in one shot, without the pain of solving the second-order differential equation in \eqref{eq.sho}.
-The eigenvalues (permissible values of $E$) are linked in a consistent manner by the raising and lowering operators. 
+The eigenvalues (permissible values of $E$) are linked in a consistent manner by the raising and lowering operators, but that is outside the scope of this post. 
 
-Before defining these operators, I'll do what all "cool physicists" like to do: make the differential equation more lightweight by setting the value of any arbitrary constant to $1$. 
+Before defining these operators, I'll do what all cool physicists like to do: make the differential equation more lightweight by setting the value of any arbitrary constant to $1$. 
 By this I mean assuming that $\hbar = 1$, $m = 1$ and $\omega = 1$ in some suitable units.
 The fundamental nature of the differential equation with all its symmetries becomes clearer this way, without distraction from the junk constants.
-The constants can always be reintroduced later in their correct spaces with dimensional analysis of the final solution. 
+The constants can always be reintroduced later in their correct positions by dimensionally analyzing the final solution. 
 In the light of this, Eq. \eqref{eq.sho} is expressed in terms of the reduced operator $\hat{Q}$:
 $$
 \begin{align}
@@ -72,7 +73,7 @@ $$
 
 Since $\hat{Q}$ is made up of operators that are related to each other through the Fourier transform, it is worth looking at what $\hat{Q}$ itself looks like when Fourier-transformed. 
 This is given by the following similarity transformation on $\hat{Q}$. 
-I will also liberally introduce $\\mathcal{F}^{-1}\mathcal{F} = \mathbb{I}$ in between operators to simplify things:
+I will also liberally introduce $\\mathcal{F}^{-1}\mathcal{F} = \mathbb{I}$ in between operators where convenient:
 $$
 \begin{align}
 	\mathcal{F} \hat{Q} \mathcal{F}^{-1} 
@@ -90,7 +91,7 @@ $$
 \end{align}
 $$
 
-Lo and behond, $\hat{Q}$ is invariant under the Fourier transform!
+Lo and behold, $\hat{Q}$ is invariant under the Fourier transform!
 This automatically tells us a lot about the solution of Eq. \eqref{eq.sho_red}.
 In particular, $\hat{Q} \mathcal{F} = \mathcal{F}\hat{Q} \Rightarrow \left[\hat{Q}, \mathcal{F}\right] = 0$ and so $\hat{Q}$ shares a common basis of eigenfunctions with $\mathcal{F}$, which [we know are the Hermite functions](https://siddharth-maddali.github.io/mathematics/2020/03/15/Breaking-down-the-Fourier-transform.html) $\Psi_n(x) = e^{-\frac{x^2}{2}}H_n(x)$ (where the $H_n(x)$ are the Hermite polynomials).
 I am, of course, ignoring the normalization constants that quantum mechanics usually requires for total probability to be unity. 
@@ -103,7 +104,7 @@ Instead, I'd rather idly speculate as to what other operators are invariant unde
 If I restrict myself to those that are only made up of $\hat{X}$ and $\hat{D}\_X$, then the one that jumps out right away is the commutator $\left[\hat{X}, \hat{D}\_X\right] = -\mathbb{I}$.
 This is, however, trivial and boring.
 The anticommutator $\left\\{\hat{X}, \hat{D}\_X\right\\} \equiv \hat{X}\hat{D}\_X + \hat{D}\_X\hat{X}$ flips sign under the Fourier transform; it's easy to show that  $\mathcal{F} \left\\{\hat{X}, \hat{D}\_X\right\\}\mathcal{F}^{-1} = -\left\\{\hat{X}, \hat{D}\_X\right\\}$. 
-I suppose the squared anticommutator satisfies this property, or any even power of the anticommutator for that matter.
+I suppose the squared anticommutator satisfies the invariance property, or any even power of the anticommutator for that matter.
 
 Is there any interesting use case to the even-powered anticommutator of $\hat{X}$ and $\hat{D}\_X$?
 Can you think of other operators that are Fourier-invariant? 
