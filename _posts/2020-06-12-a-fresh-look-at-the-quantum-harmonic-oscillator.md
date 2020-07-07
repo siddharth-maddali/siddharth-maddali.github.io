@@ -95,7 +95,7 @@ Lo and behold, $\hat{Q}$ is invariant under the Fourier transform!
 This automatically tells us a lot about the solution of Eq. \eqref{eq.sho_red}.
 In particular, $\hat{Q} \mathcal{F} = \mathcal{F}\hat{Q} \Rightarrow \left[\hat{Q}, \mathcal{F}\right] = 0$ and so $\hat{Q}$ shares a common basis of eigenfunctions with $\mathcal{F}$, which [we know are the Hermite functions](https://siddharth-maddali.github.io/mathematics/2020/03/15/Breaking-down-the-Fourier-transform.html) $\Psi_n(x) = e^{-\frac{x^2}{2}}H_n(x)$ (where the $H_n(x)$ are the Hermite polynomials).
 I am, of course, ignoring the normalization constants that quantum mechanics usually requires for total probability to be unity. 
-So in one stroke, we have used fundamental knowledge of the Fourier transform to divine the solutions $\Psi_n(x)$ of Eq. \eqref{eq.sho_red} with the hassle of actually solving it!
+So in one stroke, we have used fundamental knowledge of the Fourier transform to divine the solutions $\Psi_n(x)$ of Eq. \eqref{eq.sho_red} without the hassle of actually solving it!
 I think this is a pretty cool realization in itself.
 
 # Conclusion and further ruminations
