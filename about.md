@@ -34,7 +34,7 @@ A lot of this work is just me sitting at a desk simulating such diffraction expe
 I absolutely love the fact that I work a field that involves using a wide range of skills.
 This is in fact a very exciting, dynamic area of research, and [it's only going to get better](https://www.aps.anl.gov/APS-Upgrade/News/DOE-approves-technical-plan-and-cost-estimate-to-upgrade-Argonne-facility)!
 
-Interesting bit of trivia: the world's first ever nuclear reactor (Chicago Pile-1) is buried somewhere on the old site of the laboratory.
+Interesting bit of trivia: the world's first ever nuclear reactor (Chicago Pile-1) is buried somewhere on [the old site of the laboratory](https://www.atlasobscura.com/places/red-gate-woods).
 
 Interesting bit of trivia #2: the X-ray beam at Argonne is so carefully aligned that it is sensitive to <a href="https://www.flickr.com/photos/argonne/32879127374">earthquakes at the other end of the world</a>.
 
