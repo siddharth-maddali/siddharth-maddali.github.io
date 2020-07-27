@@ -109,7 +109,7 @@ if __name__=="__main__":
     import re           # searching for tags
     import datetime     # for logging and makefile tracking purposes
 
-    rss = '/extra/siddharth-maddali.github.io/_site/feed.xml' 
+    rss = '/home/smaddali/local/siddharth-maddali.github.io/_site/feed.xml' 
     root = 'https://siddharth-maddali.github.io'
     fakeroot = 'http://localhost:4000/'
 

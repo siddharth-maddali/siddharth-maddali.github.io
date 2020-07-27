@@ -11,7 +11,7 @@
 # 
 #########################################################
 
-ROOT=/extra/siddharth-maddali.github.io
+ROOT=/${HOME}/local/siddharth-maddali.github.io
 BOT=${ROOT}/update-bot.py
 ZIP=/usr/bin/zip
 
