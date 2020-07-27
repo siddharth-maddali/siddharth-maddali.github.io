@@ -40,6 +40,7 @@ function requestCrawl() {
 	echo "Pausing for 5 sec before requesting Google crawl..."
 	sleep 5
 	curl $CRAWL?sitemap=https://$SITE/sitemap.xml
+	echo
 }
 
 updatePosts
