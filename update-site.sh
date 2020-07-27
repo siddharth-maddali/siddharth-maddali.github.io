@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 ###############################################################
 #
@@ -12,7 +12,11 @@
 #
 ###############################################################
 
-ROOT=/extra/siddharth-maddali.github.io
+PSRC=$HOME/local
+SITE=siddharth-maddali.github.io
+ROOT=$PSRC/$SITE
+CRAWL=http://www.google.com/ping
+
 
 function updatePosts() {
 	cd $ROOT/_drafts
@@ -32,7 +36,14 @@ function autoTweet() {
 	make tweet
 }
 
+function requestCrawl() {
+	echo "Pausing for 5 sec before requesting Google crawl..."
+	sleep 5
+	curl $CRAWL?sitemap=https://$SITE/sitemap.xml
+}
+
 updatePosts
 pushChanges "$1"
 autoTweet
+requestCrawl
 
