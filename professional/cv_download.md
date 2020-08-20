@@ -138,4 +138,6 @@ _Journal of Applied Physics_
 
 [<a id="cit-Renversade2016" href="#call-Renversade2016">18</a>] Renversade L., Quey R., Ludwig W., Menasche D., **Maddali S.**, Suter R. M. and Borbely A., <em>Comparison between diffraction contrast tomography and high-energy diffraction microscopy on a slightly deformed aluminium alloy</em>, **<em>IUCrJ</em>**, vol. 3, number 1, pp. 32--42,  2016.  [online](https://journals.iucr.org/m/issues/2016/01/00/ti5006/)
 
+[<a id="cit-Maddali2020a" href="#call-Maddali2020a">19</a>] **Maddali Siddharth**, Allain Marc, Li Peng, Chamard Virginie and O. Stephan, <em>Detector tilt considerations in high-energy Bragg coherent diffraction imaging: a simulation study</em>, **<em>arXiv</em>**:2008.01843v3, 2020-08-04.
+
 
