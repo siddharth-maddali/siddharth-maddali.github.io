@@ -85,14 +85,15 @@ Bangalore University rank 5 (2007)
 Americal Physical Society (APS), Materials Research Society (MRS), The Minerals, Metals and Materials Society (TMS)
 
 ## Peer review <a href="https://publons.com/researcher/3664194/siddharth-maddali/peer-review/"><i class="ai ai-publons-square ai"></i></a>
-_US Department of Energy: Office of Science - Basic Energy Sciences (BES)_ <br/>
+_US Department of Energy: Office of Science (BES)_ <br/>
 _Philosophical Magazine_ <br/>
 _Computational Materials Science_ <br/>
 _New Journal of Physics_ <br/>
 _Optics Letters_ <br/>
 _Physical Review X_ <br/>
 _Crystal Research and Technology_ <br/>
-_Journal of Applied Physics_
+_Journal of Applied Physics_ <br/>
+_Physical Review Letters_
 
 ## Organization
 1) Workshop: _Advances in Phase Retrieval Methodsfor High-Resolution X-ray Imaging_ , APS/CNM Users Meeting, Argonne National Laboratory, Lemont, IL (August 2020)
