@@ -38,13 +38,14 @@ Department of Physics, **_May 2008_**
 <a name="research"></a>
 # Research interests
 
-**X-ray sciences, direct and diffraction-based imaging:**<br/>
-    Coherent diffraction imaging of tensor fields<br/>
-    High-energy diffraction microscopy<br/>
-    Multiscale characterization with x-rays
+**X-ray sciences (imaging and characterization):**<br/>
+    Coherent diffraction imaging (CDI) of tensor fields<br/>
+    Dark-field x-ray microscopy (DFXM)<br/>
+    High-energy x-ray diffraction microscopy (HEDM)<br/>
+    Multiscale characterization with x-ray probes
     
 **Condensed matter physics:**<br/>
-   Mesoscale and nanoscale structure and lattice strain<br/>
+   Mesoscale/nanoscale structure and lattice strain<br/>
    Interfacial dynamics in polycrystals
 
 **Computational methods in physics:**<br/>
