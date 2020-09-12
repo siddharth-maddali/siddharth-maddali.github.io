@@ -71,6 +71,15 @@ Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (
 The Indian Institute of Technology Madras Merit Scholarship (2007-2009)<br/>
 Bangalore University rank 5 (2007)
 
+<a name="grants"></a>
+# Research grants
+
+## ANL LDRD 2021-0012: _**Coherence-enhanced dark-field imaging for structural heterogeneity in materials**_ 
+**Role**: Principal investigator<br/>
+**Funding**: Argonne LDRD (Laboratory Directed Research and Development) program<br/>
+**Period**: 1<sup>st</sup> Oct 2020 &mdash; 30<sup>th</sup> Sept 2021 (1 year) <br/>
+**Amount**: $300,000
+
 <a name="professional"></a>
 # Professional activity
 
@@ -78,15 +87,7 @@ Bangalore University rank 5 (2007)
 Americal Physical Society (APS), Materials Research Society (MRS), The Minerals, Metals and Materials Society (TMS)
 
 ## Peer review <a href="https://publons.com/researcher/3664194/siddharth-maddali/peer-review/"><i class="ai ai-publons-square ai"></i></a>
-_US Department of Energy: Office of Science (BES)_ <br/>
-_Philosophical Magazine_ <br/>
-_Computational Materials Science_ <br/>
-_New Journal of Physics_ <br/>
-_Optics Letters_ <br/>
-_Physical Review X_ <br/>
-_Crystal Research and Technology_ <br/>
-_Journal of Applied Physics_ <br/>
-_Physical Review Letters_
+_US Department of Energy: Office of Science (BES)_ , _Philosophical Magazine_ , _Computational Materials Science_ , _New Journal of Physics_ , _Optics Letters_ , _Physical Review X_ , _Crystal Research and Technology_ , _Journal of Applied Physics_ , _Physical Review Letters_
 
 ## Organization
 1) Workshop: _Advances in Phase Retrieval Methodsfor High-Resolution X-ray Imaging_ , APS/CNM Users Meeting, Argonne National Laboratory, Lemont, IL (August 2020)
