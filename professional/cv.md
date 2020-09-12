@@ -98,8 +98,7 @@ Americal Physical Society (APS), Materials Research Society (MRS), The Minerals,
 _US Department of Energy: Office of Science (BES)_ , _Philosophical Magazine_ , _Computational Materials Science_ , _New Journal of Physics_ , _Optics Letters_ , _Physical Review X_ , _Crystal Research and Technology_ , _Journal of Applied Physics_ , _Physical Review Letters_
 
 ## Organization
-1) Workshop: _Advances in Phase Retrieval Methodsfor High-Resolution X-ray Imaging_ , APS/CNM Users Meeting, Argonne National Laboratory, Lemont, IL (August 2020)
-
+1) Workshop: _Advances in Phase Retrieval Methodsfor High-Resolution X-ray Imaging_ , APS/CNM Users Meeting, Argonne National Laboratory, Lemont, IL (August 2020)<br/>
 2) Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_ , Santa Fe, NM (August 2019)
 
 # Publications <a href="https://scholar.google.com/citations?user=hsYqvQIAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square ai"></i></a>
@@ -116,7 +115,7 @@ _US Department of Energy: Office of Science (BES)_ , _Philosophical Magazine_ , 
 
 [<a id="cit-Calvo-Almazan2019" href="#call-Calvo-Almazan2019">6</a>] Calvo-Almazan I., Allain M., **Maddali S.**, Chamard V. and Hruszkewycz S. O., <em>Impact and mitigation of angular uncertainties in Bragg coherent x-ray diffraction imaging</em>, **<em>Scientific Reports</em>**, vol. 9, number 1, pp. 6386,  2019.  [online](https://doi.org/10.1038/s41598-019-42797-4)
 
-[<a id="cit-Kandel2019" href="#call-Kandel2019">7</a>] Kandel Saugat, **Maddali S.**, Allain Marc, O. Stephan, Jacobsen Chris and S. Youssef, <em>Using automatic differentiation as a general framework for ptychographic reconstruction</em>, **<em>Opt. Express</em>**, vol. 27, number 13, pp. 18653--18672, Jun 2019.  [online](http://www.opticsexpress.org/abstract.cfm?URI=oe-27-13-18653)
+[<a id="cit-Kandel2019" href="#call-Kandel2019">7</a>] Kandel S., **Maddali S.**, Allain M., Hruszkewycz S. O., Jacobsen C. and Nashed Y., <em>Using automatic differentiation as a general framework for ptychographic reconstruction</em>, **<em>Opt. Express</em>**, vol. 27, number 13, pp. 18653--18672, Jun 2019.  [online](http://www.opticsexpress.org/abstract.cfm?URI=oe-27-13-18653)
 
 [<a id="cit-Krishnamurthy2019" href="#call-Krishnamurthy2019">8</a>] Krishnamurthy N., **Maddali S.**, Hawk J. A. and Romanov V. N., <em>9Cr steel visualization and predictive modeling</em>, **<em>Computational Materials Science</em>**, vol. , number , pp. ,  2019.  [online](http://www.sciencedirect.com/science/article/pii/S0927025619301466)
 
