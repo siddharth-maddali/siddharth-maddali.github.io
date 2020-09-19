@@ -40,7 +40,7 @@ Department of Physics, **_May 2008_**
 
 **X-ray sciences (imaging and characterization):**<br/>
     Coherent diffraction imaging (CDI) of tensor fields<br/>
-    Dark-field x-ray microscopy (DFXM)<br/>
+    Coherent dark-field x-ray microscopy (DFXM)<br/>
     High-energy x-ray diffraction microscopy (HEDM)<br/>
     Multiscale characterization with x-ray probes
     
@@ -87,6 +87,12 @@ Bangalore University rank 5 (2007)
 **Funding**: Argonne LDRD (Laboratory Directed Research and Development) program<br/>
 **Period**: 1<sup>st</sup> Oct 2020 &mdash; 30<sup>th</sup> Sept 2021 (1 year) <br/>
 **Amount**: $300,000
+
+## ANL LDRD 2019-0042: _**Finding Critical Processes of Deformation in Structural Materials with Artificial Intelligence**_ 
+**Role**: Principal investigator<br/>
+**Funding**: Argonne LDRD (Laboratory Directed Research and Development) program<br/>
+**Period**: 1<sup>st</sup> Oct 2020 &mdash; 30<sup>th</sup> Sept 2021 (1 year) <br/>
+**Amount**: $100,000
 
 <a name="professional"></a>
 # Professional activity
