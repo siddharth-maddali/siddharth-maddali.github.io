@@ -31,7 +31,7 @@ google_cse_id: 017891795388792712943:lhqxlsyf4-8
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
 # Build settings
-markdown: kramdown
+markdown: kramdown ~> 2.3.0
 #theme: minima
 theme: jekyll-theme-cayman
 plugins:
