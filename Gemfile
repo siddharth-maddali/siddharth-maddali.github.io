@@ -11,7 +11,7 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 3.8.7"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-theme-cayman", "~> 0.1.1"
+#gem "jekyll-theme-cayman", "~> 0.1.1"
 #gem "jekyll-theme-hydejack", "~> 8.5", ">= 8.5.2"
 #gem "minima", "~> 2.0"
 #gem "slate"
@@ -36,3 +36,6 @@ gem "jekyll-sitemap"
 
 # search engine optimization
 gem "jekyll-seo-tag"
+
+# activesupport
+gem "activesupport", ">= 4.1.11"
