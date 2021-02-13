@@ -44,7 +44,7 @@ I was also a post-doc at the National Energy Technology Laboratory in Pittsburgh
 At other times, I'm usually playing squash, swimming, looking to learn new math and physics stuff completely orthogonal to my work, trying to achieve Linux supremacy and automate my life, contributing to open-source software or drinking new beers I come across (after all, I am a Bangalorean!).
 I am a big fan of the great outdoors and have absolutely loved every single one of my hikes, treks and visits to national and state parks around the US.
 I am appropriately wary of social media but nevertheless use Twitter (among other aggregators) to get my daily internet fix.
-I occasionally tweet stuff that I find interesting, <font color="red"><strong>but don't even bother looking for me on Facebook or Instagram</strong></font>.
+I occasionally tweet stuff that I find interesting, <font color="red"><strong>but don't bother looking for me on Facebook or Instagram</strong></font>.
 
 <table class="image" align="center">
 <tr><td><img src="{{ site.url }}/images/couple.jpg" width="600" style="margin:0px 30px"></td></tr>
