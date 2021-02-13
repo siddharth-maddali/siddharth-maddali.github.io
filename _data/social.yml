@@ -1,9 +1,9 @@
 - name: <img src="/images/LinkedIN.svg">
   link: https://www.linkedin.com/in/siddharthmaddali
-- name: <img src="/images/Twitter.svg">
-  link: https://twitter.com/SidDarthious
 - name: <img src="/images/Github.svg">
   link: https://github.com/siddharth-maddali
+- name: <img src="/images/Twitter.svg">
+  link: https://twitter.com/SidDarthious
 - name: <img src="/images/RSS.svg">
   link: https://siddharth-maddali.github.io/feed.xml
 - name: <img src="/images/Facebook.svg">
