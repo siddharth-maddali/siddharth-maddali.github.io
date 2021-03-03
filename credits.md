@@ -11,7 +11,7 @@ mathjax: true
 2) The [Free social icons](https://github.com/neilorangepeel/Free-Social-Icons) repo on Github<br/>
 3) [Iconmonstr](https://iconmonstr.com/)
 
-<h2>PDF dump capability</h2>
-<a href="https://www.sejda.com/">Sejda</a>
+<h2>PDF generation from web pages</h2>
+<a href="https://wkhtmltopdf.org/">wkHTMLToPDF</a>
 
 

@@ -1,6 +1,6 @@
-- name: <img src="/images/Mail.svg">
+- name: <img src="http://localhost:4000/images/Mail.svg">
   link: mailto:6xlq96aeq@relay.firefox.com
-- name: <img src="/images/Phone.svg">
+- name: <img src="http://localhost:4000/images/Phone.svg">
   link: tel:+14124500639
-- name: <img src="/images/Skype.svg">
+- name: <img src="http://localhost:4000/images/Skype.svg">
   link: skype:siddharth.mv?chat

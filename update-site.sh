@@ -17,6 +17,11 @@ SITE=siddharth-maddali.github.io
 ROOT=$PSRC/$SITE
 CRAWL=http://www.google.com/ping
 
+function updateDocs() { 
+	cd $ROOT
+	echo "Building PDFs..."
+	make docs
+}
 
 function updatePosts() {
 	cd $ROOT/_drafts
@@ -43,6 +48,7 @@ function requestCrawl() {
 	echo
 }
 
+updateDocs
 updatePosts
 pushChanges "$1"
 autoTweet

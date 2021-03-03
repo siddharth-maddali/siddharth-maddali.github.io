@@ -11,19 +11,26 @@
 # 
 #########################################################
 
-ROOT=/${HOME}/local/siddharth-maddali.github.io
+ROOT=${HOME}/local/siddharth-maddali.github.io
 BOT=${ROOT}/update-bot.py
 ZIP=/usr/bin/zip
+H2P=/usr/bin/wkhtmltopdf
 
+# auto-tweeting variables
 POSTS=$(wildcard ${ROOT}/tweet-record/*.md)
 TWEETS=$(POSTS:.md=.tweet)
-
 ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
+
+# html to pdf
+WEB=$(wildcard ${ROOT}/docs/*.html)
+PDF=$(WEB:.html=.pdf)
+DOCLIST=${ROOT}/docs/docs.list
 
 #########################################################
 # Make directives
 #########################################################
 
+#--------------------------------------------------------------
 
 # creates a new <filename>.tweet for every <filename>.md
 %.tweet: %.md
@@ -33,7 +40,19 @@ ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
 $(ARCHIVE):$(TWEETS)
 	$(ZIP) -rv $(ARCHIVE) $(TWEETS)
 
-.PHONY: updatelinks tweet touch clean
+#--------------------------------------------------------------
+
+# builds pdfs from html pages in docs directory
+%.pdf: %.html
+	$(H2P) $< $@
+
+# generates list of pdfs as text file.
+$(DOCLIST):$(PDF)
+	@echo $(PDF) > $(DOCLIST)
+
+#--------------------------------------------------------------
+
+.PHONY: updatelinks tweet touch clean docs
 
 # updatelinks: 
 #	creates symlinks of all new blog posts 
@@ -70,3 +89,8 @@ touch:
 clean: 
 	rm -f $(ROOT)/tweet-record/*.tweet $(ARCHIVE)
 	ls $(ROOT)/tweet-record/*.md | xargs -I '{}' unlink {}
+
+# docs: 
+# 	Rebuilds pdf documents
+docs: $(DOCLIST) 
+
