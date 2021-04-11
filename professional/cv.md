@@ -12,7 +12,7 @@ mathjax: true
 Doctor of Philosophy (**Ph.D**) in _physics_ (Carnegie Mellon University, 2016)<br/>
 Master of Science (**M.S.**) in _physics_ (Carnegie Mellon University, 2010)<br/>
 Master of Science (**M.Sc**) in _physics_ (Indian Institute of Technology Madras, 2009)<br/>
-Bachelor of Science (**B.Sc**) in _physics_ ,  _mathematics_ (Bangalore University, 2007)<br/>
+Bachelor of Science (**B.Sc**) in _physics_ ,  _mathematics_ , _electronics_ (Bangalore University, 2007)<br/>
 
 <a name="workex"></a>
 # Experience
@@ -78,7 +78,7 @@ Department of Physics, **_May 2008_**
 
 Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016)<br/>
 The Indian Institute of Technology Madras Merit Scholarship (2007-2009)<br/>
-Bangalore University rank 5 (2007)
+Bangalore University overall rank 5 (2007)
 
 <a name="grants"></a>
 # Research grants
