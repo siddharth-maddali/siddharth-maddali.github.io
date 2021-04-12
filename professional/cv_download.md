@@ -50,7 +50,7 @@ Department of Physics, **_May 2008_**
    Interfacial dynamics in polycrystals
 
 **Computational methods in physics:**<br/>
-   Inverse problems<br/>
+   Inverse problems, phase retrieval<br/>
    Signal processing and optimization<br/>
    Data science, machine learning, reinforcement learning -based experimental control<br/>
    High-performance computing and scientific software development
