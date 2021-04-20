@@ -51,6 +51,6 @@ I occasionally tweet stuff that I find interesting, <font color="red"><strong>bu
 <tr><td class="caption" align="center">Matanuska glacier, Alaska</td></tr>
 </table>
 
-My wife Ranjini is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
+My wife <span class="notranslate">Ranjini</span> is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
 We met in Chennai as students way back in 2007.
-We have a daughter, Sattva.
+We have a daughter, <span class="notranslate">Sattva</span>.
