@@ -6,7 +6,7 @@ mathjax: true
 ---
 {% include mathjax.html %}
 
-# I may not be <span translate="no"><a href="https://en.wikipedia.org/wiki/Moment-generating_function">$\left\langle e^{tx}\right\rangle$</a></span>, but I have my moments...
+# I may not be <a href="https://en.wikipedia.org/wiki/Moment-generating_function">$\left\langle <span translate="no">e</span>^{tx}\right\rangle$</a>, but I have my moments...
 
 <table class="image" align="left" width="350">
 <tr><td text-align="center"><img src="{{ site.url }}/images/me.png" width="325" align="left" style="margin:0px 20px" ></td></tr>
