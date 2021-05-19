@@ -25,6 +25,7 @@ ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
 WEB=$(wildcard ${ROOT}/docs/*.html)
 PDF=$(WEB:.html=.pdf)
 DOCLIST=${ROOT}/docs/docs.list
+H2PFLAGS=--page-size tabloid
 
 #########################################################
 # Make directives
@@ -44,7 +45,7 @@ $(ARCHIVE):$(TWEETS)
 
 # builds pdfs from html pages in docs directory
 %.pdf: %.html
-	$(H2P) $< $@
+	$(H2P) $(H2PFLAGS) $< $@
 
 # generates list of pdfs as text file.
 $(DOCLIST):$(PDF)
