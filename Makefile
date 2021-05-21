@@ -25,7 +25,7 @@ ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
 WEB=$(wildcard ${ROOT}/docs/*.html)
 PDF=$(WEB:.html=.pdf)
 DOCLIST=${ROOT}/docs/docs.list
-H2PFLAGS=--page-size tabloid
+H2PFLAGS=--page-size A4
 
 #########################################################
 # Make directives
