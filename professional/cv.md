@@ -125,7 +125,7 @@ _US Department of Energy: [Basic Energy Sciences (BES) Program](https://www.ener
 
 # Publications <a href="https://scholar.google.com/citations?user=hsYqvQIAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square ai"></i></a>
 
-[<a id="cit-Wilkin2021" href="#call-Wilkin2021">1</a>] (**Under review**) Wilkin M. J., **Maddali S.**, Hruszkewycz S. O., Pateras A., Sandberg R. L., Harder R. J., Cha W., Suter R. M. and Rollett A. D., <em>Experimental demonstration of coupled multi-peak Bragg coherent diffraction imaging with genetic algorithms</em>, 2021.
+[<a id="cit-Wilkin2021" href="#call-Wilkin2021">1</a>] Wilkin M. J., **Maddali S.**, Hruszkewycz S. O., Pateras A., Sandberg R. L., Harder R. J., Cha W., Suter R. M. and Rollett A. D., <em>Experimental demonstration of coupled multi-peak Bragg coherent diffraction imaging with genetic algorithms</em>, **<em>Phys. Rev. B</em>** (**in press**), May 2021.
 
 [<a id="cit-Bertaux2021" href="#call-Bertaux2021">2</a>] (**Under review**) Bertaux N., Allain M., Weizeorick J., Park J.- S., Kenesei P., Shastri S. D., Almer J., Highland M. J., **Maddali S.** and Hruszkewycz S. O., <em>Sub-pixel high-resolution imaging of high-energy x-rays by sub-wavelength optical imaging</em>, 2021.
 
