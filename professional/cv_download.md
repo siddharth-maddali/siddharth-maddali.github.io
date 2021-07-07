@@ -127,7 +127,7 @@ _US Department of Energy: [Basic Energy Sciences (BES) Program](https://www.ener
 
 [<a id="cit-Bertaux2021" href="#call-Bertaux2021">1</a>] (**Under review**) Bertaux N., Allain M., Weizeorick J., Park J.- S., Kenesei P., Shastri S. D., Almer J., Highland M. J., **Maddali S.** and Hruszkewycz S. O., <em>Sub-pixel high-resolution imaging of high-energy x-rays by sub-wavelength optical imaging</em>, 2021.
 
-[<a id="cit-Kandel2021" href="#call-Kandel2021">2</a>] Kandel S., **Maddali S.**, Nashed Y. S. G., Hruszkewycz S. O., Jacobsen C. and Allain Marc, <em>A matrix-free Levenberg-Marquardt algorithm for efficient ptychographic phase retrieval</em>, **<em>Opt. Express</em>** (**in press**), May 2021.
+[<a id="cit-Kandel2021" href="#call-Kandel2021">2</a>] Kandel S., **Maddali S.**, Nashed Y. S. G, Hruszkewycz S. O., Jacobsen C. and Allain M., <em>Efficient ptychographic phase retrieval via a matrix-free Levenberg-Marquardt algorithm</em>, **<em>Opt. Express</em>**, vol. 29, number 15, pp. 23019--23055, Jul 2021.  [online](http://www.opticsexpress.org/abstract.cfm?URI=oe-29-15-23019)
 
 [<a id="cit-Wilkin2021" href="#call-Wilkin2021">3</a>] Wilkin M. J., **Maddali S.**, Hruszkewycz S. O., Pateras A., Sandberg R. L., Harder R., Cha W., Suter R. M. and Rollett A. D., <em>Experimental demonstration of coupled multi-peak Bragg coherent diffraction imaging with genetic algorithms</em>, **<em>Phys. Rev. B</em>**, vol. 103, number , pp. 214103, Jun 2021.  [online](https://link.aps.org/doi/10.1103/PhysRevB.103.214103)
 
