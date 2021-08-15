@@ -1,10 +1,12 @@
 ---
 layout: portfolio
-title: CV | Siddharth Maddali's web site
+title: Siddharth's CV
 mathjax: true
 ---
 {% include resume-nav-body.html %}
 {% include mathjax.html %}
+<p style="color: red;">NOTE: Icons are clickable links.</p>
+
 
 <a name="education"></a> 
 # Education

@@ -1,0 +1,26 @@
+- name: Phaser
+  logo: /images/software/phaser.png
+  link: https://siddharth-maddali.github.io/Phaser/
+  blurb: 3D phase retrieval for Bragg coherent diffraction imaging (BCDI) applications.
+  langs: Python
+  hardware: CPU, GPU
+- name: frft
+  logo: /images/software/frft.png
+  link: https://siddharth-maddali.github.io/frft/
+  blurb: Fast implementation of the multi-dimensional, fractional-order Fourier transform.
+  langs: Python
+  hardware: CPU
+- name: HierarchicalSmooth
+  logo: /images/software/hsmooth.png
+  link: https://siddharth-maddali.github.io/HierarchicalSmooth/
+  blurb: Implementation of the hierarchical smoothing algorithm for 2D/3D interface networks.
+  langs: Matlab/Octave, Python, C++
+  hardware: CPU
+- name: latex_automate
+  logo: /images/software/latex_auto.png
+  link: https://siddharth-maddali.github.io/latex_automate/
+  blurb: A few scripts that automate document preparation tasks for publications. 
+  langs: $\LaTeX$, Bash
+  hardware: CPU
+
+
