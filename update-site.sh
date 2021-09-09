@@ -16,6 +16,7 @@ PSRC=$HOME/local
 SITE=siddharth-maddali.github.io
 ROOT=$PSRC/$SITE
 CRAWL=http://www.google.com/ping
+PROF=$PSRC/professional
 
 function updateDocs() { 
 	cd $ROOT
@@ -27,6 +28,11 @@ function updatePosts() {
 	cd $ROOT/_drafts
 	#ls *.md | xargs -I '{}' echo $( date +%F )-{}
 	ls *.md | xargs -I '{}' mv {} ../_posts/$( date +%F )-{}
+}
+
+function updateCV() {
+	cd $PROF
+	bash ./createCVPage.sh
 }
 
 function pushChanges() {
@@ -50,6 +56,7 @@ function requestCrawl() {
 
 updateDocs
 updatePosts
+updateCV
 pushChanges "$1"
 autoTweet
 requestCrawl
