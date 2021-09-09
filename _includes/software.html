@@ -1,5 +1,6 @@
-<table style="width:75%;">
+<!--	<table style="width:75%;"> -->
 {% for item in site.data.software %}
+<!--
 <tr>
 	<td>
 		<h2>{{ item.name }}<a href="{{ item.link }}">   <img src="{{ site.url }}/images/Web.svg"></a></h2>
@@ -13,5 +14,19 @@
 		</figure>
 	</td>
 </tr>
+-->
+<ul class="flex-container">
+	<li class="flex-item">
+		<h2>{{ item.name }}<a href="{{ item.link }}">   <img src="{{ site.url }}/images/Web.svg"></a></h2>
+		<b>Description</b>: {{ item.blurb }}<br/>
+		<b>Language(s)</b>: {{item.langs }}<br/>
+		<b>Hardware</b>: {{ item.hardware }}
+	</li>
+	<li>
+		<figure>
+			<img src="{{ item.logo }}" style="width:60%">
+		</figure>
+	</li>
+</ul>
 {% endfor %}
-</table>
+<!--	</table> -->

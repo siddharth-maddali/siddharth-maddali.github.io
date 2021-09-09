@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: software
 title: Software
 mathjax: true
 ---
