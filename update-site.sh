@@ -16,7 +16,7 @@ PSRC=$HOME/local
 SITE=siddharth-maddali.github.io
 ROOT=$PSRC/$SITE
 CRAWL=http://www.google.com/ping
-PROF=$PSRC/professional
+PROF=$PSRC/$SITE/professional
 
 function updateDocs() { 
 	cd $ROOT
