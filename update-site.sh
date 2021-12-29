@@ -18,6 +18,11 @@ ROOT=$PSRC/$SITE
 CRAWL=http://www.google.com/ping
 PROF=$PSRC/$SITE/professional
 
+function updateCV() {
+	cd $PROF
+	bash ./createCVPage.sh
+}
+
 function updateDocs() { 
 	cd $ROOT
 	echo "Building PDFs..."
@@ -28,11 +33,6 @@ function updatePosts() {
 	cd $ROOT/_drafts
 	#ls *.md | xargs -I '{}' echo $( date +%F )-{}
 	ls *.md | xargs -I '{}' mv {} ../_posts/$( date +%F )-{}
-}
-
-function updateCV() {
-	cd $PROF
-	bash ./createCVPage.sh
 }
 
 function pushChanges() {
