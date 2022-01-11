@@ -115,9 +115,9 @@ _US Department of Energy: [Basic Energy Sciences (BES) Program](https://www.ener
 
 # Technical reports
 
-[1] R. Pokharel, C. Bolme, J. Bohon, A. Mandal, D. Pagan, F. Hofmann, ****S. Maddali****, A. Rack, _Advanced probes and data analytics for enabling 3-D imaging under dynamic conditions_ ([**LAUR-19-31832**](https://www.lanl.gov/science-innovation/science-facilities/dmmsc/_assets/docs/workshops/Advanced-Imaging-Report.pdf)), **Los Alamos National Laboratory**, 2019.
+[1] R. Pokharel, C. Bolme, J. Bohon, A. Mandal, D. Pagan, F. Hofmann, <strong>**S. Maddali**</strong>, A. Rack, _Advanced probes and data analytics for enabling 3-D imaging under dynamic conditions_ ([**LAUR-19-31832**](https://www.lanl.gov/science-innovation/science-facilities/dmmsc/_assets/docs/workshops/Advanced-Imaging-Report.pdf)), **Los Alamos National Laboratory**, 2019.
 
-[2] N. Krishnamurthy, ****S. Maddali****, A. Verma, L. Bruckman, J. Carter, R. French, V. Romanov, J. Hawk, _Data analytics for alloy qualification_ ([**NETL-PUB-21550**](https://www.osti.gov/biblio/1456238)), **National Energy technology Laboratory**, 2017. 
+[2] N. Krishnamurthy, <strong>**S. Maddali**</strong>, A. Verma, L. Bruckman, J. Carter, R. French, V. Romanov, J. Hawk, _Data analytics for alloy qualification_ ([**NETL-PUB-21550**](https://www.osti.gov/biblio/1456238)), **National Energy technology Laboratory**, 2017. 
 
 # Conference presentations
 
