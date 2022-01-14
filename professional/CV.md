@@ -54,9 +54,10 @@ Department of Physics, **_May 2008_**
 
 ## Invited
 
-1) Workshop on _Advanced probes and data analytics for enabling single-pulse imaging under dynamic conditions_, Santa Fe, NM (August 2019)<br/>
-2) The Minerals, Metals and Materials Society (TMS), San Antonio, TX (March 2019)<br/>
-3) Department of physics, Carnegie Mellon University, Pittsburgh, PA (May 2018)<br/>
+1) _New materials characterization capabilities with high-energy coherent X-rays_, Argonne Materials Science Division Colloquium, Lemont, IL (October 2021)<br/>
+2) Workshop on _Advanced probes and data analytics for enabling single-pulse imaging under dynamic conditions_, Santa Fe, NM (August 2019)<br/>
+3) The Minerals, Metals and Materials Society (TMS), San Antonio, TX (March 2019)<br/>
+4) Department of physics, Carnegie Mellon University, Pittsburgh, PA (May 2018)<br/>
 
 ## Select contributed
 1) Gordon X-ray Science Seminar, Easton, MA (July-August 2019: seminar & poster; July-August 2017: discussion leader)<br/>
