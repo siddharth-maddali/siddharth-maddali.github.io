@@ -108,7 +108,7 @@ Americal Physical Society (APS), Materials Research Society (MRS), The Minerals,
 **Aug 2021 &mdash; present**: Guest editor for _MDPI: Crystals_ special issue: [Synchrotron studies of materials](https://www.mdpi.com/journal/crystals/special_issues/Synchrotron_Studies). 
 
 ## Peer review <a href="https://publons.com/researcher/3664194/siddharth-maddali/peer-review/"><i class="ai ai-publons-square ai"></i></a>
-_US Department of Energy: [Basic Energy Sciences (BES) Program](https://www.energy.gov/science/bes/basic-energy-sciences)_ , _Philosophical Magazine_ , _Computational Materials Science_ , _New Journal of Physics_ , _Optics Letters_ , _Physical Review X_ , _Crystal Research and Technology_ , _Journal of Applied Physics_ , _Physical Review Letters_ , _Physical Review B_ , _IUCr Journal of Synchrotron Radiation_ , _Optics Express_
+_US Department of Energy: [Basic Energy Sciences (BES) Program](https://www.energy.gov/science/bes/basic-energy-sciences)_ , _Philosophical Magazine_ , _Computational Materials Science_ , _New Journal of Physics_ , _Optics Letters_ , _Physical Review X_ , _Crystal Research and Technology_ , _Journal of Applied Physics_ , _Physical Review Letters_ , _Physical Review B_ , _IUCr Journal of Synchrotron Radiation_ , _Optics Express_ , _Journal of Applied Crystallography_
 
 ## Organization
 1) Workshop: _Advances in Phase Retrieval Methods for High-Resolution X-ray Imaging_ , APS/CNM Users Meeting, Argonne National Laboratory, Lemont, IL, USA (August 2020)<br/>
