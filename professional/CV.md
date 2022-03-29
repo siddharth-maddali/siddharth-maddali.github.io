@@ -54,10 +54,11 @@ Department of Physics, **_May 2008_**
 
 ## Invited
 
-1) _New materials characterization capabilities with high-energy coherent X-rays_, Argonne Materials Science Division Colloquium, Lemont, IL (October 2021)<br/>
-2) Workshop on _Advanced probes and data analytics for enabling single-pulse imaging under dynamic conditions_, Santa Fe, NM (August 2019)<br/>
-3) The Minerals, Metals and Materials Society (TMS), San Antonio, TX (March 2019)<br/>
-4) Department of physics, Carnegie Mellon University, Pittsburgh, PA (May 2018)<br/>
+1) Advanced Photon Source Scientific Computation Seminar, Argonne National Laboratory, Lemont, IL (March 2022)<br/>
+2) _New materials characterization capabilities with high-energy coherent X-rays_, Argonne Materials Science Division Colloquium, Lemont, IL (October 2021)<br/>
+3) Workshop on _Advanced probes and data analytics for enabling single-pulse imaging under dynamic conditions_, Santa Fe, NM (August 2019)<br/>
+4) The Minerals, Metals and Materials Society (TMS), San Antonio, TX (March 2019)<br/>
+5) Department of physics, Carnegie Mellon University, Pittsburgh, PA (May 2018)<br/>
 
 ## Select contributed
 1) Gordon X-ray Science Seminar, Easton, MA (July-August 2019: seminar & poster; July-August 2017: discussion leader)<br/>
@@ -101,8 +102,9 @@ Americal Physical Society (APS), Materials Research Society (MRS), The Minerals,
 _US Department of Energy: [Basic Energy Sciences (BES) Program](https://www.energy.gov/science/bes/basic-energy-sciences)_ , _Philosophical Magazine_ , _Computational Materials Science_ , _New Journal of Physics_ , _Optics Letters_ , _Physical Review X_ , _Crystal Research and Technology_ , _Journal of Applied Physics_ , _Physical Review Letters_ , _Physical Review B_ , _IUCr Journal of Synchrotron Radiation_ , _Optics Express_ , _Journal of Applied Crystallography_
 
 ## Organization
-1) Workshop: _Advances in Phase Retrieval Methods for High-Resolution X-ray Imaging_ , APS/CNM Users Meeting, Argonne National Laboratory, Lemont, IL, USA (August 2020)<br/>
-2) Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_ , Santa Fe, NM, USA (August 2019)
+1) Workshop (Session chair): _Dark field x-ray microscopy for mesoscale phenomena in ordered materials at APS-U_ : APS/CNM Users Meeting, Lemont, IL, USA (May 2022)<br/>
+2) Workshop: _Advances in Phase Retrieval Methods for High-Resolution X-ray Imaging_ , APS/CNM Users Meeting, Argonne National Laboratory, Lemont, IL, USA (August 2020)<br/>
+3) Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_ , Santa Fe, NM, USA (August 2019)
 
 # Technical reports
 
