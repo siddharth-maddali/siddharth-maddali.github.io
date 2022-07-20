@@ -128,6 +128,43 @@ _US Department of Energy: [Basic Energy Sciences (BES) Program](https://www.ener
 
 [2] Krishnamurthy, N., **Maddali, S.**, Romanov, V. & Hawk, J., _Segmentation of 9Cr Steel Samples based on Composition and Mechanical Property_. **Bulletin of the American Physical Society**, APS, 2017, 62 ([abstract](http://meetings.aps.org/link/BAPS.2017.MAR.G1.156))
 
+# References
+<!--
+Stephan
+Bob
+Tony
+Youssef
+Shlomo
+Marc
+Saugat
+Matt
+-->
+<b>Dr. Stephan O. Hruszkewycz</b><br/>
+Synchrotron Studies of Materials<br/>
+Materials Science Division<br/>
+Argonne National Laboratory<br/>
+Chicago, IL (USA)<br/>
+<a href="https://www.anl.gov/profile/stephan-o-hruszkewycz"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:shrus@anl.gov"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a>
+
+<b>Dr. Robert M. Suter</b><br/>
+Department of physics<br/>
+Carnegie Mellon University<br/>
+Pittsburgh, PA (USA)<br/>
+<a href="https://www.cmu.edu/physics/people/faculty/suter.html"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:suter@andrew.cmu.edu"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a>
+
+<b>Dr. Anthony D. Rollett</b><br/>
+Department of Materials Science and Engineering<br/>
+Carnegie Mellon University<br/>
+Pittsburgh, PA (USA)<br/>
+<a href="https://www.cmu.edu/engineering/materials/people/faculty/bios/rollett-up-7jan21.html"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:rollett@andrew.cmu.edu"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a>
+
+<b>Dr. Marc Allain</b><br/>
+Institut Fresnel<br/>
+Aix-Marseille University<br/>
+Grenoble, France<br/>
+<a href="mailto:marc.allain@fresnel.fr"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a>
+
+
 # Publications <a href="https://scholar.google.com/citations?user=hsYqvQIAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square ai"></i></a>
 
 [<a id="cit-Bertaux2021" href="#call-Bertaux2021">1</a>] N. Bertaux, M. Allain, J. Weizeorick, J.-. Park, P. Kenesei, S.D. Shastri, J. Almer, M.J. Highland, **S. Maddali** and S.O. Hruszkewycz, <em>Sub-pixel high-resolution imaging of high-energy x-rays inspired by sub-wavelength optical imaging</em>, **<em>Opt. Express</em>**, vol. 29, number 22, pp. 35003--35021, Oct 2021.  [online](http://www.osapublishing.org/oe/abstract.cfm?URI=oe-29-22-35003)

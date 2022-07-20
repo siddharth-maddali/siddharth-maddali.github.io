@@ -2,6 +2,7 @@
 
 cp CV-original.ipynb CV.ipynb
 sed -i "s/# References/# Publications \<a href=\\\\\"https:\/\/scholar\.google\.com\/citations?user=hsYqvQIAAAAJ\&hl=en\&oi=ao\\\\\"\>\<i class=\\\\\"ai ai-google-scholar-square ai\\\\\"\>\<\/i\>\<\/a\>/g" CV.ipynb
+sed -i "s/Reeferences/References/g" CV.ipynb
 sed -i "/cite{/d" CV.ipynb # removes explicit citations
 jupyter nbconvert --to markdown CV.ipynb
 cat header.txt CV.md > cv.md
