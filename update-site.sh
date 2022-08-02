@@ -54,9 +54,9 @@ function requestCrawl() {
 	echo
 }
 
+updateCV # should come before updateDocs!
 updateDocs
 updatePosts
-updateCV
 pushChanges "$1"
 autoTweet
 requestCrawl
