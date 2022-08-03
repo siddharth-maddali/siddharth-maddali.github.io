@@ -13,7 +13,7 @@
 ###############################################################
 
 PSRC=$HOME/local
-SITE=siddharth-maddali.github.io
+SITE=/home/smaddali/local/siddharth-maddali.github.io
 ROOT=$PSRC/$SITE
 CRAWL=http://www.google.com/ping
 PROF=$PSRC/$SITE/professional
@@ -54,7 +54,7 @@ function requestCrawl() {
 	echo
 }
 
-updateCV # should come before updateDocs!
+updateCV
 updateDocs
 updatePosts
 pushChanges "$1"
