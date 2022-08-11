@@ -166,8 +166,6 @@ Grenoble, France<br/>
 <a href="https://www.researchgate.net/profile/Marc-Allain"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:marc.allain@fresnel.fr"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a>
 
 
-Accompanying text <div class="altmetric-embed" data-badge-type="1" data-altmetric-id="51255773" style="display: inline-block;"></div>
-
 # Publications <a href="https://scholar.google.com/citations?user=hsYqvQIAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square ai"></i></a>
 
 [<a id="cit-Hill2022" href="#call-Hill2022">1</a>] (**Under review**) M. Hill, P. Schmiedeke, C. Huang, **S. Maddali**, X. Hu, S.O. Hruszkewycz, J.J. Finley, G. Koblmueller and L. Lauhon, <em>3D Bragg coherent diffraction imaging of extended nanowires: defect formation in highly strained InGaAs quantum wells</em>, 2022.
@@ -190,7 +188,7 @@ Accompanying text <div class="altmetric-embed" data-badge-type="1" data-altmetri
 
 [<a id="cit-Li2020" href="#call-Li2020">10</a>] P. Li, **S. Maddali**, A. Pateras, I. Calvo-Almazan, S. Hruszkewycz, W. Cha, V. Chamard and M. Allain, <em>General approaches for shear-correcting coordinate transformations in Bragg coherent diffraction imaging. Part II</em>, **<em>Journal of Applied Crystallography</em>**, vol. 53, number 2, pp. , Apr 2020. <a href="https://arxiv.org/abs/1909.05354"><img src="https://img.shields.io/badge/preprint-arXiv:1909.05354-green.svg"></a>   <a href="https://doi.org/10.1107/S1600576720001375"><img src="https://img.shields.io/badge/DOI-10.1107/S1600576720001375-1292FC.svg"></a>
 
-[<a id="cit-Maddali2019" href="#call-Maddali2019">11</a>] **S. Maddali**, M. Allain, W. Cha, R. Harder, J. Park, P. Kenesei, J. Almer, Y. Nashed and S.O. Hruszkewycz, <em>Phase retrieval for Bragg coherent diffraction imaging at high x-ray energies</em>, **<em>Phys. Rev. A</em>**, vol. 99, number , pp. 053838, May 2019. <a href="https://arxiv.org/abs/1811.06181"><img src="https://img.shields.io/badge/preprint-arXiv:1811.06181-green.svg"></a>   <a href="https://doi.org/10.1103/PhysRevA.99.053838"><img src="https://img.shields.io/badge/DOI-10.1103/PhysRevA.99.053838-1292FC.svg"></a>  <div class="altmetric-embed" data-badge-type="1" data-altmetric-id="51255773"></div>
+[<a id="cit-Maddali2019" href="#call-Maddali2019">11</a>] **S. Maddali**, M. Allain, W. Cha, R. Harder, J. Park, P. Kenesei, J. Almer, Y. Nashed and S.O. Hruszkewycz, <em>Phase retrieval for Bragg coherent diffraction imaging at high x-ray energies</em>, **<em>Phys. Rev. A</em>**, vol. 99, number , pp. 053838, May 2019. <a href="https://arxiv.org/abs/1811.06181"><img src="https://img.shields.io/badge/preprint-arXiv:1811.06181-green.svg"></a>   <a href="https://doi.org/10.1103/PhysRevA.99.053838"><img src="https://img.shields.io/badge/DOI-10.1103/PhysRevA.99.053838-1292FC.svg"></a>
 
 [<a id="cit-Calvo-Almazan2019" href="#call-Calvo-Almazan2019">12</a>] I. Calvo-Almazan, M. Allain, **S. Maddali**, V. Chamard and S.O. Hruszkewycz, <em>Impact and mitigation of angular uncertainties in Bragg coherent x-ray diffraction imaging</em>, **<em>Scientific Reports</em>**, vol. 9, number 1, pp. 6386,  2019.  <a href="https://doi.org/10.1038/s41598-019-42797-4"><img src="https://img.shields.io/badge/DOI-10.1038/s41598--019--42797--4-1292FC.svg"></a>
 
