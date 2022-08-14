@@ -12,10 +12,11 @@
 #
 ###############################################################
 
-SITE=/home/smaddali/local/siddharth-maddali.github.io
-ROOT=$SITE
+PSRC=$HOME/local
+SITE=siddharth-maddali.github.io
+ROOT=$PSRC/$SITE
 CRAWL=http://www.google.com/ping
-PROF=$SITE/professional
+PROF=$PSRC/$SITE/professional
 
 function updateCV() {
 	cd $PROF
