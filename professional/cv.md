@@ -51,7 +51,7 @@ Department of Physics, **_May 2008_**
 <u><b>Condensed matter physics</b></u>:<br/>
    Light-matter interaction<br/>
    Crystallography<br/>
-   Meso/nanoscale structure \& strain<br/>
+   Meso/nanoscale structure & strain<br/>
    Interfacial dynamics in polycrystals<br/>
 
 <u><b>Computational methods</b></u>:<br/>

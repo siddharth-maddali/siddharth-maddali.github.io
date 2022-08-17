@@ -25,7 +25,7 @@ ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
 WEB=$(wildcard ${ROOT}/docs/*.html)
 PDF=$(WEB:.html=.pdf)
 DOCLIST=${ROOT}/docs/docs.list
-H2PFLAGS=--page-size A4
+H2PFLAGS=--page-size A4 --margin-top 10mm --margin-bottom 10mm --margin-left 10mm --margin-right 10mm
 
 #########################################################
 # Make directives
