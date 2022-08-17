@@ -30,23 +30,26 @@ Department of Physics, **_May 2008_**
 <a name="research"></a>
 # Research interests
 
-**X-ray sciences (imaging and characterization):**<br/>
+<u><b>X-ray sciences</b></u>:<br/>
     Coherent diffraction imaging (CDI) of tensor fields<br/>
     Coherent dark-field x-ray microscopy (DFXM)<br/>
     High-energy x-ray diffraction microscopy (HEDM)<br/>
     Multiscale characterization 
     with x-ray probes<br/>
-    X-ray photon correlation spectroscopy (XPCS)
+    X-ray photon correlation spectroscopy (XPCS)<br/>
     
-**Condensed matter physics:**<br/>
-   Mesoscale/nanoscale structure and lattice strain<br/>
-   Interfacial dynamics in polycrystals
+<u><b>Condensed matter physics</b></u>:<br/>
+   Light-matter interaction<br/>
+   Crystallography<br/>
+   Meso/nanoscale structure \& strain<br/>
+   Interfacial dynamics in polycrystals<br/>
 
-**Computational methods in physics:**<br/>     
-   Inverse problems in imaging, phase retrieval<br/>
+<u><b>Computational methods</b></u>:<br/>
+   Inverse problems, phase retrieval<br/>
    Signal processing and optimization<br/>
    Data science, machine learning, reinforcement learning -based experimental control<br/>
-   High-performance computing and scientific software development
+   High-performance computing and scientific software development<br/>
+   
 
 
 
