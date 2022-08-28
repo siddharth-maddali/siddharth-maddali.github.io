@@ -6,8 +6,8 @@
   link: https://orcid.org/0000-0003-4516-6250
 - name: <i class="ai ai-researchgate-square ai-3x"></i>                 # researchgate
   link: https://www.researchgate.net/profile/Siddharth_Maddali
-- name: <i class="ai ai-publons-square ai-3x"></i>                      # publons
-  link: https://publons.com/researcher/3664194/siddharth-maddali/peer-review/
+- name: <i class="ai ai-researcherid-square ai-3x"></i>                      # researcherID
+  link: https://www.webofscience.com/wos/author/record/1891174
 - name: <i class="ai ai-scopus-square ai-3x"></i>                      # scopus
   link: https://www.scopus.com/authid/detail.uri?authorId=57045870900
 

@@ -22,9 +22,9 @@ TWEETS=$(POSTS:.md=.tweet)
 ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
 
 # html to pdf
-WEB=$(wildcard ${ROOT}/docs/*.html)
+WEB=$(wildcard ${ROOT}/_site/professional/*_download.html)
 PDF=$(WEB:.html=.pdf)
-DOCLIST=${ROOT}/docs/docs.list
+DOCLIST=${ROOT}/_site/docs.list
 H2PFLAGS=--page-size A4 --margin-top 10mm --margin-bottom 10mm --margin-left 10mm --margin-right 10mm
 #H2PFLAGS=--page-size A4 
 
@@ -47,6 +47,7 @@ $(ARCHIVE):$(TWEETS)
 # builds pdfs from html pages in docs directory
 %.pdf: %.html
 	$(H2P) $(H2PFLAGS) $< $@
+	@cp $@ ./professional/
 
 # generates list of pdfs as text file.
 $(DOCLIST):$(PDF)
@@ -54,7 +55,7 @@ $(DOCLIST):$(PDF)
 
 #--------------------------------------------------------------
 
-.PHONY: updatelinks tweet touch clean docs
+.PHONY: updatelinks tweet touch clean docs test
 
 # updatelinks: 
 #	creates symlinks of all new blog posts 

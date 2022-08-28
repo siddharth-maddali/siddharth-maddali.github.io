@@ -1,0 +1,10 @@
+---
+layout: portfolio
+title: Siddharth's CV
+mathjax: true
+---
+{% include resume-nav-body.html %}
+{% include mathjax.html %}
+<p style="color: red;">NOTE: Icons are clickable links.</p>
+
+
