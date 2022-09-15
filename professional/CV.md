@@ -90,8 +90,8 @@ Bangalore University overall rank 5 (2007)
 ## ANL LDRD 2021-0012: _**Coherence-enhanced dark-field imaging for structural heterogeneity in materials**_ 
 **Role**: Principal investigator<br/>
 **Funding**: Argonne LDRD (Laboratory Directed Research and Development) program<br/>
-**Period**: 1<sup>st</sup> Oct 2020 &mdash; 30<sup>th</sup> Sept 2022 (2 years) <br/>
-**Amount**: $630,000
+**Period**: 1<sup>st</sup> Oct 2020 &mdash; 30<sup>th</sup> Sept 2023 (3 years) <br/>
+**Amount**: $900,000
 
 ## ANL LDRD 2019-0042: _**Finding Critical Processes of Deformation in Structural Materials with Artificial Intelligence**_ 
 **Role**: Principal investigator<br/>

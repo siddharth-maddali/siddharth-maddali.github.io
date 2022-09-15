@@ -274,6 +274,7 @@ GEM
     zeitwerk (2.4.1)
 
 PLATFORMS
+  arm-linux
   java
   ruby
   x64-mingw32
@@ -289,4 +290,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.1.4
+   2.2.2
