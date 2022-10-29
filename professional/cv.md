@@ -170,7 +170,7 @@ Grenoble, France<br/>
 
 # Publications <a href="https://scholar.google.com/citations?user=hsYqvQIAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square ai"></i></a>
 
-[<a id="cit-Hill2022" href="#call-Hill2022">1</a>] (**Under review**) M. Hill, P. Schmiedeke, C. Huang, **S. Maddali**, X. Hu, S.O. Hruszkewycz, J.J. Finley, G. Koblmueller and L. Lauhon, <em>3D Bragg coherent diffraction imaging of extended nanowires: defect formation in highly strained InGaAs quantum wells</em>, 2022.
+[<a id="cit-Hill2022" href="#call-Hill2022">1</a>] M. Hill, P. Schmiedeke, C. Huang, **S. Maddali**, X. Hu, S.O. Hruszkewycz, J.J. Finley, G. Koblmueller and L. Lauhon, <em>3D Bragg coherent diffraction imaging of extended nanowires: defect formation in highly strained InGaAs quantum wells</em>, **<em>ACS Nano</em>** (**in press**),  2022.
 
 [<a id="cit-Maddali2022" href="#call-Maddali2022">2</a>] (**Under review**) **S. Maddali**, T.D. Frazer, N. Delegan, K.J. Harmon, S.E. Sullivan, M. Allain, W. Cha, A. Dibos, I. Poudyal, S. Kandel, Y.S.G. Nashed, F.J. Heremans, H. You, Y. Cao and S.O. Hruszkewycz, <em>A differentiable forward model for the concurrent, multi-peak Bragg coherent x-ray diffraction imaging problem</em>, 2022. <a href="https://arxiv.org/abs/2208.00970" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/preprint-arXiv:2208.00970-green.svg"></a> 
 
