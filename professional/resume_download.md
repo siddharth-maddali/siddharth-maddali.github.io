@@ -1,6 +1,6 @@
 ---
 layout: portfolio_plain
-title: Siddharth's resumé
+title: Resumé | Siddharth Maddali's website
 mathjax: true
 ---
 {% include resume-nav-body-plain.html %}
