@@ -1,6 +1,7 @@
 body {
-    margin: 60px auto;
+    margin: 20px auto;
     width: 90%;
+	text-rendering: geometricPrecision;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -20,12 +21,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
+    font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.25em;
-    line-height: 1.25em;
+    font-size: 1.5em;
+    line-height: 1.4em;
     color: #333;
 }
 footer {
@@ -42,3 +43,54 @@ ul.posts li {
     list-style: none;
 }
 
+.twitterborder {
+    width:300px;
+/*  height:300px; */
+    margin-top:3px;
+    margin-right:5%;
+    float:right;
+/*    background:#707070;
+    text-align: center;		 */
+}
+
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+table.table1 {
+	width: 100%;	
+	border-style: hidden; 
+/*	border-collapse: collapse;		*/
+}
+table.table1 th {
+	width: 100%;
+    font-size: 1.4em;
+    line-height: 1.3em;
+    color: #000000;
+/*	border-style: hidden; 
+	border-collapse: collapse; 		*/
+}
+table.table1 td {
+	width: 100%;
+	border: 0; 
+    font-size: 1.4em;
+    line-height: 1.3em;
+}
+
+table.table2 {
+	border: 1px solid black;
+	width: 100%;	
+	border-collapse: collapse;
+}
+table.table2 th, tr, td {
+	border: 1px solid black;
+	text-align: center; 
+    font-size: 1.1em;
+    line-height: 1.0em;
+	width: 0.1%; 
+	white-space: nowrap;
+}

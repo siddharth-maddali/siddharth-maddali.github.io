@@ -19,8 +19,11 @@ Bachelor of Science (**B.Sc**) in _physics_ ,  _mathematics_ , _electronics_ (Ba
 <a name="workex"></a>
 # Experience
 
+**Research Scientist**, KLA Corp. (KLA-Tencor)<br/>
+Broadband Plasma (BBP) division, **Nov 2022 - present**
+
 **Assistant Scientist**, Argonne National Laboratory<br/>
-Synchrotron Radiation Studies of Materials group, **_Oct 2019 - present_**
+Synchrotron Radiation Studies of Materials group, **_Oct 2019 - Oct 2022**
     
 **Post-doctoral researcher**, Argonne National Laboratory<br/>
 Coherent diffraction imaging of materials structure, **_Jan 2017 - Sept 2019_**
@@ -40,25 +43,27 @@ Department of Physics, **_May 2008_**
 <a name="research"></a>
 # Research interests
 
-<u><b>X-ray sciences</b></u>:<br/>
+<u><b>Optics/imaging</b></u>:<br/>
+    Metrology, anomaly detection <br/>
     Coherent diffraction imaging (CDI) of tensor fields<br/>
     Coherent dark-field x-ray microscopy (DFXM)<br/>
     High-energy x-ray diffraction microscopy (HEDM)<br/>
     Multiscale characterization 
-    with x-ray probes<br/>
-    X-ray photon correlation spectroscopy (XPCS)<br/>
+    with x-ray &amp; other light probes<br/>
+    X-ray photon correlation spectroscopy (XPCS), dynamic light scattering (DLS) <br/>
     
 <u><b>Condensed matter physics</b></u>:<br/>
-   Light-matter interaction<br/>
-   Crystallography<br/>
-   Meso/nanoscale structure & strain<br/>
-   Interfacial dynamics in polycrystals<br/>
+    Light-matter interaction<br/>
+    Crystallography<br/>
+    Meso/nanoscale structure & strain<br/>
+    Interfacial dynamics in polycrystals<br/>
 
 <u><b>Computational methods</b></u>:<br/>
-   Inverse problems, phase retrieval<br/>
-   Signal processing and optimization<br/>
-   Data science, machine learning, reinforcement learning -based experimental control<br/>
-   High-performance computing and scientific software development<br/>
+    Electromagnetic simulations <br/>
+    Inverse problems, phase retrieval<br/>
+    Signal processing and optimization<br/>
+    Data science, machine learning, reinforcement learning -based experimental control<br/>
+    High-performance computing and scientific software development<br/>
    
 
 

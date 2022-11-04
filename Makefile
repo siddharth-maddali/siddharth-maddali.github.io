@@ -25,8 +25,7 @@ ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
 WEB=$(wildcard ${ROOT}/_site/professional/*_download.html)
 PDF=$(WEB:.html=.pdf)
 DOCLIST=${ROOT}/_site/docs.list
-H2PFLAGS=--page-size A4 --margin-top 5mm --margin-bottom 5mm --margin-left 5mm --margin-right 5mm
-#H2PFLAGS=--page-size A4 
+H2PFLAGS=--enable-local-file-access --page-size A4 --margin-top 5mm --margin-bottom 5mm --margin-left 5mm --margin-right 5mm
 
 #########################################################
 # Make directives

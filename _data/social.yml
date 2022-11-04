@@ -1,12 +1,14 @@
-- name: <img src="/images/LinkedIN.svg">
+- name: <img src="/images/LinkedIN.svg" width="4%">
   link: https://www.linkedin.com/in/siddharthmaddali
-- name: <img src="/images/Github.svg">
+- name: <img src="/images/Github.svg" width="4%">
   link: https://github.com/siddharth-maddali
-- name: <img src="/images/Twitter.svg">
+- name: <img src="/images/Twitter.svg" width="4%">
   link: https://twitter.com/SidDarthious
-- name: <img src="/images/RSS.svg">
+- name: <img src="/images/RSS.svg" width="4%">
   link: https://siddharth-maddali.github.io/feed.xml
-- name: <img src="/images/Facebook.svg">
+- name: <img src="/images/Facebook.svg" width="4%">
   link: /about#noseriously
-- name: <img src="/images/Instagram.svg">
+- name: <img src="/images/Instagram.svg" width="4%">
+  link: /about#noseriously
+- name: <img src="/images/Tiktok.svg" width="4%">
   link: /about#noseriously
