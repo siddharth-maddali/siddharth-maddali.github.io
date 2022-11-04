@@ -21,7 +21,7 @@ sed -i "s/resume-nav-body\.html/resume-nav-body-plain.html/g" cv_download.md
 
 #---------------- Notebook modifications for resume ----------------------------------
 cp Resume-original.ipynb Resume.ipynb
-eupyter nbconvert --to markdown Resume.ipynb
+jupyter nbconvert --to markdown Resume.ipynb
 cat header-resume.txt Resume.md > resume.md
 cp resume.md resume_download.md
 sed -i "s/layout: portfolio/layout: portfolio_plain/g" resume_download.md

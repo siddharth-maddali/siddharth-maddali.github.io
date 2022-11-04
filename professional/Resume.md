@@ -124,8 +124,8 @@
 
 # 🏆 Awards &amp; Grants
 
-&emsp; &mdash; ANL LDRD: <i>Coherence-enhanced dark-field X-ray microscopy</i> (Principal investigator; &#36;930,000). <br/>
-&emsp; &mdash; ANL LDRD: <i>Detecting critical micro-structural processes with artificial intelligence</i> (Principal investigator, &#36;100,000). <br/>
+&emsp; &mdash; ANL LDRD: <i>Coherence-enhanced dark-field X-ray microscopy</i> (PI; &#36;930,000). <br/>
+&emsp; &mdash; ANL LDRD: <i>Detecting critical micro-structural processes with AI</i> (PI, &#36;100,000). <br/>
 &emsp; &mdash; Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016). <br/>
 &emsp; &mdash; Indian Institute of Technology Madras Merit Scholarship (2007 &mdash; 2009). <br/>
 &emsp; &mdash; Bangalore University undergraduate rank 5 (2007). 

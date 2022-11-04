@@ -1,9 +1,9 @@
-- name: <img src="../images/Mail.svg">
+- name: <img src="../images/Mail.svg" width="4%">
   link: mailto:contactme@smaddali.mozmail.com
-- name: <img src="../images/key.svg">
+- name: <img src="../images/key.svg" width="4%">
   link: https://keys.openpgp.org/vks/v1/by-fingerprint/69F59D79F039EA6BBB7FC4983CC8105A861CA010
-- name: <img src="../images/Phone.svg">
+- name: <img src="../images/Phone.svg" width="4%">
   link: tel:+14124500639
-- name: <img src="../images/Skype.svg">
+- name: <img src="../images/Skype.svg" width="4%">
   link: skype:siddharth.mv?chat
 
