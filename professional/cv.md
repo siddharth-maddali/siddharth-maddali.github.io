@@ -148,34 +148,51 @@ Marc
 Saugat
 Matt
 -->
-<b>Dr. Stephan O. Hruszkewycz</b> (postdoc mentor/supervisor) <a href="https://www.anl.gov/profile/stephan-o-hruszkewycz"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:shrus@anl.gov"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a><br/>
-Synchrotron Studies of Materials<br/>
-Materials Science Division<br/>
-Argonne National Laboratory<br/>
-Chicago, IL (USA)<br/>
-
-
-<b>Dr. Robert M. Suter</b> (Ph.D advisor) <a href="https://www.cmu.edu/physics/people/faculty/suter.html"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:suter@andrew.cmu.edu"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a>
-<br/>
-Department of physics<br/>
-Carnegie Mellon University<br/>
-Pittsburgh, PA (USA)<br/>
-
-<b>Dr. Anthony D. Rollett</b> (collaborator, materials science) <a href="https://www.cmu.edu/engineering/materials/people/faculty/bios/rollett-up-7jan21.html"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:rollett@andrew.cmu.edu"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a>
-<br/>
-Department of Materials Science and Engineering<br/>
-Carnegie Mellon University<br/>
-Pittsburgh, PA (USA)<br/>
-
-<b>Dr. Marc Allain</b> (collaborator, computation/mathematics) <a href="https://www.researchgate.net/profile/Marc-Allain"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:marc.allain@fresnel.fr"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a>
-<br/>
-Institut Fresnel<br/>
-Aix-Marseille University<br/>
-Grenoble, France<br/>
+<table class="table1">
+    <tr>
+        <td style="text-align: left; vertical-align: top;">
+            <b>Dr. Stephan O. Hruszkewycz</b> <a href="https://www.anl.gov/profile/stephan-o-hruszkewycz"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:shrus@anl.gov"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a> <a href="tel:+16302523214"><img style="align:left" src="{{ site.url }}/images/Phone.svg"></a><br/>
+            Supervisor <br/>
+            Synchrotron Studies of Materials<br/>
+            Materials Science Division<br/>
+            Argonne National Laboratory<br/>
+            Chicago, IL (USA)<br/>
+            <br/>
+        </td>
+        <td style="text-align: left; vertical-align: top;">
+            <b>Dr. Robert M. Suter</b> <a href="https://www.cmu.edu/physics/people/faculty/suter.html"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:suter@andrew.cmu.edu"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a> <br/>
+            Ph.D advisor <br/>
+            Department of physics<br/>
+            Carnegie Mellon University<br/>
+            Pittsburgh, PA (USA)<br/>
+            <br/>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: left; vertical-align: top;">
+            <b>Dr. Anthony D. Rollett</b> <a href="https://www.cmu.edu/engineering/materials/people/faculty/bios/rollett-up-7jan21.html"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:rollett@andrew.cmu.edu"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a> <a href="tel:+14122683177"><img style="align:left" src="{{ site.url }}/images/Phone.svg"></a>
+            <br/>
+            Collaborator, materials science <br/>
+            Department of Materials Science and Engineering<br/>
+            Carnegie Mellon University<br/>
+            Pittsburgh, PA (USA)<br/>
+            <br/>
+        </td>
+        <td style="text-align: left; vertical-align: top;">
+            <b>Dr. Marc Allain</b> <a href="https://www.researchgate.net/profile/Marc-Allain"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:marc.allain@fresnel.fr"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a>
+            <br/>
+            Collaborator, computation/mathematics <br/>
+            Institut Fresnel<br/>
+            Aix-Marseille University<br/>
+            Grenoble, France<br/>
+            <br/>
+        </td>
+    </tr>
+</table>
 
 # Publications <a href="https://scholar.google.com/citations?user=hsYqvQIAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square ai"></i></a>
 
-[<a id="cit-Hill2022" href="#call-Hill2022">1</a>] M. Hill, P. Schmiedeke, C. Huang, **S. Maddali**, X. Hu, S.O. Hruszkewycz, J.J. Finley, G. Koblmueller and L. Lauhon, <em>3D Bragg coherent diffraction imaging of extended nanowires: defect formation in highly strained InGaAs quantum wells</em>, **<em>ACS Nano</em>** (**in press**),  2022.
+[<a id="cit-Hill2022" href="#call-Hill2022">1</a>] M.O. Hill, P. Schmiedeke, C. Huang, **S. Maddali**, X. Hu, S.O. Hruszkewycz, J.J. Finley, G. Koblm{\"u}ller and L.J. Lauhon, <em>3D Bragg Coherent Diffraction Imaging of Extended Nanowires: Defect Formation in Highly Strained InGaAs Quantum Wells</em>, **<em>ACS Nano</em>**, vol. , number , pp. , Nov 2022.  <a href="https://doi.org/10.1021/acsnano.2c06071" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/DOI-10.1021/acsnano.2c06071-1292FC.svg"></a>
 
 [<a id="cit-Maddali2022" href="#call-Maddali2022">2</a>] (**Under review**) **S. Maddali**, T.D. Frazer, N. Delegan, K.J. Harmon, S.E. Sullivan, M. Allain, W. Cha, A. Dibos, I. Poudyal, S. Kandel, Y.S.G. Nashed, F.J. Heremans, H. You, Y. Cao and S.O. Hruszkewycz, <em>A differentiable forward model for the concurrent, multi-peak Bragg coherent x-ray diffraction imaging problem</em>, 2022. <a href="https://arxiv.org/abs/2208.00970" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/preprint-arXiv:2208.00970-green.svg"></a> 
 
