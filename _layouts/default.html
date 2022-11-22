@@ -18,27 +18,41 @@
 			<script type="text/javascript"
 			  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 			</script>
+			<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 			{% seo %}
 		</head>
 		<body>
 			{% include nav-bar.html %}
-			<table align="center">
-			<tr><td valign="top" style="padding-right:10px">
-			<div class="container">
+			<table class="table1" align="center">
+			<tr>
+				<td valign="top" style="padding-right:10px">
+					<div class="container">
 			
-			{{ content }}
+					{{ content }}
 						
-			</div>
-			<footer>
-				{% include website-search.html %}
-				{% include share-bar.html %}
-				© 2019-{{ site.time | date: '%Y' }} Siddharth Maddali, all rights reserved.
-			</footer>
-			</td><!-- /.container -->
-			<td valign="top" style="padding-left:10px"><div class="twitterborder">
-				<a	class="twitter-timeline" data-width="300" data-theme="light" data-tweet-limit="2" href="https://twitter.com/SidDarthious?ref_src=twsrc%5Etfw">Tweets by SidDarthious</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-			</td></div>
-			</tr></table>
+					</div>
+					<footer>
+						{% include website-search.html %}
+						{% include share-bar.html %}
+						© 2019-{{ site.time | date: '%Y' }} Siddharth Maddali, all rights reserved.
+					</footer>
+				</td><!-- /.container -->
+				<td valign="top" style="padding-left:10px">
+					<table>
+	<tr>
+							<td>
+								<div class="LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="vertical" data-vanity="siddharthmaddali" data-version="v1"><a class="LI-simple-link" href="https://www.linkedin.com/in/siddharthmaddali?trk=profile-badge"></a></div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<div class="twitterborder"><a	class="twitter-timeline" data-width="300" data-theme="light" data-tweet-limit="1" href="https://twitter.com/SidDarthious?ref_src=twsrc%5Etfw">Tweets by SidDarthious</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			</table>
 			</body>
 	</html>
 

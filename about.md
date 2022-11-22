@@ -41,11 +41,16 @@ Interesting bit of trivia #2: the X-ray beam at Argonne is so carefully aligned 
 
 I was also a post-doc at the National Energy Technology Laboratory in Pittsburgh, PA, where I worked on materials discovery using machine learning.
 
+Worthless trivia: My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is 6. 
+However, I might have lost my chance at an <a href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number">Erdős-Bacon number</a>: I didn't try hard enough to be an extra in <a href="https://www.youtube.com/watch?v=fpw0ajm3_5k">the <i>The Dark Knight Rises</i> scenes</a> that were filmed in Pittsburgh back when I was in grad school. 
+Still, it was nice to see downtown Pittsburgh and the Carnegie Mellon University campus briefly dressed up as Gotham City. 
+
 <a name="noseriously"></a>
 At other times, I'm usually playing squash, swimming, looking to learn new math and physics stuff completely orthogonal to my work, trying to achieve Linux supremacy and automate my life, contributing to open-source software or drinking new beers I come across (after all, I am a Bangalorean!).
 I am a big fan of the great outdoors and have absolutely loved every single one of my hikes, treks and visits to national and state parks around the US.
-I am appropriately wary of social media but nevertheless get my daily internet fix through a variety of aggregators (the ones I used to favor have been taken over by part-time free-speech warrior billionaires). 
-I occasionally post stuff that I find interesting, <font color="red"><strong>but don't bother looking for me on Facebook, Instagram or Tik-Tok</strong></font>.
+I am appropriately wary of social media but nevertheless get my daily internet fix through a variety of aggregators. 
+The ones I used to favor have been taken over by misguided, part-time free-speech warrior billionaires with an infinitesimal knowledge of social media. 
+I occasionally post stuff that align with my interests, <font color="red"><strong>but don't bother looking for me on Facebook, Instagram or Tik-Tok</strong></font>.
 
 <table class="image" align="center">
 <tr><td><img src="{{ site.url }}/images/couple.jpg" width="600" style="margin:0px 30px"></td></tr>
