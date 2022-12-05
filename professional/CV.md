@@ -59,7 +59,7 @@ Department of Physics, **_May 2008_**
 
 
 <a name="presentations"></a>
-# Presentations
+# Presentations (📜 = link to accepted abstract)
 
 ## Invited (presenter)
 
@@ -77,10 +77,11 @@ Department of Physics, **_May 2008_**
 4) The Minerals, Metals and Materials Society (TMS), Orlando, FL (March 2015: Poster)<br/>
 5) Materials Science and Technology (MS&T), Pittsburgh, PA (October 2014: seminar; October 2012: poster)
 
-## Miscellaneous (co-author)
-1) The American Physical Society (APS) March Meeting, Chicago, IL, 2022. [📜](https://meetings.aps.org/Meeting/MAR22/Session/S31.2)<br/>
-2) The Materials Research Society Spring Meeting & Exhibit, Phoenix, AZ, (April 2018). [📜](https://www.mrs.org/spring-2018-symposium-sessions-detail?code=CM03)<br/>
-3) The American Physical Society (APS) March Meeting, New Orleans, LA, 2017 [📜](https://meetings.aps.org/Meeting/MAR17/Session/V12.6) [📜](http://meetings.aps.org/link/BAPS.2017.MAR.G1.156)
+## Miscellaneous (co-author) 
+1) The Minerals, Metals and Materials Society (TMS) 2023, San Diego, CA, 2023. [📜](http://www.programmaster.org/PM/PM.nsf/ApprovedAbstracts/912AB7805FD2229985258880005D2130?OpenDocument)<br/>
+2) The American Physical Society (APS) March Meeting, Chicago, IL, 2022. [📜](https://meetings.aps.org/Meeting/MAR22/Session/S31.2)<br/>
+3) The Materials Research Society (MRS) Spring Meeting & Exhibit, Phoenix, AZ, 2018. [📜](https://www.mrs.org/spring-2018-symposium-sessions-detail?code=CM03)<br/>
+4) The American Physical Society (APS) March Meeting, New Orleans, LA, 2017. [📜](https://meetings.aps.org/Meeting/MAR17/Session/V12.6) [📜](http://meetings.aps.org/link/BAPS.2017.MAR.G1.156)
 
 <a name="achievements"></a>
 # Awards and honors
