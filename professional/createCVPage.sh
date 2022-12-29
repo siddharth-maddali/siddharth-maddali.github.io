@@ -7,10 +7,10 @@ sed -i "s/Reeferences/References/g" CV.ipynb
 sed -i "/cite{/d" CV.ipynb # removes explicit citations
 jupyter nbconvert --to markdown CV.ipynb
 cat header.txt CV.md > cv.md
-sed -i "s/Maddali, S\./**Maddali, S\.**/g" cv.md
-sed -i "s/Maddali S\./**Maddali S\.**/g" cv.md
-sed -i "s/Maddali Siddharth/**Maddali Siddharth**/g" cv.md
-sed -i "s/S\. Maddali/**S\. Maddali**/g" cv.md
+sed -i "s/Maddali, S\./<b>Maddali, S\.<\/b>/g" cv.md
+sed -i "s/Maddali S\./<b>Maddali S\.<\/b>/g" cv.md
+sed -i "s/Maddali Siddharth/<b>Maddali Siddharth<\/b>/g" cv.md
+sed -i "s/S\. Maddali/<b>S\. Maddali<\/b>/g" cv.md
 #sed -i "s/\`\`_/ _/g" cv.md		# cleaning up Jupyter latex_env's
 #sed -i "s/_'',/_ ,/g" cv.md		# horrible citation formatting
 
