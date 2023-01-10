@@ -13,7 +13,7 @@ mathjax: true
 <tr><td class="caption" align="center">Me discovering that I like Matcha green tea ice cream</td></tr>
 </table>
 
-I currently live in Chicago, IL and I'm a researcher in the semiconductor industry.
+I currently live in Milpitas, CA and I'm a researcher in the semiconductor industry.
 If you go back far enough, I'm originally from Bengaluru, India but I've done a bit of bouncing between the south and the west of India while growing up. 
 I was born in Bangalore, but grew up in Pune and I've now established roots back in Bengaluru again (yep, the name actually changed in the time that I was gone).
 
@@ -29,7 +29,7 @@ This includes people who want to make sure their computer chips have no flaws, d
 <tr><td text-align="center"><img src="{{ site.url }}/images/cp1.jpg" width="325" align="left" style="margin:0px 20px" ></td></tr>
 <tr><td class="caption" align="center">Mildly vandalized stone marker at the burial site of CP-1</td></tr>
 </table>
-I spent the early years doing such things at Argonne National Laboratory. 
+I spent the early years doing such things at Argonne National Laboratory near Chicago, IL. 
 It is one of the best places for materials research owing to their [giant X-ray machine](https://www.aps.anl.gov/About/Overview), for which I designed new X-ray imaging methods.
 A lot of this work was me sitting at a desk simulating such diffraction experiments for different materials, with the occasional week-long experiment at the Advanced Photon Source.
 I absolutely relish the opportunity to have worked in such a field that involves using a wide range of skills.
