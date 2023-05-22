@@ -24,8 +24,8 @@ ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
 # html to pdf
 WEB=$(wildcard ${ROOT}/_site/professional/*_download.html)
 PDF=$(WEB:.html=.pdf)
-DOCLIST=${ROOT}/_site/docs.list
-H2PFLAGS=--enable-local-file-access --page-size A4 --margin-top 5mm --margin-bottom 5mm --margin-left 5mm --margin-right 5mm
+DOCLIST=${ROOT}/docs/docs.list
+H2PFLAGS=--encoding utf-8  --enable-local-file-access --page-size A4 --margin-top 5mm --margin-bottom 5mm --margin-left 5mm --margin-right 5mm
 
 #########################################################
 # Make directives
@@ -45,7 +45,7 @@ $(ARCHIVE):$(TWEETS)
 
 # builds pdfs from html pages in docs directory
 %.pdf: %.html
-	$(H2P) $(H2PFLAGS) $< $@
+	-$(H2P) $(H2PFLAGS) $< $@
 	@cp $@ ./professional/
 
 # generates list of pdfs as text file.

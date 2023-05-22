@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<style>
+			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.2"></script>
+			<script>window.onload = function () { twemoji.parse(document.body);}</script>
+<!--			<style>
 			img.emoji { /* replace unicode emojis with corresponding images, transfers to PDF */
 				height: 1em;
 				width: 1em;
 				margin: 0 .05em 0 .1em;
 				vertical-align: -0.1em;
 			}
-			</style>
-			<script src="https://twemoji.maxcdn.com/2/twemoji.min.js?11.2"></script>
-			<script>window.onload = function () { twemoji.parse(document.body);}</script>
+</style> -->
 			<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico?">
 			<link href="https://siddharth-maddali.github.io/feed.xml" rel="alternate" type="application/atom+xml">
 			<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -33,15 +34,12 @@
 			{% seo %}
 		</head>
 		<body>
-			<!--			{% include nav-bar.html %} -->
 			<div class="container">
 			
 			{{ content }}
 						
 			</div>
 			<footer>
-				<!--				{% include website-search.html %} -->
-				{% include share-bar.html %}
 				© 2019-{{ site.time | date: '%Y' }} Siddharth Maddali, all rights reserved.
 			</footer>
 			</body>

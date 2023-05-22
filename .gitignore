@@ -1,4 +1,4 @@
-_site
+_site/
 .sass-cache
 .jekyll-metadata
 myData/*
@@ -12,3 +12,4 @@ octave-workspace
 tweet-record/
 _drafts/
 .ipynb_checkpoints
+scratch/
