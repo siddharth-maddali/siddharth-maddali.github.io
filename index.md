@@ -8,7 +8,7 @@ mathjax: true
 # Hello! 
 
 You've reached the personal website of Siddharth Maddali.
-I'm a physicist who researching ways to characterize condensed matter systems with electromagnetic waves. 
+I'm a physicist researching ways to characterize condensed matter systems with electromagnetic waves. 
 I currently live in Milpitas, CA.
 
 You can read more about me <a href="{{ site.url }}/about">here</a>, take a look at my physics/math/programming <a href="{{ site.url }}/blog">blog</a>, and/or <a href="https://twitter.com/SidDarthious?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SidDarthious on Twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>. 

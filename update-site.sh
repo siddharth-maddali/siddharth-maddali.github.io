@@ -20,7 +20,7 @@ PROF=$PSRC/$SITE/professional
 
 function updateCV() {
 	cd $PROF
-	bash ./createCVPage.sh
+	bash ./createCV.sh
 }
 
 function updateDocs() { 

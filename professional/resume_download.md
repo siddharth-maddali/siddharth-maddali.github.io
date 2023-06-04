@@ -36,25 +36,25 @@ mathjax: true
         <td><b>Programming</b></td>
     </tr>
     <tr>
-        <td>👍🏽 <b>Research</b></td>
+        <td>👍 <b>Research</b></td>
         <td>Fourier optics, diffraction<br/>electromagnetism, imaging,<br/>condensed matter physics</td>
         <td>Linear algebra, Hilbert spaces,<br/>signal processing, inverse problems,<br/>groups, symmetry, geometry</td>
         <td>Python, MATLAB,<br/>dev. on Linux,<br/>scripting, automation</td>
     </tr>
     <tr>
-        <td>👌🏽 <b>Expert</b></td>
+        <td>👌 <b>Expert</b></td>
         <td>Quantum &amp; statistical physics,<br/>mechanics, acoustics</td>
         <td>Data science,<br/>statistics, probability,<br/>visualization, complex analysis</td>
         <td>Parallel computing/HPC,<br/>GPU programming</td>
     </tr>
     <tr>
-        <td>🤏🏽 <b>Functional</b></td>
+        <td>🤏 <b>Functional</b></td>
         <td>Instrumentation/experimental design,<br/>nonlinear dynamics</td>
         <td>Differential equations,<br/>machine learning, combinatorics</td>
         <td>C/C++,<br/>Linux sysadmin</td>
     </tr>
     <tr>
-        <td>👶🏽 <b>Elementary</b></td>
+        <td>👶 <b>Elementary</b></td>
         <td>Dynamical systems,<br/>field theory</td>
         <td>Bayesian inference,<br/>uncertainty quantification</td>
         <td>HTML, Javascript, CSS</td>
