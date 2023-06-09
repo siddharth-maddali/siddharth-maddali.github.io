@@ -135,7 +135,7 @@ _US Department of Energy: [Basic Energy Sciences (BES) Program](https://www.ener
 
 # Technical reports
 
-[1] R. Pokharel, C. Bolme, J. Bohon, A. Mandal, D. Pagan, F. Hofmann, <strong><b>S. Maddali</b></strong>, A. Rack, _Advanced probes and data analytics for enabling 3-D imaging under dynamic conditions_ **LAUR-19-31832**, **Los Alamos National Laboratory**, 2019. <a href="https://www.lanl.gov/science-innovation/science-facilities/dmmsc/_assets/docs/workshops/Advanced-Imaging-Report.pdf"><img src="https://img.shields.io/badge/online-LANL%20DMMSC-orange.svg"></a>
+[1] R. Pokharel, C. Bolme, J. Bohon, A. Mandal, D. Pagan, F. Hofmann, <strong><b>S. Maddali</b></strong>, A. Rack, _Advanced probes and data analytics for enabling 3-D imaging under dynamic conditions_ **LAUR-19-31832**, **Los Alamos National Laboratory**, 2019. <a href="https://web.archive.org/web/20210401223653/https://lanl.gov/science-innovation/science-facilities/dmmsc/_assets/docs/workshops/Advanced-Imaging-Report.pdf"><img src="https://img.shields.io/badge/online-LANL%20DMMSC-orange.svg"></a>
 
 [2] N. Krishnamurthy, <strong><b>S. Maddali</b></strong>, A. Verma, L. Bruckman, J. Carter, R. French, V. Romanov, J. Hawk, _Data analytics for alloy qualification_ , **NETL-PUB-21550**, **National Energy technology Laboratory**, 2017. <a href="https://doi.org/10.2172/1456238"><img src="https://img.shields.io/badge/DOI-10.2172/1456238-orange.svg"></a>
 
