@@ -23,7 +23,7 @@ Bachelor of Science (**B.Sc**) in _physics_ ,  _mathematics_ , _electronics_ (Ba
 Broadband Plasma (BBP) division, **Nov 2022 - present**
 
 **Assistant Scientist**, Argonne National Laboratory<br/>
-Synchrotron Radiation Studies of Materials group, **_Oct 2019 - Oct 2022**
+Synchrotron Radiation Studies of Materials group, **_Oct 2019 - Oct 2022_**
     
 **Post-doctoral researcher**, Argonne National Laboratory<br/>
 Coherent diffraction imaging of materials structure, **_Jan 2017 - Sept 2019_**
@@ -43,24 +43,24 @@ Department of Physics, **_May 2008_**
 <a name="research"></a>
 # Research interests
 
-<u><b>Optics/imaging</b></u>:<br/>
-    Defect inspection using optical nanoscopy<br/>
-	Electromagnetic scattering<br/>
+<u><b>Electromagnetics/Optics/Imaging</b></u>:<br/>
+    Optical characterization<br/>
     Coherent diffraction imaging (CDI) of tensor fields<br/>
     Coherent dark-field x-ray microscopy (DFXM)<br/>
     High-energy x-ray diffraction microscopy (HEDM)<br/>
-    Multiscale characterization 
-    with x-ray &amp; other light probes<br/>
+    Multiscale characterization with x-rays &amp; other light probes<br/>
     X-ray photon correlation spectroscopy (XPCS), dynamic light scattering (DLS) <br/>
     
 <u><b>Condensed matter physics</b></u>:<br/>
     Light-matter interaction<br/>
     Crystallography<br/>
-    Meso/nanoscale structure & strain<br/>
+    Meso/nanoscale structure &amp; strain<br/>
     Interfacial dynamics in polycrystals<br/>
+	Time-resolved methods of characterization<br/>
+	Photonics<br/>
 
 <u><b>Computational methods</b></u>:<br/>
-    Electromagnetic simulations <br/>
+    Computational electromagnetics<br/>
     Inverse problems, phase retrieval<br/>
     Signal processing and optimization<br/>
     Data science, machine learning, reinforcement learning -based experimental control<br/>

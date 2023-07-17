@@ -39,3 +39,6 @@ gem "jekyll-seo-tag"
 
 # activesupport
 gem "activesupport", ">= 4.1.11"
+
+# emoji support
+gem 'jemoji'
