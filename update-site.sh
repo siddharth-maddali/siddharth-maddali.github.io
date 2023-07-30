@@ -24,9 +24,17 @@ function updateCV() {
 }
 
 function updateDocs() { 
-	cd $ROOT
-	echo "Building PDFs..."
-	make docs
+	JEKYLL_SERVERS=$( netstat -tupln 2>/dev/null | grep "jekyll serve" | wc -l )
+	if [[ "$JEKYLL_SERVERS" -lt "1" ]]; then # no Jekyll servers running. 
+		RED='\033[0;31m'
+		NC='\033[0m' # No Color
+		echo -e ${RED}updateDocs ERROR: Jekyll server not running${NC}; Faulty docs build. 
+		echo -e Serve Jekyll site locally with: ${RED} $ bundle exec jekyll serve${NC} and then build docs. 
+	else
+		cd $ROOT
+		echo "Building docs..."
+		make docs
+	fi
 }
 
 function updatePosts() {
