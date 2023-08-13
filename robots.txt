@@ -1,0 +1,12 @@
+---
+layout: none
+---
+User-agent: ChatGPT-User
+Disallow: /blog/
+
+User-agent: GPTBot
+Disallow: /blog/
+
+User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml
+
