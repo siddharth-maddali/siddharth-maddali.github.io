@@ -44,27 +44,28 @@ Department of Physics, **_May 2008_**
 # Research interests
 
 <u><b>Electromagnetics/Optics/Imaging</b></u>:<br/>
-    Optical characterization<br/>
-    Coherent diffraction imaging (CDI) of tensor fields<br/>
-    Coherent dark-field x-ray microscopy (DFXM)<br/>
+    Scattering theory, optical characterization<br/>
+    Incoherent &amp; coherent diffraction imaging<br/>
+    Dark field microscopy<br/>
     High-energy x-ray diffraction microscopy (HEDM)<br/>
     Multiscale characterization with x-rays &amp; other light probes<br/>
-    X-ray photon correlation spectroscopy (XPCS), dynamic light scattering (DLS) <br/>
+    Photon correlation spectroscopy (PCS), dynamic light scattering (DLS) <br/>
     
 <u><b>Condensed matter physics</b></u>:<br/>
+	Materials characterization<br/>
     Light-matter interaction<br/>
     Crystallography<br/>
-    Meso/nanoscale structure &amp; strain<br/>
+    Micro/nanoscale structure, strain  &amp; defects <br/>
     Interfacial dynamics in polycrystals<br/>
-	Time-resolved methods of characterization<br/>
-	Photonics<br/>
+	Time-resolved characterization<br/>
+	Photonics, metastructures<br/>
 
 <u><b>Computational methods</b></u>:<br/>
     Computational electromagnetics<br/>
-    Inverse problems, phase retrieval<br/>
+    Inverse problems, phase retrieval, holography, wavefront engineering<br/>
     Signal processing and optimization<br/>
-    Data science, machine learning, reinforcement learning -based experimental control<br/>
-    High-performance computing and scientific software development<br/>
+    Data science, machine learning, reinforcement learning<br/>
+    High-performance computing (HPC) and scientific software development<br/>
    
 
 
