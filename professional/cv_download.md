@@ -44,11 +44,12 @@ Department of Physics, **_May 2008_**
 # Research interests
 
 <u><b>Electromagnetics/Optics/Imaging</b></u>:<br/>
-    Scattering theory, optical characterization<br/>
+    Scattering theory, microscopy<br/>
     Incoherent &amp; coherent diffraction imaging<br/>
     Dark field microscopy<br/>
     High-energy x-ray diffraction microscopy (HEDM)<br/>
     Multiscale characterization with x-rays &amp; other light probes<br/>
+	Detection and characterization below the diffraction limit<br/>
     Photon correlation spectroscopy (PCS), dynamic light scattering (DLS) <br/>
     
 <u><b>Condensed matter physics</b></u>:<br/>
