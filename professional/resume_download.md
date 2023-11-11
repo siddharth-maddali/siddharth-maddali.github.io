@@ -13,7 +13,11 @@ mathjax: true
 <table class="table1">
     <tr>
         <td><div style="text-align: left">🎓 <b>Ph.D</b>, Applied physics/materials science<br/><i>&emsp; &mdash; Carnegie Mellon University</i></div></td>
-        <td><div style="text-align: right"><span class="text-success"><b>Pittsburgh, PA, USA</b></span><br/><span>2009 &mdash; 2016</span></div></td>
+        <td><div style="text-align: right"><span class="text-success"><b>Pittsburgh, PA, USA</b></span><br/><span>2010 &mdash; 2016</span></div></td>
+    </tr>
+    <tr>
+        <td><div style="text-align: left">🎓 <b>MS</b>, Physics<br/><i>&emsp; &mdash; Carnegie Mellon University</i></div></td>
+        <td><div style="text-align: right"><b>Pittsburgh, PA, USA</b><br/>2009 &mdash; 2010</div></td>
     </tr>
     <tr>
         <td><div style="text-align: left">🎓 <b>M.Sc</b>, Physics<br/><i>&emsp; &mdash; Indian Institute of Technology - Madras</i></div></td>
@@ -37,13 +41,13 @@ mathjax: true
     </tr>
     <tr>
         <td>👍 <b>Research</b></td>
-        <td>Fourier optics, diffraction<br/>electromagnetism, imaging,<br/>condensed matter physics</td>
+        <td>Fourier optics, diffraction,<br/>scattering, imaging,<br/>condensed matter physics</td>
         <td>Linear algebra, Hilbert spaces,<br/>signal processing, inverse problems,<br/>groups, symmetry, geometry</td>
         <td>Python, MATLAB,<br/>dev. on Linux,<br/>scripting, automation</td>
     </tr>
     <tr>
         <td>👌 <b>Expert</b></td>
-        <td>Quantum &amp; statistical physics,<br/>mechanics, acoustics</td>
+        <td>Quantum &amp; statistical physics,<br/>mechanics, electromagnetism, acoustics</td>
         <td>Data science,<br/>statistics, probability,<br/>visualization, complex analysis</td>
         <td>Parallel computing/HPC,<br/>GPU programming</td>
     </tr>
@@ -75,7 +79,6 @@ mathjax: true
     </tr>
 </table>
  &emsp; &mdash; Computational imaging and characterization with broadband electromagnetic probes<br/>
- &emsp; &mdash; Inverse problem design
   
 <table class="table1">
     <tr>

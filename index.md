@@ -7,7 +7,7 @@ mathjax: true
 
 # Hello! 
 
-You've reached the personal website of Siddharth Maddali.
+You've reached the personal website of Siddharth Maddali <a href="https://en-audio.howtopronounce.com/15917869735ee0bdddbdb33.mp3">&#128266;</a> <a href="https://en-audio.howtopronounce.com/1652530342627f9ca6a32a8.mp3">&#128266;</a>.
 I'm a physicist researching ways to characterize condensed matter systems with electromagnetic waves. 
 I currently live in Milpitas, CA.
 

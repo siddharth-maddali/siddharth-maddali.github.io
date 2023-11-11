@@ -8,6 +8,11 @@ mathjax: true
 <p style="color: red;">NOTE: Icons are clickable links.</p>
 
 
+<a name="summary"></a>
+# Summary
+
+Computational physicist interested in simulations of scattering, probe-matter interaction, and inverse problem design for large-scale scientific data analysis. 
+
 <a name="education"></a> 
 # Education
 
@@ -41,7 +46,14 @@ Department of Physics, **_2009 - 2012_**
 Department of Physics, **_May 2008_**
 
 <a name="research"></a>
-# Research interests
+# Technical/research interests
+
+<u><b>Computational methods</b></u>:<br/>
+    Inverse problems, phase retrieval, holography, wavefront engineering<br/>
+    Signal processing and optimization<br/>
+    Computational electromagnetics<br/>
+    Data science, machine learning, reinforcement learning<br/>
+    High-performance computing (HPC) and scientific software development<br/>
 
 <u><b>Electromagnetics/Optics/Imaging</b></u>:<br/>
     Scattering theory, microscopy<br/>
@@ -61,18 +73,8 @@ Department of Physics, **_May 2008_**
 	Time-resolved characterization<br/>
 	Photonics, metastructures<br/>
 
-<u><b>Computational methods</b></u>:<br/>
-    Computational electromagnetics<br/>
-    Inverse problems, phase retrieval, holography, wavefront engineering<br/>
-    Signal processing and optimization<br/>
-    Data science, machine learning, reinforcement learning<br/>
-    High-performance computing (HPC) and scientific software development<br/>
-   
-
-
-
 <a name="presentations"></a>
-# Presentations (📜 = link to accepted abstract)
+# Presentations (&#x1F4DC; = link to accepted abstract)
 
 ## Invited (presenter)
 
