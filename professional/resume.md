@@ -7,12 +7,15 @@ mathjax: true
 {% include mathjax.html %}
 <p style="color: red;">NOTE: Icons are clickable links.</p>
 
+<a name="summary"></a>
+# Summary
+Physicist specializing in computational microscopy and imaging for condensed matter systems. 
 
 # 📚 Education
 <hr>
 <table class="table1">
     <tr>
-        <td><div style="text-align: left">🎓 <b>Ph.D</b>, Applied physics/materials science<br/><i>&emsp; &mdash; Carnegie Mellon University</i></div></td>
+        <td><div style="text-align: left">🎓 <b>Ph.D</b>, Applied physics<br/><i>&emsp; &mdash; Carnegie Mellon University</i></div></td>
         <td><div style="text-align: right"><span class="text-success"><b>Pittsburgh, PA, USA</b></span><br/><span>2010 &mdash; 2016</span></div></td>
     </tr>
     <tr>
@@ -41,20 +44,20 @@ mathjax: true
     </tr>
     <tr>
         <td>👍 <b>Research</b></td>
-        <td>Fourier optics, diffraction,<br/>scattering, imaging,<br/>condensed matter physics</td>
-        <td>Linear algebra, Hilbert spaces,<br/>signal processing, inverse problems,<br/>groups, symmetry, geometry</td>
+        <td>Fourier optics, diffraction,<br/>scattering, microscopy,<br/>condensed matter physics</td>
+        <td>Linear algebra, imaging, reconstruction,<br/>signal processing, inverse problems</td>
         <td>Python, MATLAB,<br/>dev. on Linux,<br/>scripting, automation</td>
     </tr>
     <tr>
         <td>👌 <b>Expert</b></td>
         <td>Quantum &amp; statistical physics,<br/>mechanics, electromagnetism, acoustics</td>
-        <td>Data science,<br/>statistics, probability,<br/>visualization, complex analysis</td>
+        <td>Statistics, probability,<br/>visualization, complex analysis</td>
         <td>Parallel computing/HPC,<br/>GPU programming</td>
     </tr>
     <tr>
         <td>🤏 <b>Functional</b></td>
         <td>Instrumentation/experimental design,<br/>nonlinear dynamics</td>
-        <td>Differential equations,<br/>machine learning, combinatorics</td>
+        <td>Differential equations,<br/>machine learning, data science</td>
         <td>C/C++,<br/>Linux sysadmin</td>
     </tr>
     <tr>
@@ -78,7 +81,7 @@ mathjax: true
         </td>
     </tr>
 </table>
- &emsp; &mdash; Computational imaging and characterization with broadband electromagnetic probes<br/>
+ &emsp; &mdash; Optical wafer inspection with broadband illumination<br/>
   
 <table class="table1">
     <tr>
@@ -142,3 +145,7 @@ mathjax: true
 &emsp; &mdash; Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016). <br/>
 &emsp; &mdash; Indian Institute of Technology Madras Merit Scholarship (2007 &mdash; 2009). <br/>
 &emsp; &mdash; Bangalore University undergraduate rank 5 (2007). 
+
+# 🧗 Hobbies &amp; Activities
+
+Swimming, hiking, biking, table tennis (ping-pong), squash.

@@ -10,8 +10,7 @@ mathjax: true
 
 <a name="summary"></a>
 # Summary
-
-Computational physicist interested in simulations of scattering, probe-matter interaction, and inverse problem design for large-scale scientific data analysis. 
+Physicist specializing in computational microscopy and imaging for condensed matter systems. 
 
 <a name="education"></a> 
 # Education
@@ -201,7 +200,7 @@ Matt
 Publication list auto-generated using Python script
 -->
 
-<div style="white-space: wrap"><div style="font-size: 1.5em; display: inline-block">[<a id="cit-Xu2023" href="#call-Xu2023">24</a>] Z. Xu, Y. -F. Shen, K. S. Naghibzadeh, X. Peng, M. Vivekanand, <b>S. Maddali</b>, D. Menasche, A. R. Krause, K. Dayal, R. M. Suter and G. S. Rohrer, <em>Grain boundary migration rates in polycrystalline $\alpha$-Fe</em>, <b><em>Acta Materialia (accepted)</em></b>, Nov 2023</div>&nbsp;&nbsp;&nbsp; 
+<div style="white-space: wrap"><div style="font-size: 1.5em; display: inline-block">[<a id="cit-Xu2023" href="#call-Xu2023">24</a>] Z. Xu, Y. -F. Shen, K. S. Naghibzadeh, X. Peng, M. Vivekanand, <b>S. Maddali</b>, D. Menasche, A. R. Krause, K. Dayal, R. M. Suter and G. S. Rohrer, <em>Grain boundary migration rates in polycrystalline $\alpha$-Fe</em>, <b><em>Acta Materialia (in press)</em></b>, Nov 2023</div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block"><a href="https://arxiv.org/abs/2311.11219" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/preprint-arxiv:2311.11219-green.svg"></a></div>&nbsp;&nbsp;&nbsp; 
 
 <div style="white-space: wrap"><div style="font-size: 1.5em; display: inline-block">[<a id="cit-Maddali_2023" href="#call-Maddali_2023">23</a>] <b>S. Maddali</b>, T. D. Frazer, N. Delegan, K. J. Harmon, S. E. Sullivan, M. Allain, W. Cha, A. Dibos, I. Poudyal, S. Kandel, Y. S. G. Nashed, F. J. Heremans, H. You, Y. Cao and S. O. Hruszkewycz, <em>Concurrent multi-peak Bragg coherent x-ray diffraction imaging of 3D nanocrystal lattice displacement via global optimization</em>, <b><em>npj Computational Materials</em></b>, May 2023</div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block"><a href="https://doi.org/10.1038/s41524-023-01022-7" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/DOI-10.1038/s41524_023_01022_7-1292FC.svg"></a></div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block"><a href="https://arxiv.org/abs/2208.00970" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/preprint-arxiv:2208.00970-green.svg"></a></div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block" data-badge-popover="right" class="altmetric-embed" data-badge-type="1" data-doi="10.1038/s41524-023-01022-7" data-condensed="true"></div> 
 

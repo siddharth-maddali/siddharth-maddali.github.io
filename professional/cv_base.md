@@ -10,8 +10,7 @@ mathjax: true
 
 <a name="summary"></a>
 # Summary
-
-Computational physicist interested in simulations of scattering, probe-matter interaction, and inverse problem design for large-scale scientific data analysis. 
+Physicist specializing in computational microscopy and imaging for condensed matter systems. 
 
 <a name="education"></a> 
 # Education
