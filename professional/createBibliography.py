@@ -19,13 +19,21 @@ def getAuthorString( pub ):
 def getCitation( thispub ):
     authorstring = getAuthorString( thispub )
     title = '<em>'+thispub.fields[ 'title' ]+'</em>'
+    if thispub.type=='inpreparation':
+        return ', '.join( [ authorstring, title+' <b><em>(In preparation)</em></b></div>&nbsp;&nbsp;&nbsp;' ] )
     try: 
         journal = '<b><em>'+thispub.fields[ 'journal' ]+'</em></b>'
     except: 
-        journal = '<b><em>'+thispub.fields[ 'archiveprefix' ]+'</em></b>'
-    when = ' '.join( [ thispub.fields[ st ] for st in [ 'month', 'year' ] ] )
+        try: 
+            journal = '<b><em>'+thispub.fields[ 'archiveprefix' ]+'</em></b>'
+        except: 
+            raise Keyerror( 'Either journal or archive prefix should be specified. ' )
+    try: 
+        when = ' '.join( [ thispub.fields[ st ] for st in [ 'month', 'year' ] ] )
+    except: 
+        when = '' # month and/or year information missing, e.g., for Inpreparation
     when += '</div>&nbsp;&nbsp;&nbsp;'
-    citation = ', '.join( [ authorstring, title, journal, when ] )
+    citation = ', '.join( [ st for st in [ authorstring, title, journal, when ] if len( st ) > 0 ] )
     return citation
 
 def getPreprintBadge( thispub ):

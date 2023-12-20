@@ -73,7 +73,8 @@ Department of Physics, **_May 2008_**
 	Photonics, metastructures<br/>
 
 <a name="presentations"></a>
-# Presentations (&#x1F4DC; = link to accepted abstract)
+# Presentations
+## &#x1F4DC; = link to accepted abstract
 
 ## Invited (presenter)
 
@@ -199,6 +200,8 @@ Matt
 <!--
 Publication list auto-generated using Python script
 -->
+
+<div style="white-space: wrap"><div style="font-size: 1.5em; display: inline-block">[<a id="cit-Harmon_2024" href="#call-Harmon_2024">25</a>] K. J. Harmon, T. D. Frazer, P. Donahue, C. G. Carr, Y. Liu, A. Popescu, W. Cha, <b>S. Maddali</b>, S. M. Haile, Y. Cao and S. O. Hruszkewycz, <em>Operando ceria strain evolution via Bragg coherent diffraction imaging</em> <b><em>(In preparation)</em></b></div>&nbsp;&nbsp;&nbsp; 
 
 <div style="white-space: wrap"><div style="font-size: 1.5em; display: inline-block">[<a id="cit-Xu_2023" href="#call-Xu_2023">24</a>] Zipeng Xu, Yu-Feng Shen, S. Kiana Naghibzadeh, Xiaoyao Peng, Vivekanand Muralikrishnan, <b>S. Maddali</b>, D. Menasche, Amanda R. Krause, Kaushik Dayal, Robert M. Suter and Gregory S. Rohrer, <em>Grain boundary migration in polycrystalline $\alpha$-Fe</em>, <b><em>Acta Materialia</em></b>, Nov 2023</div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block"><a href="https://doi.org/10.1016/j.actamat.2023.119541" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/DOI-10.1016/j.actamat.2023.119541-1292FC.svg"></a></div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block"><a href="https://arxiv.org/abs/2311.11219" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/preprint-arxiv:2311.11219-green.svg"></a></div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block" data-badge-popover="right" class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.actamat.2023.119541" data-condensed="true"></div> 
 

@@ -73,7 +73,8 @@ Department of Physics, **_May 2008_**
 	Photonics, metastructures<br/>
 
 <a name="presentations"></a>
-# Presentations (&#x1F4DC; = link to accepted abstract)
+# Presentations
+## &#x1F4DC; = link to accepted abstract
 
 ## Invited (presenter)
 
