@@ -10,7 +10,7 @@ mathjax: true
 
 <a name="summary"></a>
 # Summary
-Physicist specializing in computational microscopy and imaging for condensed matter systems. 
+Physicist specializing in Fourier optics, microscopy/imaging algorithms and software development for materials science research and the semiconductor industry.
 
 <a name="education"></a> 
 # Education
