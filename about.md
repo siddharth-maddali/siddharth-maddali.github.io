@@ -35,14 +35,14 @@ A lot of this work was me sitting at a desk simulating such diffraction experime
 I absolutely relish the opportunity to have worked in such a field that involves using a wide range of skills.
 This is in fact a very exciting, dynamic area of research, and [it's only going to get better](https://www.aps.anl.gov/APS-Upgrade/News/DOE-approves-technical-plan-and-cost-estimate-to-upgrade-Argonne-facility) in the future. 
 
-Interesting bit of trivia: the world's first ever nuclear reactor (Chicago Pile-1) is buried somewhere on [the old site of the laboratory](https://www.atlasobscura.com/places/red-gate-woods).
-
-Interesting bit of trivia #2: the X-ray beam at Argonne is so carefully aligned that it is sensitive to <a href="https://www.flickr.com/photos/argonne/32879127374">earthquakes at the other end of the world</a>.
-
 I was also a post-doc at the National Energy Technology Laboratory in Pittsburgh, PA, where I worked on materials discovery using machine learning.
 
-Worthless trivia: My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is 6. 
-However, I might have lost my chance at an <a href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number">Erdős-Bacon number</a>: I didn't try hard enough to be an extra in <a href="https://www.youtube.com/watch?v=fpw0ajm3_5k">the <i>The Dark Knight Rises</i> scenes</a> that were filmed in Pittsburgh back when I was in grad school. 
+Trivia fragment #1: the world's first ever nuclear reactor (Chicago Pile-1) is buried somewhere on [the old site of the laboratory](https://www.atlasobscura.com/places/red-gate-woods).
+
+Trivia fragment #2: the X-ray beam at Argonne is so carefully aligned that it is sensitive to <a href="https://www.flickr.com/photos/argonne/32879127374">earthquakes at the other end of the world</a>.
+
+Trivia fragment #3: My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number">Erdős number</a> is 6. 
+However, I might have lost my chance at an <a href="https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number">Erdős-Bacon number</a>: I didn't try hard enough to be an extra in <i>The Dark Knight Rises</i> that was <a href="https://www.youtube.com/watch?v=fpw0ajm3_5k">filmed in Pittsburgh</a> back when I was in grad school. 
 Still, it was nice to see downtown Pittsburgh and the Carnegie Mellon University campus briefly dressed up as Gotham City. 
 
 <a name="noseriously"></a>
