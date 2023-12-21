@@ -44,7 +44,7 @@ Physicist specializing in Fourier optics, microscopy/imaging algorithms and soft
     </tr>
     <tr>
         <td>👍 <b>Research</b></td>
-        <td>Fourier optics, diffraction,<br/>microscopy,<br/>condensed matter physics</td>
+        <td>Fourier optics, microscopy,<br/>coherent diffraction imaging,<br/>condensed matter physics</td>
         <td>Linear algebra, imaging, reconstruction,<br/>signal processing, inverse problems</td>
         <td>Python, MATLAB,<br/>development on Linux,<br/>scripting, automation</td>
     </tr>
