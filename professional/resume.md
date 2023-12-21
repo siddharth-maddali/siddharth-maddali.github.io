@@ -9,7 +9,7 @@ mathjax: true
 
 <a name="summary"></a>
 # Summary
-Physicist specializing in computational microscopy and imaging for condensed matter systems. 
+Physicist specializing in Fourier optics, microscopy/imaging algorithms and software development for materials science research and the semiconductor industry.
 
 # 📚 Education
 <hr>
@@ -44,9 +44,9 @@ Physicist specializing in computational microscopy and imaging for condensed mat
     </tr>
     <tr>
         <td>👍 <b>Research</b></td>
-        <td>Fourier optics, diffraction,<br/>scattering, microscopy,<br/>condensed matter physics</td>
+        <td>Fourier optics, diffraction,<br/>microscopy,<br/>condensed matter physics</td>
         <td>Linear algebra, imaging, reconstruction,<br/>signal processing, inverse problems</td>
-        <td>Python, MATLAB,<br/>dev. on Linux,<br/>scripting, automation</td>
+        <td>Python, MATLAB,<br/>development on Linux,<br/>scripting, automation</td>
     </tr>
     <tr>
         <td>👌 <b>Expert</b></td>
@@ -56,7 +56,7 @@ Physicist specializing in computational microscopy and imaging for condensed mat
     </tr>
     <tr>
         <td>🤏 <b>Functional</b></td>
-        <td>Instrumentation/experimental design,<br/>nonlinear dynamics</td>
+        <td>Semiconductors, <br/>Instrumentation/experimental design</td>
         <td>Differential equations,<br/>machine learning, data science</td>
         <td>C/C++,<br/>Linux sysadmin</td>
     </tr>
@@ -122,7 +122,7 @@ Physicist specializing in computational microscopy and imaging for condensed mat
         </td>
     </tr>
 </table>
-&emsp; &mdash; Machine learning &amp; materials discovery for new steel alloys in optimized power plant components. 
+&emsp; &mdash; Machine learning -driven materials discovery applied to steel alloy data for optimized power plant components. 
 
 <table class="table1">
     <tr>
