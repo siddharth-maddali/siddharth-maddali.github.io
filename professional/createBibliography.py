@@ -19,15 +19,19 @@ def getAuthorString( pub ):
 def getCitation( thispub ):
     authorstring = getAuthorString( thispub )
     title = '<em>'+thispub.fields[ 'title' ]+'</em>'
-    if thispub.type=='inpreparation':
-        return ', '.join( [ authorstring, title+' <b><em>(In preparation)</em></b></div>&nbsp;&nbsp;&nbsp;' ] )
+    if thispub.type in [ 'inpreparation', 'submitted' ]:
+        if thispub.type=='inpreparation':
+            status_string = '(In preparation)'
+        else: 
+            status_string = '(Submitted)'
+        return ', '.join( [ authorstring, title+' <b><em>'+status_string+'</em></b></div>&nbsp;&nbsp;&nbsp;' ] )
     try: 
         journal = '<b><em>'+thispub.fields[ 'journal' ]+'</em></b>'
     except: 
         try: 
             journal = '<b><em>'+thispub.fields[ 'archiveprefix' ]+'</em></b>'
         except: 
-            raise Keyerror( 'Either journal or archive prefix should be specified. ' )
+            raise NameError( 'Either journal or archive prefix should be specified. ' )
     try: 
         when = ' '.join( [ thispub.fields[ st ] for st in [ 'month', 'year' ] ] )
     except: 
