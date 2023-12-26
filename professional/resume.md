@@ -9,7 +9,10 @@ mathjax: true
 
 <a name="summary"></a>
 # Summary
-Physicist specializing in Fourier optics, microscopy/imaging algorithms and software development for materials science research and the semiconductor industry.
+Scientist with a demonstrated record of research and development. 
+Skilled in X-ray and optical microscopy, wave propagation, Fourier/physical optics, imaging algorithms, signal processing, X-ray science, high-performance scientific computing and condensed matter physics. 
+Professional with strong fundamentals and a Doctor of Philosophy (Ph.D.) in applied physics from Carnegie Mellon University. 
+Previously post-doctoral researcher and scientific staff at top US national laboratories. Passionate about computational techniques in any applied scientific field.
 
 # 📚 Education
 <hr>
@@ -44,15 +47,15 @@ Physicist specializing in Fourier optics, microscopy/imaging algorithms and soft
     </tr>
     <tr>
         <td>👍 <b>Research</b></td>
-        <td>Fourier optics, microscopy,<br/>coherent diffraction imaging,<br/>condensed matter physics</td>
-        <td>Linear algebra, imaging, reconstruction,<br/>signal processing, inverse problems</td>
+        <td>Fourier/physical/wave optics,<br/>microscopy, diffraction, scattering,<br/>condensed matter physics</td>
+        <td>Linear algebra, imaging, reconstruction,<br/>signal processing, inverse problems, <br/>simulations</td>
         <td>Python, MATLAB,<br/>development on Linux,<br/>scripting, automation</td>
     </tr>
     <tr>
         <td>👌 <b>Expert</b></td>
         <td>Quantum &amp; statistical physics,<br/>mechanics, electromagnetism, acoustics</td>
         <td>Statistics, probability,<br/>visualization, complex analysis</td>
-        <td>Parallel computing/HPC,<br/>GPU programming</td>
+        <td>High-performance/parallel computing,<br/>GPU programming</td>
     </tr>
     <tr>
         <td>🤏 <b>Functional</b></td>

@@ -8,10 +8,6 @@ mathjax: true
 <p style="color: red;">NOTE: Icons are clickable links.</p>
 
 
-<a name="summary"></a>
-# Summary
-Physicist specializing in Fourier optics, microscopy/imaging algorithms and software development for materials science research and the semiconductor industry.
-
 <a name="education"></a> 
 # Education
 
@@ -203,7 +199,7 @@ Publication list auto-generated using Python script
 
 <div style="white-space: wrap"><div style="font-size: 1.5em; display: inline-block">[<a id="cit-Harmon_2024_p" href="#call-Harmon_2024_p">26</a>] K. J. Harmon, T. D. Frazer, P. Donahue, C. G. Carr, Y. Liu, A. Popescu, W. Cha, <b>S. Maddali</b>, S. M. Haile, Y. Cao and S. O. Hruszkewycz, <em>Operando ceria strain evolution via Bragg coherent diffraction imaging</em> <b><em>(In preparation)</em></b></div>&nbsp;&nbsp;&nbsp; 
 
-<div style="white-space: wrap"><div style="font-size: 1.5em; display: inline-block">[<a id="cit-Kandel_2024_b" href="#call-Kandel_2024_b">25</a>] S. Kandel, <b>S. Maddali</b>, M. Allain, X. Huang, Y. S. G. Nashed, C. Jacobsen and S. O. Hruszkewycz, <em>Imaging extended single-crystal lattice distortion fields with multi-peak Bragg ptychography</em> <b><em>(Submitted)</em></b></div>&nbsp;&nbsp;&nbsp; 
+<div style="white-space: wrap"><div style="font-size: 1.5em; display: inline-block">[<a id="cit-Kandel_2023" href="#call-Kandel_2023">25</a>] S. Kandel, <b>S. Maddali</b>, M. Allain, X. Huang, Y. S. G. Nashed, C. Jacobsen and S. O. Hruszkewycz, <em>Imaging extended single-crystal lattice distortion fields with multi-peak Bragg ptychography</em> <b><em>(Submitted)</em></b></div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block"><a href="https://arxiv.org/abs/2312.14907" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/preprint-arxiv:2312.14907-green.svg"></a></div>&nbsp;&nbsp;&nbsp; 
 
 <div style="white-space: wrap"><div style="font-size: 1.5em; display: inline-block">[<a id="cit-Xu_2023" href="#call-Xu_2023">24</a>] Z. Xu, Y.-F. Shen, S. K. Naghibzadeh, X. Peng, V. Muralikrishnan, <b>S. Maddali</b>, D. Menasche, A. R. Krause, K. Dayal, R. M. Suter and G. S. Rohrer, <em>Grain boundary migration in polycrystalline $\alpha$-Fe</em>, <b><em>Acta Materialia</em></b>, Nov 2023</div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block"><a href="https://doi.org/10.1016/j.actamat.2023.119541" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/DOI-10.1016/j.actamat.2023.119541-1292FC.svg"></a></div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block"><a href="https://arxiv.org/abs/2311.11219" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/preprint-arxiv:2311.11219-green.svg"></a></div>&nbsp;&nbsp;&nbsp;<div style="display: inline-block" data-badge-popover="right" class="altmetric-embed" data-badge-type="1" data-doi="10.1016/j.actamat.2023.119541" data-condensed="true"></div> 
 
