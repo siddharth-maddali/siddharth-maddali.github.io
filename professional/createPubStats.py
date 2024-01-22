@@ -1,3 +1,5 @@
+#!/home/smaddali/anaconda3/bin/python
+
 # Script to extract citation stats from Google scholar
 # 
 #  Siddharth Maddali
@@ -5,9 +7,11 @@
 #
 
 from scholarly import scholarly
+import argparse
+from pybtex.database import parse_file as parsebibfile
 
-author_name = 'Siddharth Maddali' 
-email_domain = '@alumni.cmu.edu'
+#author_name = 'Siddharth Maddali' 
+#email_domain = '@alumni.cmu.edu'
 
 query = scholarly.search_author( author_name )
 try: 

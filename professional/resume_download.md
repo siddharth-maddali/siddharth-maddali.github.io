@@ -9,10 +9,17 @@ mathjax: true
 
 <a name="summary"></a>
 # Summary
-Scientist with a demonstrated record of research and development. 
-Skilled in X-ray and optical microscopy, wave propagation, Fourier/physical optics, imaging algorithms, signal processing, X-ray science, high-performance scientific computing and condensed matter physics. 
-Professional with strong fundamentals and a Doctor of Philosophy (Ph.D.) in applied physics from Carnegie Mellon University. 
-Previously post-doctoral researcher and scientific staff at top US national laboratories. Passionate about computational techniques in any applied scientific field.
+Computational scientist with a demonstrated record of research and development. 
+<b>1+ years</b> in the semiconductor industry. 
+Previous stints at top US national laboratories. 
+<b>7+ years' professional experience</b> in X-ray and optical microscopy, Fourier/wave optics, imaging algorithms, signal processing, high-performance computing, scientific software development and condensed matter physics. 
+Professional with strong fundamentals and a Doctor of Philosophy (Ph.D.) in physics. 
+Passionate about computation in any applied scientific field.
+
+<p>
+<b>Citizenship</b>: India
+</p>
+
 
 # 📚 Education
 <hr>
@@ -64,7 +71,7 @@ Previously post-doctoral researcher and scientific staff at top US national labo
         <td>C/C++,<br/>Linux sysadmin</td>
     </tr>
     <tr>
-        <td>👶 <b>Elementary</b></td>
+        <td>👶 <b>Elementary/on the side</b></td>
         <td>Dynamical systems,<br/>field theory</td>
         <td>Bayesian inference,<br/>uncertainty quantification</td>
         <td>HTML, Javascript, CSS</td>
