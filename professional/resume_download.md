@@ -62,7 +62,7 @@ Passionate about computation in any applied scientific field.
         <td>👌 <b>Expert</b></td>
         <td>Quantum &amp; statistical physics,<br/>mechanics, electromagnetism, acoustics</td>
         <td>Statistics, probability,<br/>visualization, complex analysis</td>
-        <td>High-performance/parallel computing,<br/>GPU programming</td>
+        <td>High-performance/<br/>parallel computing,<br/>GPU programming</td>
     </tr>
     <tr>
         <td>🤏 <b>Functional</b></td>
@@ -72,9 +72,9 @@ Passionate about computation in any applied scientific field.
     </tr>
     <tr>
         <td>👶 <b>Elementary/on the side</b></td>
-        <td>Dynamical systems,<br/>field theory</td>
-        <td>Bayesian inference,<br/>uncertainty quantification</td>
-        <td>HTML, Javascript, CSS</td>
+        <td>Dynamical systems,<br/>field theory, quantum information</td>
+        <td>Bayesian inference,<br/>uncertainty quantification,<br/>quantum computing</td>
+        <td>HTML, Javascript, CSS,<br/>Qiskit, cuQuantum</td>
     </tr>
 </table>
 
