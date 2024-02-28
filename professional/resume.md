@@ -91,12 +91,12 @@ Passionate about computation in any applied scientific field.
         </td>
     </tr>
 </table>
- &emsp; &mdash; Optical wafer inspection with broadband illumination<br/>
+ &emsp; &mdash; Sensitivity enhancement for optical wafer inspection with broadband illumination<br/>
   
 <table class="table1">
     <tr>
         <td>
-            <div style="text-align: left"><span style="color:red"><b>Argonne National Laboratory</b></span><br/><b><u>Staff Scientist</u></b>: Materials Science Division</div>
+            <div style="text-align: left"><span style="color:red"><b>Argonne National Laboratory</b></span><br/><b><u>Assistant Scientist (&#8773; Assistant Professor)</u></b>: Materials Science Division</div>
         </td>
         <td>
             <div style="text-align: right"><span style="color:red">Chicago, IL, USA</span><br/>Oct 2019 &mdash; Oct 2022</div>
@@ -154,7 +154,8 @@ Passionate about computation in any applied scientific field.
 &emsp; &mdash; ANL LDRD: <i>Detecting critical micro-structural processes with AI</i> (PI, &#36;100,000). <br/>
 &emsp; &mdash; Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016). <br/>
 &emsp; &mdash; Indian Institute of Technology Madras Merit Scholarship (2007 &mdash; 2009). <br/>
-&emsp; &mdash; Bangalore University undergraduate rank 5 (2007). 
+&emsp; &mdash; IIT-JAM (Joint Admission to M.Sc) all-India rank 5 (2007). <br/>
+&emsp; &mdash; Bangalore University overall undergraduate rank 5 (2007). 
 
 # 🧗 Hobbies &amp; Activities
 

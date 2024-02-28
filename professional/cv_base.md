@@ -22,7 +22,7 @@ Bachelor of Science (**B.Sc**) in _physics_ ,  _mathematics_ , _electronics_ (Ba
 **Research Scientist**, KLA Corp. (KLA-Tencor)<br/>
 Broadband Plasma (BBP) division, **Nov 2022 - present**
 
-**Assistant Scientist**, Argonne National Laboratory<br/>
+**Assistant Scientist (&#8773; Assistant Professor)**, Argonne National Laboratory<br/>
 Synchrotron Radiation Studies of Materials group, **_Oct 2019 - Oct 2022_**
     
 **Post-doctoral researcher**, Argonne National Laboratory<br/>
@@ -99,6 +99,7 @@ Department of Physics, **_May 2008_**
 
 Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016)<br/>
 The Indian Institute of Technology Madras Merit Scholarship (2007-2009)<br/>
+IIT-JAM (Joint Admission to M.Sc at the Indian Institutes of Technology) all-India rank 5 (2007). <br/>
 Bangalore University overall rank 5 (2007)
 
 <a name="grants"></a>
@@ -132,6 +133,9 @@ _US Department of Energy: [Basic Energy Sciences (BES) Program](https://www.ener
 1) Workshop (Session chair): _Dark field x-ray microscopy for mesoscale phenomena in ordered materials at APS-U_ : APS/CNM Users Meeting, Lemont, IL, USA (May 2022)<br/>
 2) Workshop: _Advances in Phase Retrieval Methods for High-Resolution X-ray Imaging_ , APS/CNM Users Meeting, Argonne National Laboratory, Lemont, IL, USA (August 2020)<br/>
 3) Workshop: _Advanced Probes and Data Analytics for Enabling Single Pulse Imaging Under Dynamic Conditions_ , Santa Fe, NM, USA (August 2019)
+
+## Training / Professional development
+Multiphysics simulations with the [MOOSE (Multiphysics Object-Oriented Simulation Environment) Framework](https://mooseframework.inl.gov/), Idaho National Laboratory
 
 # Technical reports
 
