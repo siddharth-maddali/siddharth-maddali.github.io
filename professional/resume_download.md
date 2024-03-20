@@ -17,7 +17,8 @@ Professional with strong fundamentals and a Doctor of Philosophy (Ph.D.) in phys
 Passionate about computation in any applied scientific field.
 
 <p>
-<b>Citizenship</b>: India
+<b>Citizenship</b>: India<br/>
+<b>Sponsorship required</b>: No
 </p>
 
 
@@ -71,7 +72,7 @@ Passionate about computation in any applied scientific field.
         <td>C/C++,<br/>Linux sysadmin</td>
     </tr>
     <tr>
-        <td>👶 <b>Elementary/on the side</b></td>
+        <td>👶 <b>On the side</b></td>
         <td>Dynamical systems,<br/>field theory, quantum information</td>
         <td>Bayesian inference,<br/>uncertainty quantification,<br/>quantum computing</td>
         <td>HTML, Javascript, CSS,<br/>Qiskit, cuQuantum</td>
@@ -91,7 +92,7 @@ Passionate about computation in any applied scientific field.
         </td>
     </tr>
 </table>
- &emsp; &mdash; Sensitivity enhancement for optical wafer inspection with broadband illumination<br/>
+ &emsp; &mdash; Developed methods for sensitivity enhancement in semiconductor wafer inspection with broadband optical illumination<br/>
   
 <table class="table1">
     <tr>
@@ -103,12 +104,22 @@ Passionate about computation in any applied scientific field.
         </td>
     </tr>
 </table>
+<!--
 &emsp; &mdash; <i><b>Imaging</b></i>: Inverse problems for 3D nanoscale materials imaging using coherent X-ray probes. <br/>
 &emsp; &mdash; <i><b>Time-resolved studies</b></i>: Signal processing methods for XPCS at free electron laser facilities. <br/>
 &emsp; &mdash; <i><b>Experiments</b></i>: POCs &amp; demonstrations for the above at APS/future <a href="https://www.aps.anl.gov/APS-Upgrade">APS-U</a> instruments. <br/>
 &emsp; &mdash; <i><b>Fundraising</b></i>: Research grants (LDRD, DoE), <a href="https://www.aps.anl.gov/">APS</a>, <a href="https://www.esrf.fr/">ESRF</a> user-time proposals. <br/>
 &emsp; &mdash; <i><b>Dissemination/Outreach</b></i>: Publications, peer review, editorship, conferences, tech reports. <br/>
 &emsp; &mdash; <i><b>Mentoring/Organization</b></i>: Postdocs, students (unofficial), workshop planning/chairing. <br/>
+-->
+<i><b>Accomplishments</b></i>: <br/>
+&emsp; &mdash; 
+Led the computational development and <b>first ever experimental demonstration</b> of imaging nano-scale tensor fields in in real-world, defected materials (MR-BCDI). <br/>
+&emsp; &mdash; 
+Pioneered futuristic high-resolution imaging experiments at Department of Energy facilities with physics-based signal processing techniques. <br/>
+&emsp; &mdash; Spearheaded the multi-scale X-ray diffraction imaging approach to characterizing materials in difficult-to-access environments (APS, ESRF). <br/>
+&emsp; &mdash; Commandeered high-risk, high-reward research grants (ANL LDRD) for early-stage exploratory X-ray microscopy and experimental automation at synchrotron facilities. <br/> 
+&emsp; &mdash; Misc: Successful proposals for experiments in national facilities (US, France), published in high-impact journals, mentored postdocs and students, organized/chaired international workshops. 
 
 <table class="table1">
     <tr>
@@ -120,7 +131,7 @@ Passionate about computation in any applied scientific field.
         </td>
     </tr>
 </table>
-&emsp; &mdash; Coherent X-ray diffraction -based 3D nanoscale materials imaging at very high beam energies. 
+&emsp; &mdash; First demonstrated the feasibility of multi-scale imaging of 3D bulk material structure and defects in topologically and crystallographically complex materials using high-energy coherent X-ray illumination. 
  
 <table class="table1">
     <tr>
@@ -132,12 +143,12 @@ Passionate about computation in any applied scientific field.
         </td>
     </tr>
 </table>
-&emsp; &mdash; Machine learning -driven materials discovery applied to steel alloy data for optimized power plant components. 
+&emsp; &mdash; Developed guidelines for materials discovery of function-optimized steel alloys to improve performance of power plant components, using machine learning methods.  
 
 <table class="table1">
     <tr>
         <td>
-            <div style="text-align: left"><span style="color:red"><b>Carnegie Mellon University</b></span><br/><b><u>Graduate student</u></b>: Physics Dept.</div>
+            <div style="text-align: left"><span style="color:red"><b>Carnegie Mellon University</b></span><br/><b><u>Graduate student</u></b>: Physics Department</div>
         </td>
         <td>
             <div style="text-align: right"><span style="color:red">Pittsburgh, PA, USA</span><br/>Aug 2009 &mdash; Feb 2016</div>
