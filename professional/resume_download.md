@@ -10,11 +10,11 @@ mathjax: true
 <a name="summary"></a>
 # Summary
 Computational scientist with a demonstrated record of research and development. 
+<b>7+ years' professional experience</b> in X-ray and optical microscopy, Fourier/wave optics, imaging algorithms, signal processing, high-performance computing, scientific software development and condensed matter physics. 
 <b>1+ years</b> in the semiconductor industry. 
 Previous stints at top US national laboratories. 
-<b>7+ years' professional experience</b> in X-ray and optical microscopy, Fourier/wave optics, imaging algorithms, signal processing, high-performance computing, scientific software development and condensed matter physics. 
-Professional with strong fundamentals and a Doctor of Philosophy (Ph.D.) in physics. 
-Passionate about computation in any applied scientific field.
+Professional with strong fundamentals in computation, mathematics and a Doctor of Philosophy (Ph.D.) in physics. 
+Passionate about computational and experimental innovation in any field, particularly the physical sciences.
 
 <p>
 <b>Citizenship</b>: India<br/>
@@ -57,23 +57,23 @@ Passionate about computation in any applied scientific field.
         <td>👍 <b>Research</b></td>
         <td>Fourier/physical/wave optics,<br/>microscopy, diffraction, scattering,<br/>condensed matter physics</td>
         <td>Linear algebra, imaging, reconstruction,<br/>signal processing, inverse problems, <br/>simulations</td>
-        <td>Python, MATLAB,<br/>development on Linux,<br/>scripting, automation</td>
+        <td>Python (numpy, scipy, pandas, scikit-learn) <br/>MATLAB, Linux, $\LaTeX$</td>
     </tr>
     <tr>
         <td>👌 <b>Expert</b></td>
         <td>Quantum &amp; statistical physics,<br/>mechanics, electromagnetism, acoustics</td>
-        <td>Statistics, probability,<br/>visualization, complex analysis</td>
-        <td>High-performance/<br/>parallel computing,<br/>GPU programming</td>
+        <td>Statistics, probability,<br/>visualization, high-dimensional geometry, <br/>complex analysis</td>
+        <td>HPC/parallel computing (mpich), <br/>GPU development (PyTorch, Tensorflow)</td>
     </tr>
     <tr>
         <td>🤏 <b>Functional</b></td>
         <td>Semiconductors, <br/>Instrumentation/experimental design</td>
-        <td>Differential equations,<br/>machine learning, data science</td>
-        <td>C/C++,<br/>Linux sysadmin</td>
+        <td>Differential equations,<br/>machine learning, deep learning</td>
+        <td>C/C++</td>
     </tr>
     <tr>
-        <td>👶 <b>On the side</b></td>
-        <td>Dynamical systems,<br/>field theory, quantum information</td>
+        <td>👶 <b>Miscellaneous</b></td>
+        <td>Dynamical systems, quantum information</td>
         <td>Bayesian inference,<br/>uncertainty quantification,<br/>quantum computing</td>
         <td>HTML, Javascript, CSS,<br/>Qiskit, cuQuantum</td>
     </tr>
@@ -88,16 +88,17 @@ Passionate about computation in any applied scientific field.
             <div style="text-align: left"><span style="color:red"><b>KLA Corp. (KLA-Tencor)</b></span><br/><b><u>Research Scientist</u></b>: Broadband Plasma (BBP) Division</div>
         </td>
         <td>
-            <div style="text-align: right"><span style="color:red">Milpitas, CA, USA</span><br/>Nov 2022 &mdash; present</div>
+            <div style="text-align: right"><span style="color:red">Milpitas, CA, USA</span><br/>Nov 2022 &mdash; Feb 2024</div>
         </td>
     </tr>
 </table>
- &emsp; &mdash; Developed methods for sensitivity enhancement in semiconductor wafer inspection with broadband optical illumination<br/>
+<i><b>Accomplishments</b></i>: <br/>
+ &emsp; &mdash; Developed methods for sensitivity enhancement in semiconductor wafer inspection with broadband optical illumination. <br/>
   
 <table class="table1">
     <tr>
         <td>
-            <div style="text-align: left"><span style="color:red"><b>Argonne National Laboratory</b></span><br/><b><u>Assistant Scientist (&#8773; Assistant Professor)</u></b>: Materials Science Division</div>
+            <div style="text-align: left"><span style="color:red"><b>Argonne National Laboratory</b></span><br/><b><u>Staff Scientist (&#8773; Assistant Professor)</u></b>: Materials Science Division</div>
         </td>
         <td>
             <div style="text-align: right"><span style="color:red">Chicago, IL, USA</span><br/>Oct 2019 &mdash; Oct 2022</div>
@@ -119,7 +120,7 @@ Led the computational development and <b>first ever experimental demonstration</
 Pioneered futuristic high-resolution imaging experiments at Department of Energy facilities with physics-based signal processing techniques. <br/>
 &emsp; &mdash; Spearheaded the multi-scale X-ray diffraction imaging approach to characterizing materials in difficult-to-access environments (APS, ESRF). <br/>
 &emsp; &mdash; Commandeered high-risk, high-reward research grants (ANL LDRD) for early-stage exploratory X-ray microscopy and experimental automation at synchrotron facilities. <br/> 
-&emsp; &mdash; Misc: Successful proposals for experiments in national facilities (US, France), published in high-impact journals, mentored postdocs and students, organized/chaired international workshops. 
+&emsp; &mdash; Misc: Led successful proposals for experiments in national scientific user facilities (US, France), published in high-impact journals, mentored postdocs and students, organized/chaired international workshops. 
 
 <table class="table1">
     <tr>
@@ -131,6 +132,7 @@ Pioneered futuristic high-resolution imaging experiments at Department of Energy
         </td>
     </tr>
 </table>
+<i><b>Accomplishments</b></i>: <br/>
 &emsp; &mdash; First demonstrated the feasibility of multi-scale imaging of 3D bulk material structure and defects in topologically and crystallographically complex materials using high-energy coherent X-ray illumination. 
  
 <table class="table1">
@@ -143,7 +145,7 @@ Pioneered futuristic high-resolution imaging experiments at Department of Energy
         </td>
     </tr>
 </table>
-&emsp; &mdash; Developed guidelines for materials discovery of function-optimized steel alloys to improve performance of power plant components, using machine learning methods.  
+&emsp; &mdash; Developed guidelines for machine learning-driven nl ldrdmaterials discovery of novel, function-optimized steel alloys with tailored properties to improve performance of power plant components. 
 
 <table class="table1">
     <tr>
@@ -161,11 +163,11 @@ Pioneered futuristic high-resolution imaging experiments at Department of Energy
 
 # 🏆 Awards &amp; Grants
 
-&emsp; &mdash; ANL LDRD: <i>Coherence-enhanced dark-field X-ray microscopy</i> (PI; &#36;930,000). <br/>
-&emsp; &mdash; ANL LDRD: <i>Detecting critical micro-structural processes with AI</i> (PI, &#36;100,000). <br/>
+&emsp; &mdash; ANL LDRD: <i>Coherence-enhanced dark-field X-ray microscopy</i> (Principal Investigator; &#36;930,000). <br/>
+&emsp; &mdash; ANL LDRD: <i>Detecting critical micro-structural processes with AI</i> (Principal Investigator, &#36;100,000). <br/>
 &emsp; &mdash; Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016). <br/>
 &emsp; &mdash; Indian Institute of Technology Madras Merit Scholarship (2007 &mdash; 2009). <br/>
-&emsp; &mdash; IIT-JAM (Joint Admission to M.Sc) all-India rank 5 (2007). <br/>
+&emsp; &mdash; Joint Admission to M.Sc at the Indian Institutes of Technology (IIT-JAM): <b>All-India rank 5</b> in a pool of $\simeq$ 4000 (2007). <br/>
 &emsp; &mdash; Bangalore University overall undergraduate rank 5 (2007). 
 
 # 🧗 Hobbies &amp; Activities

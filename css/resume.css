@@ -62,6 +62,7 @@ ul.posts li {
 }
 
 table.table1 {
+	table-layout: fixed;
 	width: 100%;	
 	border-style: hidden; 
 /*	border-collapse: collapse;		*/
