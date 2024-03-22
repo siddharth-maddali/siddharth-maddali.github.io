@@ -1,4 +1,6 @@
 body {
+    font-size: 1.3em;
+    line-height: 1.2em;
     margin: 20px auto;
     width: 95%;
 	text-rendering: geometricPrecision;
@@ -25,8 +27,8 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.4em;
+    line-height: 1.3em;
     color: #333;
 }
 footer {
@@ -78,8 +80,8 @@ table.table1 th {
 table.table1 td {
 	width: 100%;
 	border: 0; 
-    font-size: 1.4em;
-    line-height: 1.3em;
+    font-size: 1.3em;
+    line-height: 1.2em;
 }
 
 table.table2 {

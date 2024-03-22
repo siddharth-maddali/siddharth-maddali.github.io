@@ -87,7 +87,7 @@ if __name__=='__main__':
     args = parser.parse_args()
     
     startstr = '<div style="white-space: wrap">'
-    startstr += '<div style="font-size: 1.5em; display: inline-block">'
+    startstr += '<div style="font-size: 1.2em; display: inline-block">'
     stopstr = '</div></div>'
 
     #print( args.bibtexfile )

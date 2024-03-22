@@ -9,11 +9,10 @@ mathjax: true
 
 <a name="summary"></a>
 # Summary
-Computational scientist with a demonstrated record of research and development. 
-<b>7+ years' professional experience</b> in X-ray and optical microscopy, Fourier/wave optics, imaging algorithms, signal processing, high-performance computing, scientific software development and condensed matter physics. 
+Computational scientist with <b>7+ years' professional research experience</b> in X-ray and optical microscopy, Fourier/wave optics, imaging algorithms, signal processing, high-performance computing, scientific software development and condensed matter physics. 
 <b>1+ years</b> in the semiconductor industry. 
 Previous stints at top US national laboratories. 
-Professional with strong fundamentals in computation, mathematics and a Doctor of Philosophy (Ph.D.) in physics. 
+Professional with s Ph.D in physics and strong fundamentals in computation, mathematics. 
 Passionate about computational and experimental innovation in any field, particularly the physical sciences.
 
 <p>
@@ -55,25 +54,25 @@ Passionate about computational and experimental innovation in any field, particu
     </tr>
     <tr>
         <td>👍 <b>Research</b></td>
-        <td>Fourier/physical/wave optics,<br/>microscopy, diffraction, scattering,<br/>condensed matter physics</td>
-        <td>Linear algebra, imaging, reconstruction,<br/>signal processing, inverse problems, <br/>simulations</td>
-        <td>Python (numpy, scipy, pandas, scikit-learn) <br/>MATLAB, Linux, $\LaTeX$</td>
+        <td>Fourier/physical/wave optics,<br/>microscopy, diffraction, <br/>scattering, <br/>condensed matter physics</td>
+        <td>Linear algebra, imaging, <br/>reconstruction, signal processing, <br/>inverse problems, simulations</td>
+	<td>Python <br/> (numpy, scipy, pandas, <br/> matplotlib, scikit-learn), <br/>MATLAB, Linux, Bash, <br/>$\LaTeX$</td>
     </tr>
     <tr>
         <td>👌 <b>Expert</b></td>
-        <td>Quantum &amp; statistical physics,<br/>mechanics, electromagnetism, acoustics</td>
-        <td>Statistics, probability,<br/>visualization, high-dimensional geometry, <br/>complex analysis</td>
-        <td>HPC/parallel computing (mpich), <br/>GPU development (PyTorch, Tensorflow)</td>
+        <td>Quantum &amp; statistical physics,<br/>mechanics, <br/>electromagnetism </td>
+        <td>Statistics, probability,<br/>visualization, <br/>high-dimensional geometry, <br/>complex analysis</td>
+        <td>HPC/parallel computing (mpich), <br/>GPU development <br/>(PyTorch, Tensorflow)</td>
     </tr>
     <tr>
         <td>🤏 <b>Functional</b></td>
-        <td>Semiconductors, <br/>Instrumentation/experimental design</td>
-        <td>Differential equations,<br/>machine learning, deep learning</td>
+        <td>Semiconductors, <br/>Experimental design</td>
+        <td>Differential equations,<br/>machine learning, <br/>deep learning</td>
         <td>C/C++</td>
     </tr>
     <tr>
         <td>👶 <b>Miscellaneous</b></td>
-        <td>Dynamical systems, quantum information</td>
+        <td>Quantum information</td>
         <td>Bayesian inference,<br/>uncertainty quantification,<br/>quantum computing</td>
         <td>HTML, Javascript, CSS,<br/>Qiskit, cuQuantum</td>
     </tr>
@@ -115,12 +114,13 @@ Passionate about computational and experimental innovation in any field, particu
 -->
 <i><b>Accomplishments</b></i>: <br/>
 &emsp; &mdash; 
-Led the computational development and <b>first ever experimental demonstration</b> of imaging nano-scale tensor fields in in real-world, defected materials (MR-BCDI). <br/>
+Led the computational development and <b>first experimental demonstration</b> of multi-reflection Bragg coherent diffraction imaging (MR-BCDI). <br/>
 &emsp; &mdash; 
-Pioneered futuristic high-resolution imaging experiments at Department of Energy facilities with physics-based signal processing techniques. <br/>
+Pioneered design of futuristic experiments at Department of Energy facilities with physics-based signal processing techniques. <br/>
 &emsp; &mdash; Spearheaded the multi-scale X-ray diffraction imaging approach to characterizing materials in difficult-to-access environments (APS, ESRF). <br/>
-&emsp; &mdash; Commandeered high-risk, high-reward research grants (ANL LDRD) for early-stage exploratory X-ray microscopy and experimental automation at synchrotron facilities. <br/> 
-&emsp; &mdash; Misc: Led successful proposals for experiments in national scientific user facilities (US, France), published in high-impact journals, mentored postdocs and students, organized/chaired international workshops. 
+&emsp; &mdash; Commandeered research grants (ANL LDRD) for early-stage exploratory X-ray microscopy and experimental automation at synchrotron facilities. <br/> 
+&emsp; &mdash; Proposed and executed successful synchrotron experiments (US, France). <br/>
+&emsp; &mdash; Published in high-impact journals, mentored postdocs and students, organized/chaired international workshops. 
 
 <table class="table1">
     <tr>
@@ -132,8 +132,7 @@ Pioneered futuristic high-resolution imaging experiments at Department of Energy
         </td>
     </tr>
 </table>
-<i><b>Accomplishments</b></i>: <br/>
-&emsp; &mdash; First demonstrated the feasibility of multi-scale imaging of 3D bulk material structure and defects in topologically and crystallographically complex materials using high-energy coherent X-ray illumination. 
+<i><b>Accomplishments</b></i>: <b>First demonstration</b> of multi-scale, high-energy coherent diffraction imaging (HEDM) of 3D material microstructure. 
  
 <table class="table1">
     <tr>
@@ -145,7 +144,7 @@ Pioneered futuristic high-resolution imaging experiments at Department of Energy
         </td>
     </tr>
 </table>
-&emsp; &mdash; Developed guidelines for machine learning-driven nl ldrdmaterials discovery of novel, function-optimized steel alloys with tailored properties to improve performance of power plant components. 
+&emsp; &mdash; Developed guidelines for machine learning-driven materials discovery of novel, function-optimized steel alloys. 
 
 <table class="table1">
     <tr>
@@ -158,16 +157,17 @@ Pioneered futuristic high-resolution imaging experiments at Department of Energy
     </tr>
 </table>
 &emsp; &mdash; <a href="https://doi.org/10.1184/R1/6715259.v1">Dissertation</a> on mining meso-scale materials physics from high-energy synchrotron data. <br/>
-&emsp; &mdash; Teaching mechanics &amp; electromagnetism to undergraduate science majors. 
+&emsp; &mdash; Created <a href="https://github.com/siddharth-maddali/HierarchicalSmooth">HierarchicalSmooth</a>: mesh smoothing for physical interface networks. <br/>
+&emsp; &mdash; Taught mechanics &amp; electromagnetism to undergraduate science majors. 
 
 
 # 🏆 Awards &amp; Grants
 
-&emsp; &mdash; ANL LDRD: <i>Coherence-enhanced dark-field X-ray microscopy</i> (Principal Investigator; &#36;930,000). <br/>
-&emsp; &mdash; ANL LDRD: <i>Detecting critical micro-structural processes with AI</i> (Principal Investigator, &#36;100,000). <br/>
+&emsp; &mdash; ANL LDRD: <i>Coherence-enhanced dark-field X-ray microscopy</i> (Role: PI; &#36;930,000). <br/>
+&emsp; &mdash; ANL LDRD: <i>Detecting critical micro-structural processes with AI</i> (Role: PI; &#36;100,000). <br/>
 &emsp; &mdash; Oak Ridge Institute for Science and Education (ORISE) post-doctoral fellowship (2016). <br/>
 &emsp; &mdash; Indian Institute of Technology Madras Merit Scholarship (2007 &mdash; 2009). <br/>
-&emsp; &mdash; Joint Admission to M.Sc at the Indian Institutes of Technology (IIT-JAM): <b>All-India rank 5</b> in a pool of $\simeq$ 4000 (2007). <br/>
+&emsp; &mdash; IIT Joint Admission to M.Sc (IIT-JAM): All-India rank 5 out of &#8771; 4000 (2007). <br/>
 &emsp; &mdash; Bangalore University overall undergraduate rank 5 (2007). 
 
 # 🧗 Hobbies &amp; Activities

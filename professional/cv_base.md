@@ -154,7 +154,7 @@ Marc
 Saugat
 Matt
 -->
-<table class="table1">
+<table class="table1" style="font-size: 0.9em;">
     <tr>
         <td style="text-align: left; vertical-align: top;">
             <b>Dr. Stephan O. Hruszkewycz</b> <a href="https://www.anl.gov/profile/stephan-o-hruszkewycz"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:shrus@anl.gov"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a> <a href="tel:+16302523214"><img style="align:left" src="{{ site.url }}/images/Phone.svg"></a><br/>
@@ -179,7 +179,7 @@ Matt
             <b>Dr. Anthony D. Rollett</b> <a href="https://www.cmu.edu/engineering/materials/people/faculty/bios/rollett-up-7jan21.html"><img style="align:left" src="{{ site.url }}/images/Web.svg"></a>  <a href="mailto:rollett@andrew.cmu.edu"><img style="align:left" src="{{ site.url }}/images/Mail.svg"></a> <a href="tel:+14122683177"><img style="align:left" src="{{ site.url }}/images/Phone.svg"></a>
             <br/>
             Collaborator, materials science <br/>
-            Department of Materials Science and Engineering<br/>
+            Department of Mat. Sci. and Engg.<br/>
             Carnegie Mellon University<br/>
             Pittsburgh, PA (USA)<br/>
             <br/>
