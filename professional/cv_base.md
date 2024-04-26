@@ -20,7 +20,7 @@ Bachelor of Science (**B.Sc**) in _physics_ ,  _mathematics_ , _electronics_ (Ba
 # Experience
 
 **Research Scientist**, KLA Corp. (KLA-Tencor)<br/>
-Broadband Plasma (BBP) division, **Nov 2022 - present**
+Broadband Plasma (BBP) division, **_Nov 2022 - present_**
 
 **Assistant Scientist (&#8773; Assistant Professor)**, Argonne National Laboratory<br/>
 Synchrotron Radiation Studies of Materials group, **_Oct 2019 - Oct 2022_**

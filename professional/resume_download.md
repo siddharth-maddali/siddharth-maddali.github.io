@@ -12,7 +12,7 @@ mathjax: true
 Computational scientist with <b>7+ years' professional research experience</b> in X-ray and optical microscopy, Fourier/wave optics, imaging algorithms, signal processing, high-performance computing, scientific software development and condensed matter physics. 
 <b>1+ years</b> in the semiconductor industry. 
 Previous stints at top US national laboratories. 
-Professional with s Ph.D in physics and strong fundamentals in computation, mathematics. 
+Professional with a Ph.D in physics and strong fundamentals in computation, mathematics. 
 Passionate about computational and experimental innovation in any field, particularly the physical sciences.
 
 <p>
@@ -60,8 +60,8 @@ Passionate about computational and experimental innovation in any field, particu
     </tr>
     <tr>
         <td>👌 <b>Expert</b></td>
-        <td>Quantum &amp; statistical physics,<br/>mechanics, <br/>electromagnetism </td>
-        <td>Statistics, probability,<br/>visualization, <br/>high-dimensional geometry, <br/>complex analysis</td>
+        <td>Computational electromagnetics,<br/>quantum &amp; statistical physics,<br/>mechanics</td>
+        <td>Statistics, probability,<br/>FDTD, visualization, <br/>high-dimensional geometry, <br/>complex analysis</td>
         <td>HPC/parallel computing (mpich), <br/>GPU development <br/>(PyTorch, Tensorflow)</td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@ Passionate about computational and experimental innovation in any field, particu
             <div style="text-align: left"><span style="color:red"><b>KLA Corp. (KLA-Tencor)</b></span><br/><b><u>Research Scientist</u></b>: Broadband Plasma (BBP) Division</div>
         </td>
         <td>
-            <div style="text-align: right"><span style="color:red">Milpitas, CA, USA</span><br/>Nov 2022 &mdash; Feb 2024</div>
+            <div style="text-align: right"><span style="color:red">Milpitas, CA, USA</span><br/>Nov 2022 &mdash;present</div>
         </td>
     </tr>
 </table>
