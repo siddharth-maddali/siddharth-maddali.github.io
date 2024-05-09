@@ -54,7 +54,7 @@ Passionate about computational and experimental innovation in any field, particu
     </tr>
     <tr>
         <td>👍 <b>Research</b></td>
-        <td>Fourier/physical/wave optics,<br/>microscopy, diffraction, <br/>scattering, <br/>condensed matter physics</td>
+        <td>Fourier/physical/wave optics,<br/>microscopy, X-ray diffraction, <br/>condensed matter/materials physics</td>
         <td>Linear algebra, imaging, <br/>reconstruction, signal processing, <br/>inverse problems, simulations</td>
 	<td>Python <br/> (numpy, scipy, pandas, <br/> matplotlib, scikit-learn), <br/>MATLAB, Linux, Bash, <br/>$\LaTeX$</td>
     </tr>
