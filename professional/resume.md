@@ -3,17 +3,21 @@ layout: portfolio
 title: Resumé | Siddharth Maddali's website
 mathjax: true
 ---
+<!-- <link href='http://fonts.googleapis.com/css?family=Noto' rel='stylesheet' type='text/css'>
+<style type = "text/css">
+    p { font-family: 'Noto'; }
+</style> -->
 {% include resume-nav-body.html %}
 {% include mathjax.html %}
 <p style="color: red;">NOTE: Icons are clickable links.</p>
 
 <a name="summary"></a>
 # Summary
-Computational scientist with <b>7+ years' professional research experience</b> in X-ray and optical microscopy, Fourier/wave optics, imaging algorithms, signal processing, high-performance computing, scientific software development and condensed matter physics. 
+Computational scientist with <b>7+ years' professional research experience</b> in X-ray and optical microscopy, optics, imaging algorithms, signal processing, high-performance computing, scientific software development and materials physics. 
 <b>1+ years</b> in the semiconductor industry. 
 Previous stints at top US national laboratories. 
-Professional with a Ph.D in physics and strong fundamentals in computation, mathematics. 
-Passionate about computational and experimental innovation in any field, particularly the physical sciences.
+Professional with a Ph.D in physics and strong fundamentals in mathematics and computation. 
+Passionate about computational, experimental and AI innovation in any field, particularly the physical sciences. 
 
 <p>
 <b>Citizenship</b>: India<br/>
