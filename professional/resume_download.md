@@ -13,8 +13,8 @@ mathjax: true
 
 <a name="summary"></a>
 # Summary
-Computational scientist with <b>7+ years' professional research experience</b> in X-ray and optical microscopy, optics, imaging algorithms, signal processing, high-performance computing, scientific software development and materials physics. 
-<b>1+ years</b> in the semiconductor industry. 
+Computational scientist with <b>7+ years' professional research experience</b> in optical and X-ray microscopy, optics, imaging algorithms and systems, signal processing, high-performance computing, scientific software development and materials physics. 
+<b>1+ years</b> experience in high-resolution measurement/detection methods in the semiconductor industry. 
 Previous stints at top US national laboratories. 
 Professional with a Ph.D in physics and strong fundamentals in mathematics and computation. 
 Passionate about computational, experimental and AI innovation in any field, particularly the physical sciences. 
@@ -88,10 +88,21 @@ Passionate about computational, experimental and AI innovation in any field, par
 <table class="table1">
     <tr>
         <td>
+            <div style="text-align: left"><span style="color:red"><b>Independent</b></span><br/><b><u>Scientific Consultant</u></b></div>
+        </td>
+        <td>
+            <div style="text-align: right"><span style="color:red">Fremont, CA, USA</span><br/>Jan 2024 &mdash;present</div>
+        </td>
+    </tr>
+</table>
+<br/>
+<table class="table1">
+    <tr>
+        <td>
             <div style="text-align: left"><span style="color:red"><b>KLA Corp. (KLA-Tencor)</b></span><br/><b><u>Research Scientist</u></b>: Broadband Plasma (BBP) Division</div>
         </td>
         <td>
-            <div style="text-align: right"><span style="color:red">Milpitas, CA, USA</span><br/>Nov 2022 &mdash;present</div>
+            <div style="text-align: right"><span style="color:red">Milpitas, CA, USA</span><br/>Nov 2022 &mdash;Jan 2024</div>
         </td>
     </tr>
 </table>

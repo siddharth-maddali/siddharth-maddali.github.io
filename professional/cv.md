@@ -19,20 +19,23 @@ Bachelor of Science (**B.Sc**) in _physics_ ,  _mathematics_ , _electronics_ (Ba
 <a name="workex"></a>
 # Experience
 
+**Scientific Consultant** <br/>
+**_2024 - present_**
+
 **Research Scientist**, KLA Corp. (KLA-Tencor)<br/>
-Broadband Plasma (BBP) division, **_Nov 2022 - present_**
+Broadband Plasma (BBP) division, **_2022 - 2024_**
 
 **Assistant Scientist (&#8773; Assistant Professor)**, Argonne National Laboratory<br/>
-Synchrotron Radiation Studies of Materials group, **_Oct 2019 - Oct 2022_**
+Synchrotron Radiation Studies of Materials group, **_2019 - 2022_**
     
 **Post-doctoral researcher**, Argonne National Laboratory<br/>
-Coherent diffraction imaging of materials structure, **_Jan 2017 - Sept 2019_**
+Coherent diffraction imaging of materials structure, **_2017 - 2019_**
     
 **Post-doctoral researcher**, National Energy Technology Laboratory<br/>
-Materials discovery with machine learning, **_May 2016 - Sept 2016_**
+Materials discovery with machine learning, **_2016 - 2016_**
     
 **Graduate research assistant**, Carnegie Mellon University<br/>
-Department of Physics, **_2012 - May 2016_**
+Department of Physics, **_2012 - 2016_**
     
 **Graduate teaching assistant**, Carnegie Mellon University<br/>
 Department of Physics, **_2009 - 2012_**
