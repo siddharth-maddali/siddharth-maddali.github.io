@@ -73,7 +73,7 @@ def getDOIAltmetricBadge( thispub ):
         altstr =  '<div style="display: inline-block" data-badge-popover="right" '
         altstr += 'class="altmetric-embed" data-badge-type="1" data-doi="'
         altstr += doi
-        altstr += '" data-condensed="true"></div>'
+        altstr += '" data-condensed="true"></div><br/>'
 
         return doistr, altstr
 

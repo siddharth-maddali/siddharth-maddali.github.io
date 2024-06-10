@@ -3,10 +3,6 @@ layout: portfolio_plain
 title: Resumé | Siddharth Maddali's website
 mathjax: true
 ---
-<!-- <link href='http://fonts.googleapis.com/css?family=Noto' rel='stylesheet' type='text/css'>
-<style type = "text/css">
-    p { font-family: 'Noto'; }
-</style> -->
 {% include resume-nav-body-plain.html %}
 {% include mathjax.html %}
 <p style="color: red;">NOTE: Icons are clickable links.</p>
