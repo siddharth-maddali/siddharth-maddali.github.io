@@ -84,10 +84,11 @@ if __name__=='__main__':
     
     parser = argparse.ArgumentParser()
     parser.add_argument( '-b', '--bibtexfile', help='Input .bib file', type=str )
+    parser.add_argument( '-s', '--fontsize', type=float, default=1.2, help='Font size' )
     args = parser.parse_args()
     
     startstr = '<div style="white-space: wrap">'
-    startstr += '<div style="font-size: 1.2em; display: inline-block">'
+    startstr += '<div style="font-size: %.1fem; display: inline-block">'%args.fontsize
     stopstr = '</div></div>'
 
     #print( args.bibtexfile )
