@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: cv.aux
+The style file: unsrt.bst
+Database file #1: publication.bib
+Warning--entry type for "Ulvestad_2018" isn't style-file defined
+--line 365 of file publication.bib
+Warning--entry type for "Harmon_2024_p" isn't style-file defined
+--line 395 of file publication.bib
+You've used 26 entries,
+            1791 wiz_defined-function locations,
+            630 strings with 11392 characters,
+and the built_in function-call counts, 7791 in all, are:
+= -- 479
+> -- 760
+< -- 1
++ -- 262
+- -- 236
+* -- 800
+:= -- 1422
+add.period$ -- 76
+call.type$ -- 26
+change.case$ -- 26
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 226
+empty$ -- 549
+format.name$ -- 236
+if$ -- 1547
+int.to.chr$ -- 0
+int.to.str$ -- 26
+missing$ -- 24
+newline$ -- 131
+num.names$ -- 26
+pop$ -- 44
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 88
+stack$ -- 0
+substring$ -- 387
+swap$ -- 31
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 52
+width$ -- 28
+write$ -- 280
+(There were 2 warnings)

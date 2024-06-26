@@ -1,6 +1,6 @@
-- name: CV <a href="../docs/cv_download.pdf" rel="noopener noreferrer" target="_blank"><img src="../images/Download.svg"></a>
+- name: CV
   link: /professional/cv
-- name: Resumé <a href="../docs/resume_download.pdf" rel="noopener noreferrer" target="_blank"><img src="../images/Download.svg"></a>
+- name: Resume
   link: /professional/resume
 - name: Software tools
   link: /professional/software

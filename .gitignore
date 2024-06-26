@@ -1,10 +1,10 @@
+__pycache__
 _site/
 .sass-cache
 .jekyll-metadata
 myData/*
 texput.log
-resume-cv/__pycache__
-professional/*.bib.*
+*.bib.*
 .*.*.swp
 .*.swp
 blogDrafts/*

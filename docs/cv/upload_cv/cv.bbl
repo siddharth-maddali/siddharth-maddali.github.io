@@ -1,0 +1,182 @@
+\begin{thebibliography}{10}
+
+\bibitem{Harmon_2024_p}
+K.~J. Harmon, T.~D. Frazer, P.~Donahue, C.~G. Carr, Y.~Liu, A.~Popescu, W.~Cha,
+  \textbf{S. Maddali}, S.~M. Haile, Y.~Cao, and S.~O. Hruszkewycz.
+\newblock Operando ceria strain evolution via bragg coherent diffraction
+  imaging (\textbf{in preparation}), 2024.
+
+\bibitem{Kandel_2024}
+S.~Kandel, \textbf{S. Maddali}, X.~Huang, Y.~S.~G. Nashed, C.~Jacobsen,
+  M.~Allain, and S.~O. Hruszkewycz.
+\newblock Imaging extended single crystal lattice distortion fields with
+  multi-peak bragg ptychography.
+\newblock {\em Opt. Express}, 32(11):19594--19610, May 2024.
+
+\bibitem{Maddali_2023}
+\textbf{S. Maddali}, T.~D. Frazer, N.~Delegan, K.~J. Harmon, S.~E. Sullivan,
+  M.~Allain, W.~Cha, A.~Dibos, I.~Poudyal, S.~Kandel, Y.~S.~G. Nashed, F.~J.
+  Heremans, H.~You, Y.~Cao, and S.~O. Hruszkewycz.
+\newblock Concurrent multi-peak bragg coherent x-ray diffraction imaging of 3d
+  nanocrystal lattice displacement via global optimization.
+\newblock {\em npj Computational Materials}, 9(1):77, May 2023.
+
+\bibitem{Xu_2023}
+Z.~Xu, Y.-F. Shen, S.~K. Naghibzadeh, X.~Peng, V.~Muralikrishnan, \textbf{S.
+  Maddali}, D.~Menasche, A.~R. Krause, K.~Dayal, R.~M. Suter, and G.~S. Rohrer.
+\newblock Grain boundary migration in polycrystalline $\alpha$-fe.
+\newblock {\em Acta Materialia}, 264:119541, Nov 2023.
+
+\bibitem{Hill_2022}
+M.~O. Hill, P.~Schmiedeke, C.~Huang, \textbf{S. Maddali}, X.~Hu, S.~O.
+  Hruszkewycz, J.~J. Finley, G.~Koblmuller, and L.~J. Lauhon.
+\newblock 3d bragg coherent diffraction imaging of extended nanowires: Defect
+  formation in highly strained ingaas quantum wells.
+\newblock {\em ACS Nano}, Nov 2022.
+
+\bibitem{Wilkin_2021}
+M.~J. Wilkin, \textbf{S. Maddali}, S.~O. Hruszkewycz, A.~Pateras, R.~L.
+  Sandberg, R.~Harder, W.~Cha, R.~M. Suter, and A.~D. Rollett.
+\newblock Experimental demonstration of coupled multi-peak bragg coherent
+  diffraction imaging with genetic algorithms.
+\newblock {\em Phys. Rev. B}, 103:214103, Jun 2021.
+
+\bibitem{Kandel_2021}
+S.~Kandel, \textbf{S. Maddali}, Y.~S.~G Nashed, S.~O. Hruszkewycz, C.~Jacobsen,
+  and M.~Allain.
+\newblock Efficient ptychographic phase retrieval via a matrix-free
+  levenberg-marquardt algorithm.
+\newblock {\em Opt. Express}, 29(15):23019--23055, Jul 2021.
+
+\bibitem{Bertaux_2021}
+N.~Bertaux, M.~Allain, J.~Weizeorick, J.~S. Park, P.~Kenesei, S.~D. Shastri,
+  J.~Almer, M.~J. Highland, \textbf{S. Maddali}, and S.~O. Hruszkewycz.
+\newblock Sub-pixel high-resolution imaging of high-energy x-rays inspired by
+  sub-wavelength optical imaging.
+\newblock {\em Opt. Express}, 29(22):35003--35021, Oct 2021.
+
+\bibitem{Maddali_2020a}
+\textbf{S. Maddali}, P.~Li, A.~Pateras, D.~Timbie, N.~Delegan, A.~L. Crook,
+  H.~Lee, I.~Calvo-Almazan, D.~Sheyfer, W.~Cha, F.~J. Heremans, D.~D.
+  Awschalom, V.~Chamard, M.~Allain, and S.~O. Hruszkewycz.
+\newblock General approaches for shear-correcting coordinate transformations in
+  bragg coherent diffraction imaging. part i.
+\newblock {\em Journal of Applied Crystallography}, 53(2), Apr 2020.
+
+\bibitem{Li_2020}
+P.~Li, \textbf{S. Maddali}, A.~Pateras, I.~Calvo-Almazan, S.O. Hruszkewycz,
+  W.~Cha, V.~Chamard, and M.~Allain.
+\newblock General approaches for shear-correcting coordinate transformations in
+  bragg coherent diffraction imaging. part ii.
+\newblock {\em Journal of Applied Crystallography}, 53(2), Apr 2020.
+
+\bibitem{Maddali_2020}
+\textbf{S. Maddali}, M.~Allain, P.~Li, V.~Chamard, and S.~O. Hruszkewycz.
+\newblock Detector tilt considerations in bragg coherent diffraction imaging: A
+  simulation study.
+\newblock {\em Crystals}, 10(12):1150, December 2020.
+
+\bibitem{Maddali_2020b}
+\textbf{S. Maddali}, J.-S. Park, H.~Sharma, S.~Shastri, P.~Kenesei, J.~Almer,
+  R.~Harder, M.~J. Highland, Y.~Nashed, and S.~O. Hruszkewycz.
+\newblock High-energy coherent x-ray diffraction microscopy of polycrystal
+  grains: Steps toward a multiscale approach.
+\newblock {\em Phys. Rev. Applied}, 14:024085, Aug 2020.
+
+\bibitem{Cao_2020}
+Y.~Cao, D.~Sheyfer, Z.~Jiang, \textbf{S. Maddali}, H.~You, B.~X. Wang, Z.~G.
+  Ye, E.~M. Dufresne, H.~Zhou, G.~B. Stephenson, and S.~O. Hruszkewycz.
+\newblock The effect of intensity fluctuations on sequential x-ray photon
+  correlation spectroscopy at the x-ray free electron laser facilities.
+\newblock {\em Crystals}, 10(12):1109, December 2020.
+
+\bibitem{Maddali_2019}
+\textbf{S. Maddali}, M.~Allain, W.~Cha, R.~Harder, J.-S. Park, P.~Kenesei,
+  J.~Almer, Y.~Nashed, and S.~O. Hruszkewycz.
+\newblock Phase retrieval for bragg coherent diffraction imaging at high x-ray
+  energies.
+\newblock {\em Phys. Rev. A}, 99:053838, May 2019.
+
+\bibitem{Calvo-Almazan_2019}
+I.~Calvo-Almazan, M.~Allain, \textbf{S. Maddali}, V.~Chamard, and S.~O.
+  Hruszkewycz.
+\newblock Impact and mitigation of angular uncertainties in bragg coherent
+  x-ray diffraction imaging.
+\newblock {\em Scientific Reports}, 9(1):6386, Apr 2019.
+
+\bibitem{Kandel_2019}
+S.~Kandel, \textbf{S. Maddali}, M.~Allain, S.~O. Hruszkewycz, C.~Jacobsen, and
+  Y.~Nashed.
+\newblock Using automatic differentiation as a general framework for
+  ptychographic reconstruction.
+\newblock {\em Opt. Express}, 27(13):18653--18672, Jun 2019.
+
+\bibitem{Krishnamurthy_2019}
+N.~Krishnamurthy, \textbf{S. Maddali}, J.~A. Hawk, and V.~N. Romanov.
+\newblock 9cr steel visualization and predictive modeling.
+\newblock {\em Computational Materials Science}, Mar 2019.
+
+\bibitem{Shen_2019}
+Yu-Feng Shen, \textbf{S. Maddali}, D.~Menasche, A.~Bhattacharya, G.~S. Rohrer,
+  and R.~M. Suter.
+\newblock Importance of outliers: A three-dimensional study of coarsening in
+  ${\alpha}$-phase iron.
+\newblock {\em Phys. Rev. Materials}, 3:063611, Jun 2019.
+
+\bibitem{Ulvestad_2019}
+A.~Ulvestad, S.~O. Hruszkewycz, M.~V. Holt, M.~O. Hill, I.~Calvo-Almazan,
+  \textbf{S. Maddali}, X.~Huang, H.~Yan, E.~Nazaretski, Y.~S. Chu, L.~J.
+  Lauhon, N.~Rodkey, M.~I. Bertoni, and M.~E. Stuckelberger.
+\newblock Multimodal x-ray imaging of grain-level properties and performance in
+  a polycrystalline solar cell.
+\newblock {\em Journal of Synchrotron Radiation}, 26(4), Jul 2019.
+
+\bibitem{Calvo-Almazan_2019a}
+I.~Calvo-Almazan, A.~P. Ulvestad, E.~Colegrove, T.~Ablekim, M.~V. Holt, M.~O.
+  Hill, \textbf{S. Maddali}, L.~J. Lauhon, M.~I Bertoni, X.~Huang, H.~Yan,
+  E.~Nazaretski, Y.~S. Chu, S.~O. Hruszkewycz, and M.~E. Stuckelberger.
+\newblock Strain mapping of cdte grains in photovoltaic devices.
+\newblock {\em IEEE Journal of Photovoltaics}, pages 1--10, Oct 2019.
+
+\bibitem{Maddali_2018}
+\textbf{S. Maddali}, I.~Calvo-Almazan, J.~Almer, P.~Kenesei, J.-S. Park,
+  R.~Harder, Y.~Nashed, and S.~O. Hruszkewycz.
+\newblock Sparse recovery of undersampled intensity patterns for coherent
+  diffraction imaging at high x-ray energies.
+\newblock {\em Scientific Reports}, 8(1):4959, Mar 2018.
+
+\bibitem{Hruszkewycz_2018}
+S.~O. Hruszkewycz, \textbf{S. Maddali}, C.~P. Anderson, W.~Cha, K.~C. Miao,
+  M.~J. Highland, A.~Ulvestad, D.~D. Awschalom, and F.~J. Heremans.
+\newblock Strain annealing of sic nanoparticles revealed through bragg coherent
+  diffraction imaging for quantum technologies.
+\newblock {\em Phys. Rev. Materials}, 2:086001, Aug 2018.
+
+\bibitem{Ulvestad_2018}
+A.~Ulvestad, W.~Cha, I.~Calvo-Almazan, \textbf{S. Maddali}, S.~M. Wild,
+  E.~Maxey, M.~Dupraz, and S.~O. Hruszkewycz.
+\newblock Bragg coherent modulation imaging: Strain- and defect- sensitive
+  single views of extended samples, Jul 2018.
+
+\bibitem{Highland_2017}
+M.~J. Highland, S.~O. Hruszkewycz, D.~D. Fong, C~Thompson, P.~H. Fuoss,
+  I.~Calvo-Almazan, \textbf{S. Maddali}, A.~Ulvestad, E.~Nazaretski, X.~Huang,
+  H.~Yan, Y.~S. Chu, H.~Zhou, P.~M. Baldo, and J.~A. Eastman.
+\newblock In-situ synchrotron x-ray studies of the microstructure and stability
+  of in2o3 epitaxial films.
+\newblock {\em Applied Physics Letters}, 111(16):161602, Oct 2017.
+
+\bibitem{Maddali_2016}
+\textbf{S. Maddali}, S.~Ta'asan, and R.~M. Suter.
+\newblock Topology-faithful nonparametric estimation and tracking of bulk
+  interface networks.
+\newblock {\em Computational Materials Science}, 125:382--340, Dec 2016.
+
+\bibitem{Renversade_2016}
+L.~Renversade, R.~Quey, W.~Ludwig, D.~Menasche, \textbf{S. Maddali}, R.~M.
+  Suter, and A.~Borbely.
+\newblock Comparison between diffraction contrast tomography and high-energy
+  diffraction microscopy on a slightly deformed aluminium alloy.
+\newblock {\em IUCrJ}, 3(1):32--42, Jan 2016.
+
+\end{thebibliography}

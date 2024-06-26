@@ -1,0 +1,51 @@
+\listfiles
+\documentclass[11pt]{article}
+
+\usepackage{components/commonheader}
+\usepackage{etoolbox}
+% \usepackage[left=20mm]{geometry}
+
+\newcommand{\bibsubimport}[2]{\subimport{#1}{#2}}
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{} % this gets rid of the "References" title when using bibtex
+
+
+\begin{document}
+
+\subimport{components/}{background.tex}
+
+\subimport{components/}{links.tex}
+
+\resumesection{\emoji{books} Education}
+\subimport{components/}{education.tex}
+
+\resumesection{\emoji{briefcase} Experience}
+\subimport{components/}{experience.tex} %\newline
+
+\resumesection{\emoji{light-bulb} Interests}
+\subimport{components/}{interests.tex} %\newline
+
+\resumesection{\emoji{bar-chart} Presentations}
+\subimport{components/}{presentations.tex} %\newline
+
+\resumesection{\emoji{trophy} Awards \& honors}
+\subimport{components/}{awards.tex} %\newline
+
+\resumesection{\emoji{dollar-banknote} Research grants}
+\subimport{components/}{grants.tex} %\newline
+
+\resumesection{\emoji{busts-in-silhouette} Professional activity \& outreach}
+\subimport{components/}{professional.tex} %\newline
+
+\resumesection{\emoji{page-facing-up} Technical reports}
+\subimport{components/}{reports.tex} %\newline
+
+\resumesection{\emoji{thumbs-up-medium-skin-tone} References}
+\subimport{components/}{references.tex} %\newline
+
+\phantom{\cite{Harmon_2024_p,Kandel_2024,Maddali_2023,Xu_2023,Hill_2022,Wilkin_2021,Kandel_2021,Bertaux_2021,Maddali_2020a,Li_2020,Maddali_2020,Maddali_2020b,Cao_2020,Maddali_2019,Calvo-Almazan_2019,Kandel_2019,Krishnamurthy_2019,Shen_2019,Ulvestad_2019,Calvo-Almazan_2019a,Maddali_2018,Hruszkewycz_2018,Ulvestad_2018,Highland_2017,Maddali_2016,Renversade_2016}}
+\resumesection{\emoji{newspaper} Publications}
+%\bibliography{publication}
+%\bibliographystyle{unsrt}
+\bibsubimport{./}{cv.bbl}
+
+\end{document}

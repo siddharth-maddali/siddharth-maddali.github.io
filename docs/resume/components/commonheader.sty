@@ -1,0 +1,39 @@
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage{bbding}
+\usepackage{import}
+\usepackage{emoji}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{makecell}
+\usepackage{academicons}
+\usepackage{graphicx}
+% \usepackage{wrapfigure}
+
+\setemojifont{TwemojiMozilla}
+
+\pagestyle{empty}
+\geometry{margin=0.25in}
+\setlength\parindent{9pt}
+\setlist{nosep}
+\renewcommand\labelitemi{--}
+
+\definecolor{highlight}{RGB}{0,0,0}
+
+\newcommand{\github}{\textcolor{rgb:red,110;green,84;blue,148}{\faGithubSquare}}
+\newcommand{\linkedin}{\textcolor{rgb:red,6;green,108;blue,170}{\faLinkedinSquare}}
+\newcommand{\name}[1]{\section*{\color{highlight} #1}\vspace{-0.4cm}}
+\newcommand{\worktitle}[1]{\subsection*{\color{highlight} #1}\vspace{-0.4cm}}
+\newcommand{\topinfo}[1]{\par\vspace{-0.1cm}#1\vspace{0.1cm}}
+\newcommand{\resumesection}[1]{\vspace{-0.5cm}\section*{\color{highlight}#1}\vspace{-0.2cm}\hrule\vspace{0.2cm}}
+
+\newcommand{\headshot}[1]{
+        \includegraphics[width=0.95\textwidth]{#1}
+}
+
+\renewcommand{\familydefault}{\sfdefault}

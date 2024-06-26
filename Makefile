@@ -14,18 +14,20 @@
 ROOT=${HOME}/local/siddharth-maddali.github.io
 BOT=${ROOT}/update-bot.py
 ZIP=/usr/bin/zip
-H2P=/usr/bin/wkhtmltopdf
+#H2P=/usr/bin/wkhtmltopdf
+DOCCREAT=${ROOT}/createDocs.py
 
 # auto-tweeting variables
 POSTS=$(wildcard ${ROOT}/tweet-record/*.md)
 TWEETS=$(POSTS:.md=.tweet)
 ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
 
-# html to pdf
-WEB=$(wildcard ${ROOT}/_site/professional/*_download.html)
-PDF=$(WEB:.html=.pdf)
+# generate all docs
+WEB=$(wildcard ${ROOT}/docs/{cv,resume}/*.tex)
+PDF=$(WEB:.tex=.pdf)
 DOCLIST=${ROOT}/docs/docs.list
-H2PFLAGS=--encoding utf-8  --enable-local-file-access --page-size A4 --margin-top 5mm --margin-bottom 5mm --margin-left 5mm --margin-right 5mm
+#H2PFLAGS=--encoding utf-8  --enable-local-file-access --page-size A4 --margin-top 5mm --margin-bottom 5mm --margin-left 5mm --margin-right 5mm
+DOCCREATFLAGS=
 
 #########################################################
 # Make directives

@@ -17,25 +17,31 @@ SITE=siddharth-maddali.github.io
 ROOT=$PSRC/$SITE
 CRAWL=http://www.google.com/ping
 PROF=$PSRC/$SITE/professional
+LUALATEX=$ROOT/latexBuild_lua.sh
 
-function updateCV() {
-	cd $PROF
-	bash ./createCV.sh
+function updateResumeCV() {
+	# cd $PROF
+	# bash ./createCV.sh
+	cd $ROOT/docs/resume
+	$LUALATEX resume
+	cd $ROOT/docs/cv
+	$LUALATEX cv
 }
 
-function updateDocs() { 
-	JEKYLL_SERVERS=$( netstat -tupln 2>/dev/null | grep "jekyll serve" | wc -l )
-	if [[ "$JEKYLL_SERVERS" -lt "1" ]]; then # no Jekyll servers running. 
-		RED='\033[0;31m'
-		NC='\033[0m' # No Color
-		echo -e ${RED}updateDocs ERROR: Jekyll server not running${NC}; Faulty docs build. 
-		echo -e Serve Jekyll site locally with: ${RED} $ bundle exec jekyll serve${NC} and then build docs. 
-	else
-		cd $ROOT
-		echo "Building docs..."
-		make docs
-	fi
-}
+## DEPRECATED
+# function updateDocs() { 
+# 	JEKYLL_SERVERS=$( netstat -tupln 2>/dev/null | grep "jekyll serve" | wc -l )
+# 	if [[ "$JEKYLL_SERVERS" -lt "1" ]]; then # no Jekyll servers running. 
+# 		RED='\033[0;31m'
+# 		NC='\033[0m' # No Color
+# 		echo -e ${RED}updateDocs ERROR: Jekyll server not running${NC}; Faulty docs build. 
+# 		echo -e Serve Jekyll site locally with: ${RED} $ bundle exec jekyll serve${NC} and then build docs. 
+# 	else
+# 		cd $ROOT
+# 		echo "Building docs..."
+# 		make docs
+# 	fi
+# }
 
 function updatePosts() {
 	cd $ROOT/_drafts
@@ -62,8 +68,8 @@ function requestCrawl() {
 	echo
 }
 
-updateCV
-updateDocs
+updateResumeCV
+#updateDocs
 updatePosts
 pushChanges "$1"
 autoTweet
