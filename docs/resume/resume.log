@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  26 JUN 2024 15:12
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  27 JUN 2024 10:21
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -570,13 +570,13 @@ Package luatex.def Info: components//../components/MSDHeadshot.jpg  used on inp
 ut line 20.
 (luatex.def)             Requested size: 82.38417pt x 82.3846pt.
 )
-Overfull \hbox (11.21999pt too wide) in paragraph at lines 1--9
-[][] []
+Overfull \hbox (2.21999pt too wide) in paragraph at lines 1--11
+[] []
  []
 
 
 LaTeX Font Warning: Font shape `TU/TwemojiMozilla(0)/bx/n' undefined
-(Font)              using `TU/TwemojiMozilla(0)/m/n' instead on input line 10.
+(Font)              using `TU/TwemojiMozilla(0)/m/n' instead on input line 12.
 
 (./components/experiences/Consultant.tex
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
@@ -691,14 +691,14 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19335 strings out of 477805
- 156265,794899 words of node,token memory allocated
+ 19336 strings out of 477805
+ 125007,794899 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1148,3:738,4:277,5:742,6:168,7:14021,8:94,9:730,10:4,11:12
-02
- 39359 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:1146,3:703,4:265,5:694,6:162,7:13174,8:88,9:696,10:4,11:10
+99
+ 39360 multiletter control sequences out of 65536+600000
  46 fonts using 12966791 bytes
  83i,6n,93p,396b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texmf
@@ -708,7 +708,7 @@ nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
 o10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/twemoji-col
 r/TwemojiMozilla.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.ot
 f></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 772597 bytes).
+Output written on resume.pdf (2 pages, 772689 bytes).
 
 PDF statistics: 108 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream

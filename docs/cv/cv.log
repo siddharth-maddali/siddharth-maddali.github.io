@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  26 JUN 2024 15:12
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  27 JUN 2024 10:21
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -570,14 +570,14 @@ Package luatex.def Info: components//../components/MSDHeadshot.jpg  used on inp
 ut line 20.
 (luatex.def)             Requested size: 82.38417pt x 82.3846pt.
 )
-Overfull \hbox (11.43088pt too wide) in paragraph at lines 1--15
-[][] []
+Overfull \hbox (2.43088pt too wide) in paragraph at lines 1--18
+[] []
  []
 
 (./components/links.tex)
 
 LaTeX Font Warning: Font shape `TU/TwemojiMozilla(0)/bx/n' undefined
-(Font)              using `TU/TwemojiMozilla(0)/m/n' instead on input line 18.
+(Font)              using `TU/TwemojiMozilla(0)/m/n' instead on input line 21.
 
 (./components/education.tex) (./components/experience.tex)
 (./components/interests.tex) (./components/presentations.tex [1
@@ -702,11 +702,11 @@ Here is how much of LuaTeX's memory you used:
    30 hlist, 1 vlist, 1 rule, 27 glue, 3 kern, 25 penalty, 71 glyph, 83 attribut
 e, 51 glue_spec, 83 attribute_list, 1 write, 26 pdf_start_link, 26 pdf_end_link,
  26 pdf_action nodes
-   avail lists: 1:1,2:921,3:670,4:231,5:546,6:117,7:10844,8:123,9:560,10:15,11:9
-80
+   avail lists: 1:1,2:921,3:659,4:231,5:535,6:116,7:10583,8:119,9:554,10:15,11:9
+55
  39716 multiletter control sequences out of 65536+600000
  45 fonts using 12836383 bytes
- 83i,6n,93p,564b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,6n,93p,564b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/opentype/public/lm/lmsans10-oblique.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texlive/texmf-dist/fo
 nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
@@ -714,7 +714,7 @@ nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
 o10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/twemoji-col
 r/TwemojiMozilla.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.ot
 f></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on cv.pdf (4 pages, 786258 bytes).
+Output written on cv.pdf (4 pages, 786411 bytes).
 
 PDF statistics: 211 PDF objects out of 1000 (max. 8388607)
  154 compressed objects within 2 object streams

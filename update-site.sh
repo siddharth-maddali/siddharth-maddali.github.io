@@ -20,12 +20,12 @@ PROF=$PSRC/$SITE/professional
 LUALATEX=$ROOT/latexBuild_lua.sh
 
 function updateResumeCV() {
-	# cd $PROF
-	# bash ./createCV.sh
 	cd $ROOT/docs/resume
 	$LUALATEX resume
+	cp resume.pdf $ROOT/professional/
 	cd $ROOT/docs/cv
 	$LUALATEX cv
+	cp cv.pdf $ROOT/professional/
 }
 
 ## DEPRECATED
