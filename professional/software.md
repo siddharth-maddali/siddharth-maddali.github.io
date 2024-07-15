@@ -1,6 +1,6 @@
 ---
-layout: software
-title: Software
+layout: default
+title: Siddharth Maddali | Portfolio
 mathjax: true
 ---
 {% include profmenu.html %}
@@ -8,6 +8,6 @@ mathjax: true
 
 # Software tools
 Here are some open-source tools that I created (mostly as a part of work). 
-Links (<img src="{{ site.url }}/images/Web.svg">) are included to the software websites. 
+Links <img src="{{ site.url }}/images/Web.svg"> are included to the software websites. 
 
 {% include software.html %}

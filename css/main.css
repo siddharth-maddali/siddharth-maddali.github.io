@@ -1,7 +1,72 @@
 body {
-    margin: 20px auto;
-    width: 90%;
+    margin: 5vw auto;
+    width: 90vw;
 	text-rendering: geometricPrecision;
+}
+
+/* Image classes  */
+.social-icon-header{
+    width: 10vw; 
+}
+.filled-width {
+    width: 80vw;
+}
+
+/* figure classes */
+.responsive-figure {
+    max-width: 80vw;    
+    text-align: center;
+}
+.responsive-left-aligned-figure {
+    float: left;
+    max-width: 20vw;    
+    text-align: center;
+}
+.responsive-left-aligned-figure img {
+    float: left;
+    max-width: 20vw;    
+    text-align: center;
+    padding: 0vw 0vw;
+}
+.responsive-right-aligned-figure {
+    float: right;
+    max-width: 20vw;    
+    text-align: center;
+}
+.responsive-right-aligned-figure img {
+    float: right;
+    max-width: 20vw;    
+    text-align: center;
+    padding: 0vw 0vw;
+}
+figcaption {
+    font-size: 1.2em;
+    color: #000000;
+    margin-top: 0.25em;
+}
+
+@media only screen {
+    .social-icon-header {
+        width: 10vw;
+    }
+    .filled-width {
+        width: 80vw;
+    }
+    .side-aligned{ 
+        width: 80vw;
+        /* text-align: center   ; */
+        margin: 2vw 2vw;
+    }
+    /* .responsive-left-aligned-figure {
+        max-width: 80vw;    
+        text-align: center;
+    }
+    .responsive-left-aligned-figure img {
+        max-width: 80vw;    
+        text-align: center;
+        padding: 0vw 0vw;
+    } */
+    
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -11,7 +76,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 1vw;
 }
 a {
     text-decoration: none;
@@ -43,15 +108,12 @@ ul.posts li {
     list-style: none;
 }
 
-.twitterborder {
+/* .twitterborder {
     width:300px;
-/*  height:300px; */
     margin-top:3px;
     margin-right:5%;
     float:right;
-/*    background:#707070;
-    text-align: center;		 */
-}
+} */
 
 .mstdn{
   display:inline-block;
@@ -70,7 +132,7 @@ ul.posts li {
 .mstdn:hover{
   background-color:#484c56;
 }
-/*.mstdn::before{
+.mstdn::before{
   content:"@";
 }*/
 .mstdn > span{
