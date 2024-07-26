@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  26 JUL 2024 14:20
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  26 JUL 2024 14:23
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -693,12 +693,12 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  19336 strings out of 477805
- 125007,794899 words of node,token memory allocated
+ 125009,794899 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1172,3:763,4:265,5:676,6:162,7:13222,8:88,9:642,10:4,11:11
-05
+   avail lists: 1:1,2:1172,3:771,4:269,5:677,6:164,7:13397,8:88,9:650,10:4,11:11
+07
  39360 multiletter control sequences out of 65536+600000
  46 fonts using 12966951 bytes
  83i,6n,93p,396b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -709,7 +709,7 @@ nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
 o10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/twemoji-col
 r/TwemojiMozilla.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.ot
 f></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 48937 bytes).
+Output written on resume.pdf (2 pages, 48982 bytes).
 
 PDF statistics: 108 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream
