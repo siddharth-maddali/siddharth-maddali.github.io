@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  26 JUL 2024 14:30
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  27 JUL 2024 09:48
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -709,7 +709,7 @@ nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
 o10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/twemoji-col
 r/TwemojiMozilla.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.ot
 f></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 49308 bytes).
+Output written on resume.pdf (2 pages, 49306 bytes).
 
 PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream
