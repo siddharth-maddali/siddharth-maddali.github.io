@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  27 JUN 2024 10:24
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  27 JUL 2024 17:25
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -563,10 +563,10 @@ fBuzz].
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
  (./components/background.tex
-<components//../components/MSDHeadshot.jpg, id=7, 602.25pt x 602.25pt>
-File: components//../components/MSDHeadshot.jpg Graphic file (type jpg)
-<use components//../components/MSDHeadshot.jpg>
-Package luatex.def Info: components//../components/MSDHeadshot.jpg  used on inp
+<components//../components/smaddali_qr.png, id=7, 331.2375pt x 331.2375pt>
+File: components//../components/smaddali_qr.png Graphic file (type png)
+<use components//../components/smaddali_qr.png>
+Package luatex.def Info: components//../components/smaddali_qr.png  used on inp
 ut line 20.
 (luatex.def)             Requested size: 82.38417pt x 82.3846pt.
 )
@@ -578,21 +578,22 @@ Overfull \hbox (2.21999pt too wide) in paragraph at lines 1--11
 LaTeX Font Warning: Font shape `TU/TwemojiMozilla(0)/bx/n' undefined
 (Font)              using `TU/TwemojiMozilla(0)/m/n' instead on input line 12.
 
-(./components/experiences/Consultant.tex
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
-) (./components/experiences/KLA.tex)
+(./components/experiences/Consultant.tex) (./components/experiences/KLA.tex)
 (./components/experiences/ANL.tex) (./components/experiences/NETL.tex)
-(./components/experiences/CMU.tex) (./components/education/education.tex)
-(./components/skills.tex) (./components/awards/awards.tex)
+(./components/experiences/CMU.tex) (./components/education/education.tex
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 2.
+)
+(./components/skills.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+) (./components/awards/awards.tex)
 (./components/outreach.tex [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./components//../components/
-MSDHeadshot.jpg>]) (./components/publications.tex) [2] (./resume.aux)
+smaddali_qr.png>]) (./components/publications.tex) [2] (./resume.aux)
 
  *File List*
  article.cls    2021/10/04 v1.4n Standard LaTeX document class
@@ -670,7 +671,7 @@ gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
   resume.out
   resume.out
 components/background.tex
-components//../components/MSDHeadshot.jpg
+components//../components/smaddali_qr.png
 components/experiences/Consultant.tex
 components/experiences/KLA.tex
 components/experiences/ANL.tex
@@ -691,15 +692,15 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19336 strings out of 477805
+ 19337 strings out of 477805
  125007,794899 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1146,3:703,4:265,5:694,6:162,7:13174,8:88,9:696,10:4,11:10
-99
+   avail lists: 1:1,2:1172,3:771,4:269,5:680,6:164,7:13601,8:88,9:650,10:4,11:11
+28
  39360 multiletter control sequences out of 65536+600000
- 46 fonts using 12966791 bytes
+ 46 fonts using 12966951 bytes
  83i,6n,93p,396b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmsans10-oblique.otf></usr/share/texlive/texmf-dist/fo
@@ -708,10 +709,10 @@ nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
 o10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/twemoji-col
 r/TwemojiMozilla.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.ot
 f></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 772680 bytes).
+Output written on resume.pdf (2 pages, 49319 bytes).
 
-PDF statistics: 108 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
- 32 named destinations out of 1000 (max. 131072)
+PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 33 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
