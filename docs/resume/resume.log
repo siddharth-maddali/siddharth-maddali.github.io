@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  29 JUL 2024 12:08
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  29 JUL 2024 12:10
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -579,36 +579,140 @@ LaTeX Font Warning: Font shape `TU/TwemojiMozilla(0)/bx/n' undefined
 (Font)              using `TU/TwemojiMozilla(0)/m/n' instead on input line 12.
 
 (./components/experiences/Consultant.tex) (./components/experiences/KLA.tex)
-(./components/experiences/ANL.tex
+(./components/experiences/ANL.tex) (./components/experiences/NETL.tex)
+(./components/experiences/CMU.tex) (./components/education/education.tex
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 2.
+)
+(./components/skills.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+) (./components/awards/awards.tex)
+(./components/outreach.tex [1
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./components//../components/
+smaddali_qr.png>]) (./components/publications.tex) [2] (./resume.aux)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8             \item L
-                     ed the development and worked on \textbf{first demonstr...
-? x
+ *File List*
+ article.cls    2021/10/04 v1.4n Standard LaTeX document class
+  size10.clo    2021/10/04 v1.4n Standard LaTeX file (size option)
+components/commonheader.sty    
+geometry.sty    2020/01/02 v5.9 Page Geometry
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+  ifvtex.sty    2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+   iftex.sty    2020/03/06 v1.0d TeX engine tests
+indentfirst.sty    1995/11/23 v1.03 Indent first paragraph (DPC)
+enumitem.sty    2019/06/20 v3.9 Customized lists
+  xcolor.sty    2021/10/31 v2.13 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+  luatex.def    2021/06/01 v1.2c Graphics/color driver for luatex
+hyperref.sty    2021-06-07 v7.00m Hypertext links for LaTeX
+ ltxcmds.sty    2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+pdftexcmds.sty    2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+infwarerr.sty    2019/12/03 v1.5 Providing info/warning/error messages (HO)
+kvsetkeys.sty    2019/12/15 v1.18 Key value parser (HO)
+kvdefinekeys.sty    2019-12-19 v1.6 Define keys (HO)
+pdfescape.sty    2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ hycolor.sty    2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+letltxmacro.sty    2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+ auxhook.sty    2019-12-17 v1.6 Hooks for auxiliary files (HO)
+kvoptions.sty    2020-10-07 v3.14 Key value format for package options (HO)
+  pd1enc.def    2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+hyperref-langpatches.def    2021-06-07 v7.00m Hyperref: patches for babel langu
+ages
+ intcalc.sty    2019/12/15 v1.3 Expandable calculations with integers (HO)
+etexcmds.sty    2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+   puenc.def    2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+  bitset.sty    2019/12/09 v1.3 Handle bit-vector datatype (HO)
+bigintcalc.sty    2019/12/15 v1.5 Expandable calculations on big integers (HO)
+atbegshi-ltx.sty    2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+ hluatex.def    2021-06-07 v7.00m Hyperref driver for luaTeX
+stringenc.sty    2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+atveryend-ltx.sty    2020/08/19 v1.0a Emulation of the original atveryend packa
+ge
+with kernel methods
+rerunfilecheck.sty    2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+uniquecounter.sty    2019/12/15 v1.4 Provide unlimited unique counter (HO)
+fontspec.sty    2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+  xparse.sty    2022-01-12 L3 Experimental document command parser
+   expl3.sty    2022-01-21 L3 programming layer (loader) 
+l3backend-luatex.def    2022-01-12 L3 backend support: PDF output (LuaTeX)
+fontspec-luatex.sty    2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 
+ fontenc.sty
+fontspec.cfg
+fontawesome.sty    2016/05/15 v4.6.3.1 font awesome icons
+ ifxetex.sty    2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+ifluatex.sty    2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+fontawesomesymbols-generic.tex
+fontawesomesymbols-xeluatex.tex
+  bbding.sty    1999/04/15 v1.01 Dingbats symbols
+  import.sty    2020/04/01  v 6.2
+   emoji.sty    2021/07/17 v0.2.2 Emoji support in (Lua)LaTeX
+emoji-table.def    2021/07/17 v0.2.2 Emojisupportin(Lua)LaTeX
+makecell.sty    2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+   array.sty    2021/10/04 v2.5f Tabular extension package (FMi)
+academicons.sty    2021/11/26 v1.9.1 Academicons Icons
+graphicx.sty    2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2021/08/11 v1.11 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  ts1cmr.fd    2019/12/16 v2.5j Standard LaTeX font definitions
+supp-pdf.mkii
+epstopdf-base.sty    2020-01-24 v2.11 Base part for package epstopdf
+epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+ nameref.sty    2021-04-02 v2.47 Cross-referencing by name of section
+refcount.sty    2019/12/15 v3.6 Data extraction from label references (HO)
+gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
+  resume.out
+  resume.out
+components/background.tex
+components//../components/smaddali_qr.png
+components/experiences/Consultant.tex
+components/experiences/KLA.tex
+components/experiences/ANL.tex
+components/experiences/NETL.tex
+components/experiences/CMU.tex
+components/education/education.tex
+components/skills.tex
+components/awards/awards.tex
+components/outreach.tex
+components/publications.tex
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+)
 
 Here is how much of LuaTeX's memory you used:
- 19176 strings out of 477805
- 100000,794899 words of node,token memory allocated 8230 words of node memory still in use:
-   61 hlist, 2 vlist, 3 rule, 49 disc, 18 local_par, 1 dir, 241 glue, 46 kern, 5
-6 penalty, 491 glyph, 191 attribute, 75 glue_spec, 191 attribute_list, 1 temp, 4
- if_stack, 2 shape, 1 write, 14 pdf_literal, 3 pdf_start_link, 3 pdf_end_link, 4
- pdf_dest, 3 pdf_action, 25 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_r
-estore nodes
-   avail lists: 1:1,3:1,4:5,5:1,7:1,10:4
- 39320 multiletter control sequences out of 65536+600000
- 31 fonts using 11685543 bytes
- 83i,6n,93p,345b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 19337 strings out of 477805
+ 125007,794899 words of node,token memory allocated
+ 421 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
+ 4 attribute_list, 1 write nodes
+   avail lists: 1:1,2:1172,3:771,4:269,5:680,6:164,7:13601,8:88,9:650,10:4,11:11
+28
+ 39360 multiletter control sequences out of 65536+600000
+ 46 fonts using 12966951 bytes
+ 83i,6n,93p,396b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texmf
+/fonts/opentype/public/lm/lmsans10-oblique.otf></usr/share/texlive/texmf-dist/fo
+nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
+/public/lm/lmsans10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmon
+o10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/twemoji-col
+r/TwemojiMozilla.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.ot
+f></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on resume.pdf (2 pages, 49319 bytes).
 
-warning  (pdf backend): no pages of output.
-
-PDF statistics: 7 PDF objects out of 1000 (max. 8388607)
- 1 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 131072)
+PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 33 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
