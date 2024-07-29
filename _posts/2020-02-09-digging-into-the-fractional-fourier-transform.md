@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: new
 mathjax: true
 author: Siddharth Maddali
 categories: [Research]

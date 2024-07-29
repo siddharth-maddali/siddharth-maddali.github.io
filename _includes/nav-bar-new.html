@@ -1,0 +1,14 @@
+<header>
+    <nav>
+        <div class="menu-toggle" id="menu-toggle">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+        </div>
+        <ul class="nav-list" id="toplevel-list">
+            {% for item in site.data.navigation %}
+                <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>

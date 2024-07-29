@@ -1,16 +1,16 @@
-- name: <img src="/images/Mastodon.svg" width="4%">
+- name: <img class="responsiveicon" src="/images/Mastodon.svg">
   link: https://mastodon.social/@Siddarthious
-- name: <img src="/images/LinkedIN.svg" width="4%">
+- name: <img class="responsiveicon" src="/images/LinkedIN.svg">
   link: https://www.linkedin.com/in/siddharthmaddali
-- name: <img src="/images/Github.svg" width="4%">
+- name: <img class="responsiveicon" src="/images/Github.svg">
   link: https://github.com/siddharth-maddali
-- name: <img src="/images/Twitter.svg" width="4%">
+- name: <img class="responsiveicon" src="/images/Twitter.svg">
   link: https://twitter.com/SidDarthious
-- name: <img src="/images/RSS.svg" width="4%">
+- name: <img class="responsiveicon" src="/images/RSS.svg">
   link: https://siddharth-maddali.github.io/feed.xml
-- name: <img src="/images/Facebook.svg" width="4%">
+- name: <img class="responsiveicon"  src="/images/Facebook.svg">
   link: /about#noseriously
-- name: <img src="/images/Instagram.svg" width="4%">
+- name: <img class="responsiveicon" src="/images/Instagram.svg">
   link: /about#noseriously
-- name: <img src="/images/Tiktok.svg" width="4%">
+- name: <img class="responsiveicon" src="/images/Tiktok.svg">
   link: /about#noseriously

@@ -1,26 +1,35 @@
 ---
-layout: default
+layout: new
 title: Home | Siddharth Maddali's website
+permalink: /
 mathjax: true
 ---
 {% include mathjax.html %}
 
+<img align="right" style="width: 25%;" src="{{ site.url }}/images/MSDHeadshot.jpg">
+
 # Hello! 
 
-You've reached the personal website of Siddharth Maddali <a href="https://en-audio.howtopronounce.com/15917869735ee0bdddbdb33.mp3">&#128266;</a> <a href="https://en-audio.howtopronounce.com/1652530342627f9ca6a32a8.mp3">&#128266;</a>.
-I'm a physicist who uses <a href="https://en.wikipedia.org/wiki/Scattering">scattering</a> and <a href="https://en.wikipedia.org/wiki/Computational_microscopy">computational microscopy</a> methods to characterize condensed matter systems.  
-I currently live in Milpitas, CA.
+You've reached the personal website of Siddharth Maddali. 
 
-You can read more about me <a href="{{ site.url }}/about">here</a>, take a look at my physics/math/programming <a href="{{ site.url }}/blog">blog</a>, and/or <a href="https://twitter.com/SidDarthious?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SidDarthious on Twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>. 
-Or better yet, <a href="https://qoto.org/@siddarthious" class="mstdn">Follow siddarthious<span>mastodon.social</span></a>.
+I'm a computational scientist with 7+ years’ professional research experience in X-ray and optical microscopy, Fourier/wave optics, imaging algorithms, signal processing, high-performance computing, scientific software development and condensed matter physics. 
+I also have R&amp;D experience in the semiconductor industry and stints at top US national laboratories. 
+I am a professional with a Ph.D in physics and strong fundamentals in computation and mathematics. 
+I'm passionate about computational innovation, particularly the physical sciences. 
+I'm seeking to leverage new ways of solving problems in the physical world with AI and computation. 
 
-Meanwhile, for no reason at all, here's a picture I took that I really like...
+You can read more about me [here]({{ site.url }}/about). 
 
-<table class="image" width="700" align="center">
-<tr><td text-align="center">
-<img src="{{ site.url }}/images/titleBanner.jpg" width="650">
-</td></tr>
-<tr><td class="caption" align="center">McWay Cove, Pacific Highway 1, California, USA</td></tr>
-</table>
+<!-- <nav style="display: block;">
+    <ul>
+        {% for item in site.data.details %}
+            <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+        {% endfor %}
+    </ul>
+</nav> -->
 
-
+And finally, for no reason, here's a picture I took that I really like...
+<figure>
+    <img class="filled-width" src="{{ site.url }}/images/titleBanner.jpg" alt="McWay Cove, CA, USA" class="responsiveimage">
+    <figcaption class="customcaption">McWay Falls, Big Sur, California (USA)</figcaption>
+</figure>

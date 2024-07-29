@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: new
 author: Siddharth Maddali
 tags: [ welcome ]
 ---
