@@ -6,7 +6,7 @@ body {
 
 /* Image classes  */
 img.social-icon-header{
-    width: 8vw; 
+    width: 4vw; 
 }
 
 .filled-width {
@@ -48,8 +48,8 @@ figcaption {
 }
 
 @media only screen {
-    .social-icon-header {
-        width: 10vw;
+    img.social-icon-header {
+        width: 8vw;
     }
     .filled-width {
         width: 80vw;

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: Credits | Siddharth Maddali's website
 mathjax: true
 ---
@@ -12,8 +12,3 @@ The [Free social icons](https://github.com/neilorangepeel/Free-Social-Icons) rep
 [Iconmonstr](https://iconmonstr.com/)<br/>
 [Simple Icons](https://simpleicons.org/)
 
-<h2>PDF generation from web pages</h2>
-<a href="https://wkhtmltopdf.org/">wkHTMLToPDF</a>
-
-<h2>Badges</h2>
-<a href="https://shields.io/">Shields.IO</a>

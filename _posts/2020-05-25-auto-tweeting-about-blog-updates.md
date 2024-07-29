@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 mathjax: true
 author: Siddharth Maddali
 categories: [Programming]

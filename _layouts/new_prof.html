@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico?">
+        <link href="https://siddharth-maddali.github.io/feed.xml" rel="alternate" type="application/atom+xml">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137811376-1"></script>
+        <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-137811376-1');
+        </script>
+        <title>{{ page.title }}</title>
+        <meta name="google-site-verification" content="-ELtPgoQBEcEJvZJd4mwMvZ4cPvHp3I573TVomRo8FE" />
+        <link rel="stylesheet" type ="text/css" href="/css/new.css">
+        <link rel="stylesheet" href="/path/to/folder/css/academicons.css"/>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
+        {% seo %}     
+    </head>
+    <body>
+        {% include nav-bar-new-prof.html %}
+        <main>
+            {{ content }}
+        </main>
+        <footer>
+            {% include website-search.html %}
+            <nav class="fill-width">
+                {% for item in site.data.social %}
+                    <a href="{{ item.link }}">{{ item.name }}</a>
+                {% endfor %}
+            </nav>
+            <figure><figcaption style="font-size: 0.65em;">
+            © 2019-{{ site.time | date: '%Y' }} Siddharth Maddali, all rights reserved.
+        </figcaption></figure>
+        </footer>
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+            const menuToggle = document.getElementById("menu-toggle");
+            const menuToggle_2 = document.getElementById("prof-menu-toggle");
+
+            if (menuToggle) {
+                menuToggle.addEventListener("click", function() {
+                    document.getElementById("toplevel-list").classList.toggle("active");
+                });
+            }
+
+            if (menuToggle_2) {
+                menuToggle_2.addEventListener("click", function() {
+                    document.getElementById("prof-list").classList.toggle("active");
+                });
+            }
+        });
+        </script>
+    </body>
+</html>

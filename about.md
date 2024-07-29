@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 title: About me | Siddharth Maddali's website
 permalink: /about
 mathjax: true
@@ -8,10 +8,11 @@ mathjax: true
 
 # I may not be <span class="notranslate"><a href="https://en.wikipedia.org/wiki/Moment-generating_function">$\left\langle e^{tx}\right\rangle$</a></span>, but I have my moments...
 
-<figure class="responsive-left-aligned-figure">
-    <img src="{{ site.url }}/images/me.png">
-    <figcaption>Me discovering that I like Matcha green tea ice cream</figcaption>
+<figure>
+    <img src="{{ site.url }}/images/me.png" class="responsiveimage" style="width: 40%;">
+    <figcaption class="customcaption">Me discovering that I like Matcha green tea ice cream</figcaption>
 </figure>
+
 
 
 <!-- <table class="image" align="left" style="width:35vw;">
@@ -19,7 +20,7 @@ mathjax: true
 <tr><td class="caption" align="center">Me discovering that I like Matcha green tea ice cream</td></tr>
 </table> -->
 
-I currently live in Milpitas, CA and I'm a researcher in the semiconductor industry.
+I currently live in Fremont, CA and I'm a researcher in the semiconductor industry.
 If you go back far enough, I'm originally from Bengaluru, India but I've done a bit of bouncing between the south and the west of India while growing up. 
 I was born in Bangalore, but grew up in Pune and I've now established roots back in Bengaluru again (yep, the name actually changed in the time that I was gone).
 
@@ -35,10 +36,11 @@ This includes people who want to make sure their computer chips have no flaws, d
 <tr><td text-align="center"><img src="{{ site.url }}/images/cp1.jpg" width="325" align="left" style="margin:0px 20px" ></td></tr>
 <tr><td class="caption" align="center">Mildly vandalized stone marker at the burial site of CP-1</td></tr>
 </table> -->
-<figure class="responsive-right-aligned-figure">
-    <img src="{{ site.url }}/images/cp1.jpg">
-    <figcaption>Mildly vandalized stone marker at the burial site of CP-1</figcaption>
+<figure>
+    <img src="{{ site.url }}/images/cp1.jpg" class="responsiveimage" style="width: 40%;">
+    <figcaption class="customcaption">Mildly vandalized stone marker at the burial site of CP-1</figcaption>
 </figure>
+
 
 I spent the early years doing such things at Argonne National Laboratory near Chicago, IL. 
 It is one of the best places for materials research owing to their [giant X-ray machine](https://www.aps.anl.gov/About/Overview), for which I designed new X-ray imaging methods.
@@ -70,7 +72,9 @@ I occasionally post stuff that align with my interests, <font color="red"><stron
 My wife <span class="notranslate">Ranjini</span> is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
 We met in Chennai as students way back in 2007.
 We have a daughter, <span class="notranslate">Sattva</span>.
-<figure class="responsive-figure">
-    <img class="filled-width" src="{{ site.url }}/images/couple.jpg">
-    <figcaption>Matanuska glacier, Alaska</figcaption>
+
+<figure>
+    <img class="filled-width" src="{{ site.url }}/images/couple.jpg" class="responsiveimage" style="width: 60%;">
+    <figcaption class="customcaption">Matanuska glacier, Alaska</figcaption>
 </figure>
+

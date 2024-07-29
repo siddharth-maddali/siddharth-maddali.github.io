@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: new
 ---
 <meta charset="utf-8">
 <title>The BHE</title>
