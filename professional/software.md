@@ -1,5 +1,5 @@
 ---
-layout: new
+layout: new_prof
 title: Siddharth Maddali | Software
 mathjax: true
 ---
