@@ -17,7 +17,7 @@ title: The personal web site of Siddharth Maddali
 email: siddharthmv@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Physicist working on imaging and characterization techniques for condensed matter systems. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://siddharth-maddali.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SidDarthious
 github_username:  siddharth-maddali
