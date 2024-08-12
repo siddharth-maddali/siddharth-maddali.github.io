@@ -5,6 +5,7 @@
             <div class="bar"></div>
             <div class="bar"></div>
         </div>
+        <ul class="nav-menu-label" id="top-label">&nbsp;&nbsp;🌏 Explore&nbsp;&nbsp;</ul>
         <ul class="nav-list" id="toplevel-list">
             {% for item in site.data.navigation %}
                 <li><a href="{{ item.link }}">{{ item.name }}</a></li>
@@ -14,10 +15,11 @@
     <div class="responsive-line"></div>
     <nav>
         <div class="menu-toggle" id="prof-menu-toggle">
-            <div class="bar" style="height: 1vh; width: 2vw;"></div>
-            <div class="bar" style="height: 1vh; width: 2vw;"></div>
-            <div class="bar" style="height: 1vh; width: 2vw;"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
         </div>
+        <ul class="nav-menu-label" id="top-label">&nbsp;&nbsp;💼 Professional&nbsp;&nbsp;</ul>
         <ul class="nav-list" style="text-align: left; top: 1vh" id="prof-list">
             {% for item in site.data.professional %}
                 <li><a style="font-size: 1em;" href="{{ item.link }}">{{ item.name }}</a></li>

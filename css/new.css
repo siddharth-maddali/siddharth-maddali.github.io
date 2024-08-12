@@ -55,7 +55,17 @@ nav {
     justify-content: flex-start;
     margin: 0;
     padding: 0;
+    z-index: 100;
     /* width: 3vw */
+}
+
+.nav-menu-label {
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 0;
+    transform: ScaleX(0);    
 }
 
 /* line items in top manu bar */
@@ -147,13 +157,23 @@ nav {
         width: 50%;
         background-color: #8998ac;
         position: absolute;
+        z-index: 100;
         top: 0; left: 21vw;
         transform: scaleX(0);
-        transition:  transform 0.25s ease;
+        transition:  transform 0.15s ease;
+    }
+
+    .nav-menu-label {
+        list-style: none;
+        display: flex;
+        justify-content: flex-start;
+        margin: 0;
+        padding: 0;
+        transform: ScaleX(1);    
     }
 
     .responsiveimage {
-        width: 80%; 
+        width: 100%; 
     }
 
     .nav-list.active {
