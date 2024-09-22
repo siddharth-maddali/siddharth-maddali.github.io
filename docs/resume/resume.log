@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  19 SEP 2024 13:31
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  22 SEP 2024 13:31
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -586,14 +586,14 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
 )
 (./components/skills.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
-) (./components/awards/awards.tex)
-(./components/outreach.tex [1
+(Font)              <5> on input line 4.
+) (./components/awards/awards.tex [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./components//../components/
-smaddali_qr.png>]) (./components/publications.tex) (./components/languages.tex) [2] (./resume.aux)
+smaddali_qr.png>]) (./components/outreach.tex) (./components/publications.tex)
+(./components/languages.tex) [2] (./resume.aux)
 
  *File List*
  article.cls    2021/10/04 v1.4n Standard LaTeX document class
@@ -693,16 +693,16 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19353 strings out of 477805
- 156265,794899 words of node,token memory allocated
+ 19354 strings out of 477805
+ 156270,794899 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1168,3:793,4:279,5:731,6:168,7:14459,8:87,9:673,10:4,11:12
-04
+   avail lists: 1:1,2:1128,3:765,4:267,5:733,6:161,7:14252,8:81,9:650,10:4,11:11
+86
  39363 multiletter control sequences out of 65536+600000
  46 fonts using 12967111 bytes
- 83i,6n,93p,396b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,6n,93p,393b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmsans10-oblique.otf></usr/share/texlive/texmf-dist/fo
 nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
@@ -710,10 +710,10 @@ nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
 o10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/twemoji-col
 r/TwemojiMozilla.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.ot
 f></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 49266 bytes).
+Output written on resume.pdf (2 pages, 49574 bytes).
 
-PDF statistics: 112 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
- 34 named destinations out of 1000 (max. 131072)
+PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 35 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
