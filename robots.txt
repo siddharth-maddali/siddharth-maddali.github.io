@@ -8,5 +8,5 @@ User-agent: GPTBot
 Disallow: /blog/
 
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: /sitemap.xml
 

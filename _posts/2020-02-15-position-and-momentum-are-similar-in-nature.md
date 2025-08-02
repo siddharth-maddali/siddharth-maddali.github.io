@@ -135,5 +135,5 @@ The primary difference is the presence of the pesky imaginary factor $\iota$, wh
 It turns out that the position-derivative similarity relations offer a neat way to break down tedious Fourier transform integrals, by expressing them in terms of simpler known integrals.
 This can be exploited to interesting effect when spectrally decomposing the Fourier transform operator, and determining its eigenvalues and eigenvectors.
 While the proof of this is actually straightforward and is [available on Wikipedia](https://en.wikipedia.org/wiki/Hermite_polynomials#Hermite_functions_as_eigenfunctions_of_the_Fourier_transform), I rather like the fact that the same thing can be done by applying the above relations to matrix-exponential operators.
-I show this in my [next post]({{ site.url }}{% post_url 2020-03-15-Breaking-down-the-Fourier-transform %}).
+I show this in my [next post]({% post_url 2020-03-15-Breaking-down-the-Fourier-transform %}).
 

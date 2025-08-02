@@ -10,7 +10,7 @@ tags: [linear algebra, quantum mechanics, Fourier transform, spectral decomposit
 An operator-based proof of spectral decomposition of the Fourier transform in terms of the Hermite functions.
 
 # Introduction
-In my [last post]({{ site.url }}{% post_url 2020-02-15-position-and-momentum-are-similar-in-nature%}) from quite a while ago, I derived a couple of simple but useful similarity relations between the position and momentum operators through the Fourier transform.
+In my [last post]({% post_url 2020-02-15-position-and-momentum-are-similar-in-nature%}) from quite a while ago, I derived a couple of simple but useful similarity relations between the position and momentum operators through the Fourier transform.
 These are: 
 $$
 \begin{align}
@@ -23,7 +23,7 @@ As I mentioned in my last post, this is a re-telling of a well-known proof that 
 
 # The derivative generates translations
 In the proof that follows, I need another very useful relation between the position and derivative operators, one that does not explicitly contain the Fourier transform. 
-For simplicity, I continue to operate on well-behaved, smooth and square-integrable functions belonging to $\mathcal{H} = \left\\{f:\mathbb{R} \longrightarrow \mathbb{C} \left| \int_\mathbb{R} dx \left|f(x)\right|^2 < \infty\right.\right\\}$, as in the [previous post]({{ site.url }}{% post_url 2020-02-15-position-and-momentum-are-similar-in-nature%}).
+For simplicity, I continue to operate on well-behaved, smooth and square-integrable functions belonging to $\mathcal{H} = \left\\{f:\mathbb{R} \longrightarrow \mathbb{C} \left| \int_\mathbb{R} dx \left|f(x)\right|^2 < \infty\right.\right\\}$, as in the [previous post]({% post_url 2020-02-15-position-and-momentum-are-similar-in-nature%}).
 This relation basically says that the derivatives of a function $f \in \mathcal{H}$ can be used to 'generate' functional values at different distances, or translations, from complete information of the function at a point $x_0$. 
 By complete information, I mean the functional value and all its derivatives.
 In group theory -speak, _the derivative is the generator of translations_: 
@@ -138,6 +138,6 @@ $$
 	f(x) \label{eq.frft}
 \end{align}
 $$
-As I mentioned in my [introductory post]({{ site.url }}/{% post_url 2020-02-09-digging-into-the-fractional-fourier-transform %}), there is a nice, easy-to-read [1937 PNAS article by Condon](https://www.pnas.org/content/23/3/158) that I really like, which approaches the FrFT from a purely group-theoretic approach without referring to the spectral decomposition at all.
+As I mentioned in my [introductory post](/{% post_url 2020-02-09-digging-into-the-fractional-fourier-transform %}), there is a nice, easy-to-read [1937 PNAS article by Condon](https://www.pnas.org/content/23/3/158) that I really like, which approaches the FrFT from a purely group-theoretic approach without referring to the spectral decomposition at all.
 It nicely derives and parcels all the group-like and spectrum-like properties of this important integral transform in a systematic way.
-For my part, I eventually dive into the adaptation of the FrFT formalism in optics and coherent diffraction, in [my next post]({{ site.url }}/404post.html).
+For my part, I eventually dive into the adaptation of the FrFT formalism in optics and coherent diffraction, in [my next post](/404post.html).

@@ -31,7 +31,7 @@ These will be displayed only once on your online Twitter developer dashboard whe
 I chose to store these tokens in [pass](https://www.passwordstore.org/), which is a popular password manager with Unix/Linux users.
 My tokens are arranged in the following tree, under `siddarthious` since I plan to auto-tweet through my [@SidDarthious](https://twitter.com/SidDarthious/) account: 
 <br/>
-<img src="{{ site.url }}/images/blog/pass-branch.png" width="100%" style="display:block; margin-left:auto; margin-right:auto">
+<img src="/images/blog/pass-branch.png" class="responsive-img-full">
 <br/>
 
 In my update script (which I describe later), I log in as @SidDarthious by copying these tokens directly into the clipboard and supplying them to the Twitter interface to login each time. 
@@ -61,7 +61,7 @@ This would prevent my makefile from getting confused by making the auto-tweeting
 # An example
 As an example of the combined Python-makefile combo, shown below is the raw Markdown header of [an earlier blog post of mine](https://siddharth-maddali.github.io/mathematics/2020/05/18/an-operator-based-justification-of-the-heisenberg-uncertainty-principle.html):
 <br/>
-<img src="{{ site.url }}/images/blog/example-post.png" width="100%" style="display:block; margin-left:auto; margin-right:auto">
+<img src="/images/blog/example-post.png" class="responsive-img-full">
 <br/>
 
 ...which when found and parsed by my Makefile, resulted in this tweet appearing a short while later on my Twitter timeline: 
@@ -77,7 +77,7 @@ This took a little thought, because I would want the Twitter handle to appear in
 For example, if you look back at the excerpt at the beginning of this post, it is rendered online in exactly the way I would like: 
 
 <br/>
-<img src="{{ site.url }}/images/blog/excerpt-example.png" width="80%" style="border: 2px solid black; display:block; margin-left:auto; margin-right:auto">
+<img src="/images/blog/excerpt-example.png" class="responsive-img-full">
 <br/>
 
 But in the subsequent _tweet_, I would like the word "Twitter" to be replaced with `@TwitterDev`.
@@ -85,7 +85,7 @@ So the "@TwitterDev" handle must be somehow introduced into the excerpt as metad
 The way I chose to implement this was with HTML anchors in the Markdown file which Markdown knows to ignore, but nevertheless can be extracted programatically.
 And so here is the Markdown source of the excerpt of this post:
 <br/>
-<img src="{{ site.url }}/images/blog/excerpt-source.png" width="100%" style="display:block; margin-left:auto; margin-right:auto">
+<img src="/images/blog/excerpt-source.png" class="responsive-img-full">
 <br/>
 Notice how the substring that I want replaced in the tweet ("Twitter"), is stored as the text of an HTML anchor (`<a ...>Twitter</a>`), and the anchor name itself is the eventual Twitter handle (after substituting `#` with `@`). 
 The extra style formatting for the anchor is to camouflage it to look like the surrounding text and not a hyperlink (the default behavior as defined in my `main.css` file).
@@ -98,7 +98,7 @@ Surely enough, the tweet announcing this blog post is nearly identical to the po
 # Conclusion
 An interesting thing I noticed is that my Twitter developer app, `update-bot`, gets an honorable mention whenever the tweets are viewed on a phone and a desktop browser (but not in the embedded tweet above):
 <br/>
-<img src="{{ site.url }}/images/blog/example-post-phone.png" width="300" style="display:block; margin-left:auto; margin-right:auto">
+<img src="/images/blog/example-post-phone.png" class="responsive-img-full">
 <br/>
 This, of course, different from my local `update-bot.py` described above (which is a single Python script).
 

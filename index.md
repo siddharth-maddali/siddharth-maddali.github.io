@@ -6,7 +6,7 @@ mathjax: true
 ---
 {% include mathjax.html %}
 
-<img align="right" style="width: 25%;" src="{{ site.url }}/images/MSDHeadshot.jpg">
+<img class="profile-pic" src="/images/MSDHeadshot.jpg">
 
 # Hello! 
 
@@ -18,7 +18,7 @@ I am a professional with a Ph.D in physics and strong fundamentals in computatio
 I'm passionate about computational innovation, particularly the physical sciences. 
 I'm seeking to leverage new ways of solving problems in the physical world with AI and computation. 
 
-You can read more about me [here]({{ site.url }}/about). 
+You can read more about me [here](/about). 
 
 <!-- <nav style="display: block;">
     <ul>
@@ -30,6 +30,6 @@ You can read more about me [here]({{ site.url }}/about).
 
 And finally, for no reason, here's a picture I took that I really like...
 <figure>
-    <img class="filled-width" src="{{ site.url }}/images/titleBanner.jpg" alt="McWay Cove, CA, USA" class="responsiveimage">
+    <img class="responsive-img-full" src="/images/titleBanner.jpg" alt="McWay Cove, CA, USA">
     <figcaption class="customcaption">McWay Falls, Big Sur, California (USA)</figcaption>
 </figure>

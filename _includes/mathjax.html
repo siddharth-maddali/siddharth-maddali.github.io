@@ -1,10 +1,17 @@
 {% if page.mathjax %}
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
+    TeX: {
+      equationNumbers: { autoNumber: "AMS", useLabelIds: true },
+      tags: 'ams',
+      tagSide: 'right'
+    },
     tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+      displayMath: [ ['$$','$$'], ['\[','\]'] ],
       processEscapes: true
-    }
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
   });
 </script>
 <script

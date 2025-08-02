@@ -162,4 +162,4 @@ $$
 Such a function, with $a \in \mathbb{R}^-$ and $b \in \mathbb{R}$, will always satisfy $\sigma_x^2 \sigma_k^2 = 1/4$ and is called a _minimum uncertainty wavepacket_, essentially a Gaussian with a phase factor. 
 The real parts of these functions look like this: 
 
-<img src="{{ site.url }}/images/blog/min_uncertainty_wavepacket.png" width="900">
+<img src="/images/blog/min_uncertainty_wavepacket.png" class="responsive-img-full">

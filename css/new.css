@@ -24,6 +24,21 @@ header {
     height: auto;
 }
 
+.responsive-img-full {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; /* Default width for larger screens */
+    height: auto;
+}
+
+.profile-pic {
+    float: right;
+    width: 25%;
+    margin-left: 1.5em;
+    margin-bottom: 1em;
+}
+
 .responsive-line {
     width: 100%;
     height: 2px; /* Adjust the thickness */
@@ -37,6 +52,15 @@ header {
     margin-right: auto;
 
 }
+
+nav.fill-width {
+    justify-content: center;
+}
+
+nav.fill-width a {
+    margin: 0 1vw;
+}
+
 
 .responsiveicon {
     width:3vw
@@ -138,6 +162,10 @@ nav {
     font-size: 1em;
 }
 
+.post-content {
+    /* Add styles here to match the main pages */
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
     .responsiveicon {
@@ -146,7 +174,16 @@ nav {
 
     body{ 
         font-size: 5vw;
-        margin: 0.5vh 10vw;
+        margin: 2vh 5vw; /* Reduced horizontal margin */
+    }
+
+    /* Make MathJax blocks scrollable on mobile */
+    .MathJax_Display, .MJXc-display, .MathJax_SVG_Display {
+        overflow-x: scroll !important; /* Force scrollbar */
+        overflow-y: hidden !important;
+        padding: 1em; /* Add some space around the equation */
+        background-color: #f7f7f7; /* Add a light background */
+        border-radius: 5px; /* Rounded corners */
     }
 
     .nav-list {
@@ -174,6 +211,25 @@ nav {
 
     .responsiveimage {
         width: 100%; 
+    }
+
+    figure img {
+        width: 100%;
+    }
+
+    .responsive-img-full {
+        width: 100%;
+    }
+
+    .profile-pic {
+        float: none;
+        display: block;
+        width: 100%;
+        margin: 2em auto;
+    }
+
+    .customcaption {
+        font-size: 3.5vw;
     }
 
     .nav-list.active {
@@ -219,5 +275,17 @@ nav {
 
     .post h3 {
         font-size: 1.5em;
+    }
+
+    .post-content {
+        font-size: 4.5vw;
+    }
+
+    .content-wrapper {
+        overflow-x: auto;
+    }
+
+    nav.fill-width a {
+        margin: 0 2vw;
     }
 }

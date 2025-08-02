@@ -9,14 +9,14 @@ mathjax: true
 # I may not be <span class="notranslate"><a href="https://en.wikipedia.org/wiki/Moment-generating_function">$\left\langle e^{tx}\right\rangle$</a></span>, but I have my moments...
 
 <figure>
-    <img src="{{ site.url }}/images/me.png" class="responsiveimage" style="width: 40%;">
+    <img class="responsive-img-full" src="/images/me.png" class="responsiveimage" style="width: 40%;">
     <figcaption class="customcaption">Me discovering that I like Matcha green tea ice cream</figcaption>
 </figure>
 
 
 
 <!-- <table class="image" align="left" style="width:35vw;">
-<tr><td text-align="center"><img src="{{ site.url }}/images/me.png" width="325" align="left" style="margin:0px 20px" ></td></tr>
+<tr><td text-align="center"><img class="responsive-img-full" src="/images/me.png" width="325" align="left" style="margin:0px 20px" ></td></tr>
 <tr><td class="caption" align="center">Me discovering that I like Matcha green tea ice cream</td></tr>
 </table> -->
 
@@ -33,11 +33,11 @@ This includes people who want to make sure their computer chips have no flaws, d
 
 <!--
 <table class="image" align="right" width="350">
-<tr><td text-align="center"><img src="{{ site.url }}/images/cp1.jpg" width="325" align="left" style="margin:0px 20px" ></td></tr>
+<tr><td text-align="center"><img class="responsive-img-full" src="/images/cp1.jpg" width="325" align="left" style="margin:0px 20px" ></td></tr>
 <tr><td class="caption" align="center">Mildly vandalized stone marker at the burial site of CP-1</td></tr>
 </table> -->
 <figure>
-    <img src="{{ site.url }}/images/cp1.jpg" class="responsiveimage" style="width: 40%;">
+    <img class="responsive-img-full" src="/images/cp1.jpg" class="responsiveimage" style="width: 40%;">
     <figcaption class="customcaption">Mildly vandalized stone marker at the burial site of CP-1</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ The ones I used to favor have been taken over by misguided, part-time free-speec
 I occasionally post stuff that align with my interests, <font color="red"><strong>but don't bother looking for me on Facebook, Instagram or Tik-Tok</strong></font>.
 
 <!-- <table class="image" align="center">
-<tr><td><img src="{{ site.url }}/images/couple.jpg" width="600" style="margin:0px 30px"></td></tr>
+<tr><td><img class="responsive-img-full" src="/images/couple.jpg" width="600" style="margin:0px 30px"></td></tr>
 <tr><td class="caption" align="center">Matanuska glacier, Alaska</td></tr>
 </table> -->
 My wife <span class="notranslate">Ranjini</span> is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
@@ -74,7 +74,7 @@ We met in Chennai as students way back in 2007.
 We have a daughter, <span class="notranslate">Sattva</span>.
 
 <figure>
-    <img class="filled-width" src="{{ site.url }}/images/couple.jpg" class="responsiveimage" style="width: 60%;">
+    <img class="filled-width" src="/images/couple.jpg" class="responsiveimage" style="width: 60%;">
     <figcaption class="customcaption">Matanuska glacier, Alaska</figcaption>
 </figure>
 

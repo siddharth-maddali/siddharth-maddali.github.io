@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico?">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
         <link href="https://siddharth-maddali.github.io/feed.xml" rel="alternate" type="application/atom+xml">
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137811376-1"></script>
@@ -17,14 +17,18 @@
         <title>{{ page.title }}</title>
         <meta name="google-site-verification" content="-ELtPgoQBEcEJvZJd4mwMvZ4cPvHp3I573TVomRo8FE" />
         <link rel="stylesheet" type ="text/css" href="/css/new.css">
-        <link rel="stylesheet" href="/path/to/folder/css/academicons.css"/>
+        <link rel="stylesheet" href="/css/academicons.min.css"/>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
         {% seo %}     
     </head>
     <body>
         {% include nav-bar-new.html %}
         <main>
-            {{ content }}
+            <div class="content-wrapper">
+                <div class="post-content">
+                    {{ content }}
+                </div>
+            </div>
         </main>
         <footer>
             {% include website-search.html %}

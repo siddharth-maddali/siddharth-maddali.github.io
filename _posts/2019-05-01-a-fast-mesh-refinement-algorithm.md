@@ -18,7 +18,7 @@ These Platonic solids in particular have exclusively triangular faces.
 Since at each bisection step a triangle results in four "children" triangles, this method essentially grows a quadtree of mesh elements.
 The higher the "generation" of this recursion, the finer the mesh obtained on the sphere, with a generation of $0$ resulting in the Platonic solid itself (see figure below).
 
-<img src="{{ site.url }}/images/blog/meshes.png" width="900">
+<img src="/images/blog/meshes.png" class="responsive-img-full">
 
 This method is well-known to people who need to do complex simulations on a spherical surface, such as in earth and planetary sciences.
 You can read a sophisticated analysis of the mesh generation method [here](https://arxiv.org/pdf/cs/0701164.pdf). 
@@ -32,7 +32,7 @@ Here is a runtime benchmark of $100$ trials of the icosahedral mesh from generat
 where `gen` ranges from `0` to `7`.
 
 <table class="image" align="center">
-<tr><td><img src="{{ site.url }}/images/blog/benchmark.svg" style="margin:0px 30px"></td></tr>
+<tr><td><img src="/images/blog/benchmark.svg" style="margin:0px 30px"></td></tr>
 </table>
 
 This was run on Octave 4.2.2 on an old Thinkpad T410i laptop with its Intel Core i3 running Ubuntu 18.04.
@@ -65,7 +65,7 @@ The numbers in `tri` range from $1$ to $M$, in keeping with the $1$-indexing con
 As an example, shown below is a 2-element mesh (black) that has undergone a single refinement step through edge bisection to give a refined mesh (red) of 9 nodes (4 old, 5 new) and 8 elements (triangles).
 <a name="meshexample"></a>
 <table class="image" align="center">
-<tr><td><img src="{{ site.url }}/images/blog/mesh-2tri.jpg" width="200" style="margin:0px 30px"></td></tr>
+<tr><td><img src="/images/blog/mesh-2tri.jpg" class="responsive-img-full" style="margin:0px 30px"></td></tr>
 </table>
 The array `P` in the original mesh would be of size $3 \times 4$ with each column a unit vector,  and `tri` would be (in Matlab notation):
 ```matlab

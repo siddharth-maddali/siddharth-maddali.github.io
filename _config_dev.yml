@@ -1,0 +1,6 @@
+# _config_dev.yml
+# This file contains settings for local development.
+# These settings override the ones in _config.yml when both are used.
+
+# Set the url to your local IP address to test on other devices on your network.
+url: "http://192.168.0.7:4000"
