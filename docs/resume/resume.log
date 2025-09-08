@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  2 AUG 2025 00:55
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2024.4.13)  7 SEP 2025 20:24
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -576,7 +576,7 @@ Overfull \hbox (2.21999pt too wide) in paragraph at lines 1--11
 
 
 LaTeX Font Warning: Font shape `TU/TwemojiMozilla(0)/bx/n' undefined
-(Font)              using `TU/TwemojiMozilla(0)/m/n' instead on input line 11.
+(Font)              using `TU/TwemojiMozilla(0)/m/n' instead on input line 12.
 
 (./components/experiences/Liminal.tex) (./components/experiences/Consultant.tex
 ) (./components/experiences/KLA.tex) (./components/experiences/ANL.tex)
@@ -589,13 +589,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
-)
-(./components/awards/awards.tex [1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./components//../components/
-smaddali_qr.png>])
-(./components/outreach.tex) (./components/publications.tex)
-(./components/languages.tex) [2] (./resume.aux)
+smaddali_qr.png>]) (./components/awards/awards.tex) (./components/outreach.tex)
+(./components/publications.tex) (./components/languages.tex) [2] (./resume.aux)
 
  *File List*
  article.cls    2021/10/04 v1.4n Standard LaTeX document class
@@ -701,11 +699,11 @@ Here is how much of LuaTeX's memory you used:
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1180,3:786,4:277,5:749,6:166,7:14775,8:66,9:645,10:4,11:12
+   avail lists: 1:1,2:1160,3:775,4:277,5:746,6:166,7:14690,8:64,9:641,10:6,11:12
 58
  39366 multiletter control sequences out of 65536+600000
  46 fonts using 12967111 bytes
- 83i,6n,93p,398b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,6n,93p,393b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmsans10-oblique.otf></usr/share/texlive/texmf-dist/fo
 nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
@@ -713,7 +711,7 @@ nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
 o10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/twemoji-col
 r/TwemojiMozilla.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.ot
 f></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 50723 bytes).
+Output written on resume.pdf (2 pages, 50837 bytes).
 
 PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream
