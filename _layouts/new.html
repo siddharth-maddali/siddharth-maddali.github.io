@@ -18,17 +18,13 @@
         <meta name="google-site-verification" content="-ELtPgoQBEcEJvZJd4mwMvZ4cPvHp3I573TVomRo8FE" />
         <link rel="stylesheet" type ="text/css" href="/css/new.css">
         <link rel="stylesheet" href="/css/academicons.min.css"/>
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+        <!-- MathJax removed from here, handled by _includes/mathjax.html -->
         {% seo %}     
     </head>
     <body>
         {% include nav-bar-new.html %}
         <main>
-            <div class="content-wrapper">
-                <div class="post-content">
-                    {{ content }}
-                </div>
-            </div>
+            {{ content }}
         </main>
         <footer>
             {% include website-search.html %}
@@ -46,9 +42,11 @@
             const menuToggle = document.getElementById('menu-toggle');
             const navList = document.getElementById('toplevel-list');
 
-            menuToggle.addEventListener('click', function() {
-                navList.classList.toggle('active');
-            });
+            if (menuToggle) {
+                menuToggle.addEventListener('click', function() {
+                    navList.classList.toggle('active');
+                });
+            }
         });
         </script>
     </body>

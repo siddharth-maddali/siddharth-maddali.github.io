@@ -13,6 +13,39 @@
     },
     "HTML-CSS": { availableFonts: ["TeX"] }
   });
+  
+  MathJax.Hub.Queue(function() {
+    // 1. Target standard display classes
+    var displays = document.querySelectorAll('.MathJax_Display, .MJXc-display, .MathJax_SVG_Display');
+    
+    // 2. Also target by finding the script tags and wrapping their next sibling (the rendered frame)
+    var scripts = document.querySelectorAll('script[type="math/tex; mode=display"]');
+    
+    // Helper to wrap an element
+    function wrap(element) {
+        if (!element || !element.parentNode) return;
+        if (element.parentNode.classList.contains('math-scroll-wrapper')) return;
+        
+        var wrapper = document.createElement("div");
+        wrapper.className = "math-scroll-wrapper";
+        element.parentNode.insertBefore(wrapper, element);
+        wrapper.appendChild(element);
+    }
+
+    // Wrap by class
+    for (var i = 0; i < displays.length; i++) {
+        wrap(displays[i]);
+    }
+
+    // Wrap by script tag sibling
+    for (var j = 0; j < scripts.length; j++) {
+        var script = scripts[j];
+        var next = script.nextElementSibling;
+        if (next && (next.classList.contains('MathJax_Display') || next.id.indexOf('Frame') > -1)) {
+            wrap(next);
+        }
+    }
+  });
 </script>
 <script
   type="text/javascript"

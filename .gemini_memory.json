@@ -1,0 +1,41 @@
+{
+  "session_date": "2026-01-22",
+  "project": "Siddharth Maddali's Jekyll Website",
+  "summary_of_changes": {
+    "typography_and_base_styles": [
+      "Switched to a modern system-native font stack (-apple-system, Segoe UI, Roboto).",
+      "Standardized base font size to 18px and established a consistent color palette (Slate Blue #8998ac, Text #2c3e50, BG #fdfdfd).",
+      "Applied -webkit-font-smoothing for better text rendering."
+    ],
+    "navigation_system": [
+      "Implemented a fully responsive navigation system.",
+      "Added a mobile-specific 'hamburger' menu with a smooth dropdown animation (.dropdown-menu).",
+      "Cleaned up desktop navigation with uppercase labels, letter spacing, and hover underlines.",
+      "Unified navigation includes (_includes/nav-bar-new.html and _includes/nav-bar-new-prof.html) with dropdown classes."
+    ],
+    "aesthetic_updates": [
+      "Global Image Styling: All images now have rounded corners (8px), subtle box-shadows, and are automatically center-aligned.",
+      "Profile Picture: Updated landing page (index.md) to place a centered, circular profile picture at the top.",
+      "Legacy Overrides: Added CSS rules to force-center images that used deprecated HTML 'align' attributes.",
+      "PDF Embeds: Optimized layout for CV and Resume pages with high-viewport height embeds."
+    ],
+    "footer_and_social_icons": [
+      "Compact Social Icons: Styled .responsiveicon to 24px with a grayscale-to-color transition and hover scaling.",
+      "Footer Layout: Centered all footer elements and added a light-gray background for visual separation.",
+      "Consistent Gap: Standardized spacing between social links using flexbox."
+    ],
+    "code_architecture": [
+      "Unified Layouts: Simplified _layouts/new.html to match the cleaner structure of new_prof.html.",
+      "JS Robustness: Added null checks to navigation scripts to prevent errors on pages without menus.",
+      "CSS Consolidation: Overhauled css/new.css as the primary design system, removing the need for scattered inline styles."
+    ],
+    "mathjax_updates": [
+      "Enabled horizontal scrolling for MathJax equations on mobile devices using a ROBUST JavaScript wrapper approach.",
+      "Updated _includes/mathjax.html to automatically wrap all block equations in a <div class='math-scroll-wrapper'>.",
+      "Styled .math-scroll-wrapper in css/new.css with a distinct background, border, and scroll behavior.",
+      "Enforced right-aligned equation numbering by removing conflicting unconditional MathJax scripts from layouts and relying on _includes/mathjax.html configuration.",
+      "Ensured all blog posts have 'mathjax: true' in their front matter to trigger the wrapper script."
+    ]
+  },
+  "instructions_for_future_sessions": "Read this file to understand the current CSS design system and responsive classes (.dropdown-menu, .profile-pic, .responsiveicon). Always maintain the centered image policy and mobile-first navigation logic. Ensure MathJax is configured via _includes/mathjax.html to keep equation numbers on the right and scrolling working."
+}

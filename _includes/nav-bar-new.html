@@ -6,7 +6,7 @@
             <div class="bar"></div>
         </div>
         <ul class="nav-menu-label" id="top-label">&nbsp;&nbsp;🌏 Explore&nbsp;&nbsp;</ul>
-        <ul class="nav-list" id="toplevel-list">
+        <ul class="nav-list dropdown-menu" id="toplevel-list">
             {% for item in site.data.navigation %}
                 <li><a href="{{ item.link }}">{{ item.name }}</a></li>
             {% endfor %}

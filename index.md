@@ -6,7 +6,9 @@ mathjax: true
 ---
 {% include mathjax.html %}
 
-<img class="profile-pic" src="/images/MSDHeadshot.jpg">
+<div style="text-align: center; margin-bottom: 2rem;">
+    <img class="profile-pic" src="/images/MSDHeadshot.jpg" alt="Siddharth Maddali">
+</div>
 
 # Hello! 
 

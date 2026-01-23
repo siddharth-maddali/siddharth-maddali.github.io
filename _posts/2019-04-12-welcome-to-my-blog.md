@@ -1,5 +1,6 @@
 ---
 layout: new
+mathjax: true
 author: Siddharth Maddali
 tags: [ welcome ]
 ---
