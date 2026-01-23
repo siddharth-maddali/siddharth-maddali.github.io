@@ -34,8 +34,16 @@
       "Updated _includes/mathjax.html to automatically wrap all block equations in a <div class='math-scroll-wrapper'>.",
       "Styled .math-scroll-wrapper in css/new.css with a distinct background, border, and scroll behavior.",
       "Enforced right-aligned equation numbering by removing conflicting unconditional MathJax scripts from layouts and relying on _includes/mathjax.html configuration.",
-      "Ensured all blog posts have 'mathjax: true' in their front matter to trigger the wrapper script."
+      "Ensured all blog posts have 'mathjax: true' in their front matter to trigger the wrapper script.",
+      "Refined Wrapper Script: Used a broader DOM query (including script tag siblings) to reliably find MathJax 2.x elements.",
+      "Left-Aligned Equations: Configured MathJax to left-align all display equations with a 2em indent to improve mobile readability."
+    ],
+    "blog_section_updates": [
+      "Reformatted the blog menu (Latest, Categories, Archive) to be horizontal on both desktop and mobile.",
+      "Removed large inline font-sizes and replaced them with a responsive flexbox-based design in css/new.css.",
+      "Added hover effects and consistent uppercase styling to blog navigation links.",
+      "Word Cloud: Generated and embedded a responsive word cloud image (/images/blog/wordcloud.png) in ALL blog sections (Latest, Categories, Archive) below the menu."
     ]
   },
-  "instructions_for_future_sessions": "Read this file to understand the current CSS design system and responsive classes (.dropdown-menu, .profile-pic, .responsiveicon). Always maintain the centered image policy and mobile-first navigation logic. Ensure MathJax is configured via _includes/mathjax.html to keep equation numbers on the right and scrolling working."
+  "instructions_for_future_sessions": "Read this file to understand the current CSS design system and responsive classes (.dropdown-menu, .profile-pic, .responsiveicon). Always maintain the centered image policy and mobile-first navigation logic. Ensure MathJax is configured via _includes/mathjax.html to keep equation numbers on the right and scrolling working. Use the .blog-menu-list class for blog-related navigation."
 }

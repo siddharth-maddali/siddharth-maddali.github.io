@@ -22,6 +22,11 @@ POSTS=$(wildcard ${ROOT}/tweet-record/*.md)
 TWEETS=$(POSTS:.md=.tweet)
 ARCHIVE=${ROOT}/tweet-record/tweet-archive.zip
 
+# Word cloud variables
+BLOG_POSTS=$(wildcard ${ROOT}/_posts/*.md)
+WORDCLOUD_IMG=${ROOT}/images/blog/wordcloud.png
+WORDCLOUD_SCRIPT=${ROOT}/generate_wordcloud.py
+
 # generate all docs
 WEB=$(wildcard ${ROOT}/docs/{cv,resume}/*.tex)
 PDF=$(WEB:.tex=.pdf)
@@ -43,6 +48,10 @@ DOCCREATFLAGS=
 $(ARCHIVE):$(TWEETS)
 	$(ZIP) -rv $(ARCHIVE) $(TWEETS)
 
+# Generates word cloud if blog posts change
+$(WORDCLOUD_IMG): $(BLOG_POSTS)
+	python3 $(WORDCLOUD_SCRIPT)
+
 #--------------------------------------------------------------
 
 # builds pdfs from html pages in docs directory
@@ -56,7 +65,7 @@ $(DOCLIST):$(PDF)
 
 #--------------------------------------------------------------
 
-.PHONY: updatelinks tweet touch clean docs test
+.PHONY: updatelinks tweet touch clean docs test wordcloud
 
 # updatelinks: 
 #	creates symlinks of all new blog posts 
@@ -67,9 +76,14 @@ updatelinks:
 		awk '{ print $$(4); }' |\
 		xargs -I '{}' ln -s $(ROOT)/_posts/{} -t $(ROOT)/tweet-record/
 
+# wordcloud:
+#	Generates the word cloud image from blog posts.
+#	Only runs if blog posts have changed.
+wordcloud: $(WORDCLOUD_IMG)
+
 # tweet: 
 # 	build the target i.e., local copy of tweets, and eventually the archive.
-tweet: $(ARCHIVE)
+tweet: wordcloud $(ARCHIVE)
 
 # touch: 
 # 	Fast-forwards status of all blog posts as tweeted, regardless 

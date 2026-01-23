@@ -1,6 +1,6 @@
 - name: Latest
   link: /blog_latest
 - name: Categories
-  link: blog_categories
+  link: /blog_categories
 - name: Archive
-  link: blog_archive
+  link: /blog_archive
