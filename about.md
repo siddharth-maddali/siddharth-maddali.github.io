@@ -71,7 +71,7 @@ I occasionally post stuff that align with my interests, <font color="red"><stron
 </table> -->
 My wife <span class="notranslate">Ranjini</span> is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
 We met in Chennai as students way back in 2007.
-We have a daughter, <span class="notranslate">Sattva</span>.
+We have two kids, <span class="notranslate">Sattva</span> and <span class="notranslate">Kedar</span>.
 
 <figure>
     <img class="filled-width" src="/images/couple.jpg" class="responsiveimage" style="width: 60%;">
