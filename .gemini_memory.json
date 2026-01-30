@@ -1,5 +1,5 @@
 {
-  "session_date": "2026-01-22",
+  "session_date": "2026-01-29",
   "project": "Siddharth Maddali's Jekyll Website",
   "summary_of_changes": {
     "typography_and_base_styles": [
@@ -43,7 +43,60 @@
       "Removed large inline font-sizes and replaced them with a responsive flexbox-based design in css/new.css.",
       "Added hover effects and consistent uppercase styling to blog navigation links.",
       "Word Cloud: Generated and embedded a responsive word cloud image (/images/blog/wordcloud.png) in ALL blog sections (Latest, Categories, Archive) below the menu."
-    ]
+    ],
+    "removed_comments_archive": {
+      "_config.yml": [
+        "Config file is not reloaded automatically on 'bundle exec jekyll serve'. Restart required.",
+        "description: ignores newlines until 'baseurl:'.",
+        "google_cse_id: Custom search engine ID."
+      ],
+      "Makefile": [
+        "updatelinks: Creates symlinks of all new blog posts within the staging directory (tweet-record).",
+        "wordcloud: Generates wordcloud image from blog posts only if they change.",
+        "tweet: Builds local copy of tweets and archive.",
+        "touch: Fast-forwards status of all blog posts as tweeted (resets timestamps) to avoid re-tweeting edits.",
+        "clean: Removes record of auto-tweeted posts (WARNING: resetting this will tweet ALL posts).",
+        "docs: Rebuilds PDF documents from HTML/LaTeX sources."
+      ],
+      "update-site.sh": [
+        "Script automatically updates website content and auto-tweets new posts.",
+        "Intended to be a cron job.",
+        "updateResumeCV: Rebuilds CV/Resume PDFs using lualatex.",
+        "updateDocs: (Deprecated) Checks for running Jekyll server before building docs.",
+        "pushChanges: Commits and pushes changes.",
+        "requestCrawl: Pings Google sitemap (deprecated method)."
+      ],
+      "latexBuild_lua.sh": [
+        "Handles LaTeX compilation sequence (latex -> bibtex -> latex -> latex).",
+        "Uses 'latexpand' to flatten sources.",
+        "Creates uploadable ZIP packages of source files.",
+        "Checks for \listfiles command."
+      ],
+      "images/scrubMetadata.sh": [
+        "Uses exiftool to scrub metadata (GPS, Make, Model, etc.) from images.",
+        "Inserts Copyright notice."
+      ],
+      "professional/createPubStats.py": [
+        "Extracts citation stats from Google Scholar.",
+        "Written Dec 2023."
+      ],
+      "HTML_Layouts": [
+        "Removed MathJax from layouts to be handled exclusively by _includes/mathjax.html.",
+        "Removed specific Google Badge scripts."
+      ],
+      "generate_wordcloud.py": [
+        "Uses website palette colors (Slate Blue #8998ac, etc.).",
+        "Strips markdown front matter, code blocks, HTML, LaTeX, and links before processing.",
+        "Uses custom stopwords and matches background to site (#fdfdfd)."
+      ],
+      "update-bot.py": [
+        "Automates tweeting blog updates to @SidDarthious.",
+        "Mines XML for post metadata (title, excerpt, permalink).",
+        "Extracts handles from HTML comments and tags from markdown.",
+        "Handles Jekyll tag escaping for @ symbols.",
+        "TODO: Future implementation of <twitter-person> HTML tag for easier handle extraction."
+      ]
+    }
   },
-  "instructions_for_future_sessions": "Read this file to understand the current CSS design system and responsive classes (.dropdown-menu, .profile-pic, .responsiveicon). Always maintain the centered image policy and mobile-first navigation logic. Ensure MathJax is configured via _includes/mathjax.html to keep equation numbers on the right and scrolling working. Use the .blog-menu-list class for blog-related navigation."
+  "instructions_for_future_sessions": "Read this file to understand the current CSS design system and responsive classes (.dropdown-menu, .profile-pic, .responsiveicon). Always maintain the centered image policy and mobile-first navigation logic. Ensure MathJax is configured via _includes/mathjax.html to keep equation numbers on the right and scrolling working. Use the .blog-menu-list class for blog-related navigation. Refer to 'removed_comments_archive' for logic details previously documented in comments."
 }

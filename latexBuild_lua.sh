@@ -1,6 +1,4 @@
 #!/bin/bash -f
-
-# Initial preparation
 LERR="ERROR"
 LWRN="WARNING"
 CC=$( which lualatex )
@@ -14,12 +12,6 @@ HERE=$( pwd )
 TRASH=/dev/null
 FILELIST=files_$ROOT.log
 GIT=$( which git )
-
-# user-defined latex compiler
-
-
-######################### Custom routines #######################################
-
 function sanityCheck(){ 
 	if [[ -z $CC ]]; then echo $LERR: Latex compiler not found.; exit 1; else echo "$CC found."; fi
 	if [[ -z $BB ]]; then echo $LERR: Bibtex not found.; exit 1; else echo "$BB found."; fi
@@ -28,18 +20,12 @@ function sanityCheck(){
 	if [[ -z $TRASH ]]; then echo $LERR: /dev/null not found.; exit 1; else echo "$TRASH found."; fi
 	if [[ -z $GIT ]]; then echo $LERR: git not found.; exit 1; else echo "$GIT found."; fi
 }
-
 function switchTextToBibtex() {
-	# switch back from using .bbl file to using bibtex file in case
-	# this is being done.
 	echo "Hello world"
 	sed -i "s/^%\\\\bib/\\\\bib/g" $ROOT.tex
-	# sed -i "s/%^\\\\bibliography{/\\\\bibliography{/g" $ROOT.tex
 	sed -i "s/^\\\\bibsubimport/%\\\\bibsubimport/g" $ROOT.tex
 }
-
 function compileSequence() {
-	# compile assuming .bib file is being used
 	$CC $ROOT.tex 
 	$BB $ROOT.aux 
 	$CC $ROOT.tex
@@ -48,15 +34,11 @@ function compileSequence() {
 		xargs -I '{}' bash -c "ls {} 2>$TRASH" |\
 		grep -v "\.tex$\|\.out$\|\.aux$" > $FILELIST
 }
-
 function switchBackToPureLatex() {
-	# modify main file to use generated .bbl file
-	# Make sure there's a commented line that inputs the .bbl file.
 	sed -i "s/^\\\\bib/%&/" $ROOT.tex
 	sed -i "s/^\\\\bib/%&/" $ROOT.tex
 	sed -i "s/^%\\\\bibsubimport/\\\\bibsubimport/" $ROOT.tex
 }
-
 function updateUploadDirectory() { 
 	[[ -d "./upload_$ROOT" ]] && rm ./upload_$ROOT/*.*
 	[[ -e "./upload_$ROOT.zip" ]] && rm ./upload_$ROOT.zip
@@ -66,7 +48,6 @@ function updateUploadDirectory() {
 	"
 	$ZIP -r upload_$ROOT.zip upload_$ROOT/ -x upload_$ROOT/.git*
 }
-
 function createUploadPackage() {
 	if [[ -d "./upload_$ROOT" ]]; then  
 		updateUploadDirectory
@@ -81,8 +62,6 @@ function createUploadPackage() {
 		updateUploadDirectory
 	fi
 }
-
-###############################################################################
 grep "^\\\\listfiles$" $ROOT.tex
 if [[ $? -eq 0 ]]; then
 	sanityCheck

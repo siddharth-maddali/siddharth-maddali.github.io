@@ -1,20 +1,6 @@
-<!--	<table style="width:75%;"> -->
+
 {% for item in site.data.software %}
-<!--
-<tr>
-	<td>
-		<h2>{{ item.name }}<a href="{{ item.link }}">   <img src="/images/Web.svg"></a></h2>
-		<b>Description</b>: {{ item.blurb }}<br/>
-		<b>Language(s)</b>: {{item.langs }}<br/>
-		<b>Hardware</b>: {{ item.hardware }}
-	</td>
-	<td>
-		<figure>
-			<img src="{{ item.logo }}" style="width:60%">
-		</figure>
-	</td>
-</tr>
--->
+
 <ul class="flex-container">
 	<li class="flex-item">
 		<h2>{{ item.name }}<a href="{{ item.link }}">   <img src="/images/Web.svg"></a></h2>
@@ -29,4 +15,4 @@
 	</li>
 </ul>
 {% endfor %}
-<!--	</table> -->
+
