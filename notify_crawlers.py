@@ -31,35 +31,9 @@ def notify_indexnow():
     except Exception as e:
         print(f"Error notifying IndexNow: {e}")
 
-def notify_google():
-    """Pings Google Sitemap (Legacy)."""
-    # Note: Google deprecated the ping endpoint in Dec 2023, but it's harmless and sometimes still logged.
-    # The 'best' way for Google is really just ensuring sitemap.xml is in robots.txt (which it is).
-    ping_url = f"https://www.google.com/ping?sitemap={SITEMAP_URL}"
-    try:
-        response = requests.get(ping_url)
-        if response.status_code == 200:
-            print("Successfully pinged Google Sitemap.")
-        else:
-            print(f"Google Sitemap ping failed: {response.status_code}")
-    except Exception as e:
-        print(f"Error pinging Google: {e}")
-
-def notify_bing_legacy():
-    """Pings Bing Sitemap (Legacy)."""
-    ping_url = f"https://www.bing.com/ping?sitemap={SITEMAP_URL}"
-    try:
-        response = requests.get(ping_url)
-        if response.status_code == 200:
-            print("Successfully pinged Bing Sitemap.")
-        else:
-            print(f"Bing Sitemap ping failed: {response.status_code}")
-    except Exception as e:
-        print(f"Error pinging Bing: {e}")
-
 if __name__ == "__main__":
     print("Notifying crawlers...")
+    # Google and Bing Legacy sitemap pings are deprecated (404/410).
+    # Google now relies solely on robots.txt (Sitemap directive) and Search Console.
     notify_indexnow()
-    notify_google()
-    notify_bing_legacy()
     print("Done.")
