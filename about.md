@@ -55,8 +55,8 @@ Still, it was nice to see downtown Pittsburgh and the Carnegie Mellon University
 At other times, I'm usually playing squash, swimming, looking to learn new math and physics stuff completely orthogonal to my work, trying to achieve Linux supremacy and automate my life, contributing to open-source software or drinking new beers I come across (after all, I am a Bangalorean!).
 I am a big fan of the great outdoors and have absolutely loved every single one of my hikes, treks and visits to national and state parks around the US.
 I am appropriately wary of social media but nevertheless get my daily internet fix through a variety of aggregators. 
-The ones I used to favor have been taken over by misguided, part-time free-speech warrior billionaires with an infinitesimal knowledge of social media. 
-I occasionally post stuff that align with my interests, <font color="red"><strong>but don't bother looking for me on Facebook, Instagram or Tik-Tok</strong></font>.
+The ones I used to favor have been taken over by thin-skinned billionaires sporting an infinitesimal knowledge of free speech and social media. 
+I occasionally post stuff that align with my interests, but <font color="red"><strong>don't bother looking for me on Facebook, Instagram or Tik-Tok</strong></font>.
 
 
 My wife <span class="notranslate">Ranjini</span> is from Kochi, India, a mathematician by training, data scientist by trade and Carnatic music enthusiast.
