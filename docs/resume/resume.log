@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2026.1.30)  18 FEB 2026 15:08
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2026.1.30)  8 APR 2026 00:06
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -578,23 +578,24 @@ Overfull \hbox (2.21999pt too wide) in paragraph at lines 1--11
 LaTeX Font Warning: Font shape `TU/TwemojiMozilla(0)/bx/n' undefined
 (Font)              using `TU/TwemojiMozilla(0)/m/n' instead on input line 12.
 
-(./components/experiences/Liminal.tex) (./components/experiences/Consultant.tex
-) (./components/experiences/KLA.tex) (./components/experiences/ANL.tex)
-(./components/experiences/NETL.tex) (./components/experiences/CMU.tex)
-(./components/education/education.tex
+(./components/experiences/Tesla.tex) (./components/experiences/Liminal.tex)
+(./components/experiences/Consultant.tex) (./components/experiences/KLA.tex)
+(./components/experiences/ANL.tex) (./components/experiences/NETL.tex)
+(./components/experiences/CMU.tex) (./components/education/education.tex
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 2.
-) (./components/skills.tex
+)
+(./components/skills.tex [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./components//../components/
+smaddali_qr.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./components//../components/
-smaddali_qr.png>]) (./components/awards/awards.tex) (./components/outreach.tex)
-(./components/publications.tex) (./components/languages.tex)
-(./components/references.tex) [2] (./resume.aux)
+) (./components/awards/awards.tex) (./components/outreach.tex) (./components/pu
+blications.tex)
+(./components/languages.tex) (./components/references.tex) [2] (./resume.aux)
 
  *File List*
  article.cls    2021/10/04 v1.4n Standard LaTeX document class
@@ -673,6 +674,7 @@ gettitlestring.sty    2019/12/15 v1.6 Cleanup title references (HO)
   resume.out
 components/background.tex
 components//../components/smaddali_qr.png
+components/experiences/Tesla.tex
 components/experiences/Liminal.tex
 components/experiences/Consultant.tex
 components/experiences/KLA.tex
@@ -696,16 +698,16 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19385 strings out of 477805
+ 19400 strings out of 477805
  156265,794899 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1171,3:786,4:283,5:761,6:169,7:15131,8:64,9:653,10:6,11:13
-06
- 39369 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:1194,3:802,4:289,5:702,6:172,7:14266,8:64,9:641,10:6,11:12
+01
+ 39372 multiletter control sequences out of 65536+600000
  46 fonts using 12967271 bytes
- 83i,6n,93p,393b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,6n,93p,393b,452s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmsans10-oblique.otf></usr/share/texlive/texmf-dist/fo
 nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
@@ -713,7 +715,7 @@ nts/opentype/public/fontawesome/FontAwesome.otf></usr/share/texmf/fonts/opentype
 o10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/twemoji-col
 r/TwemojiMozilla.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans10-bold.ot
 f></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on resume.pdf (2 pages, 52811 bytes).
+Output written on resume.pdf (2 pages, 52966 bytes).
 
 PDF statistics: 120 PDF objects out of 1000 (max. 8388607)
  92 compressed objects within 1 object stream
